@@ -62,6 +62,10 @@ ZSH_THEME="jonathan"
 # see 'man strftime' for details.
 # HIST_STAMPS="mm/dd/yyyy"
 
+# If a new command line being added to the history list duplicates an older one, the
+# older command is removed from the list (even if it is not the previous event).
+HIST_IGNORE_ALL_DUPS="true"
+
 # Would you like to use another custom folder than $ZSH/custom?
 # ZSH_CUSTOM=/path/to/new-custom-folder
 
