@@ -1,2 +1,3 @@
 # dotfiles
-Dotfiles &amp; Configs
+Dotfiles &amp; Configs:
+- zsh;
