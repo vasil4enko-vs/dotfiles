@@ -1,7 +1,6 @@
 # dotfiles
 
-## Dotfiles: &amp; Configs:
+## Dotfiles &amp; Configs
 
-- bash;
 - zsh;
-- neofetch
+- fastfetch
