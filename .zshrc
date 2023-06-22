@@ -3,7 +3,7 @@
 #
 
 
-### Lines configured by vvs
+### Personal lines configured
 #
 ## fastfetch
 fastfetch
@@ -33,13 +33,19 @@ source /usr/share/cachyos-zsh-config/cachyos-config.zsh
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(poetry colorize bgnotify)
+plugins=(colorize poetry docker docker-compose)
 
 
 
-### Lines configured by vvs
+### Personal lines configured
+#
+## Pygments styles.
+ZSH_COLORIZE_STYLE="colorful"
 #
 ## thefuck
 eval $(thefuck --alias)
 #
+## Personal aliases
+# Extracts the archive file
+alias ext="extract"
 ### End lines configured by vvs
