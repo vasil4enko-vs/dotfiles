@@ -33,7 +33,7 @@ source /usr/share/cachyos-zsh-config/cachyos-config.zsh
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(colorize poetry docker docker-compose)
+plugins=(colorize sudo gh gitignore pyenv poetry docker docker-compose)
 
 
 
