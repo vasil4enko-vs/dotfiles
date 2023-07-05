@@ -23,7 +23,7 @@ fi
 
 
 # From https://github.com/CachyOS/cachyos-zsh-config
-source /usr/share/cachyos-zsh-config/cachyos-config.zsh
+source ~/.cachyos-config.zsh
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
@@ -33,7 +33,7 @@ source /usr/share/cachyos-zsh-config/cachyos-config.zsh
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(colorize sudo gh gitignore pyenv poetry docker docker-compose)
+plugins=(colorize sudo gh gitignore pyenv poetry ruff docker docker-compose)
 
 
 
@@ -44,6 +44,11 @@ ZSH_COLORIZE_STYLE="colorful"
 #
 ## thefuck
 eval $(thefuck --alias)
+#
+## pyenv
+export PYENV_ROOT="$HOME/.pyenv"
+command -v pyenv >/dev/null || export PATH="$PYENV_ROOT/bin:$PATH"
+eval "$(pyenv init -)"
 #
 ## Personal aliases
 # Extracts the archive file
