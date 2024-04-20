@@ -113,7 +113,7 @@ bindkey -e
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(colorize sudo gh gitignore pyenv npm docker docker-compose)
+plugins=(colorize sudo gh gitignore pyenv rye ruff npm docker docker-compose)
 #
 ### End lines carried over from /usr/share/oh-my-zsh/zshrc
 
