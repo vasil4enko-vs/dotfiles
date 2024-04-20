@@ -113,12 +113,12 @@ bindkey -e
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(colorize sudo gh gitignore pyenv ruff npm docker docker-compose)
+plugins=(colorize sudo gh gitignore pyenv npm docker docker-compose)
 #
 ### End lines carried over from /usr/share/oh-my-zsh/zshrc
 
 
-## User configuration
+### User configuration
 #
 # export MANPATH="/usr/local/man:$MANPATH"
 #
@@ -151,7 +151,7 @@ fi
 #
 # source $ZSH/oh-my-zsh.sh
 #
-### End lines carried over from /usr/share/oh-my-zsh/zshrc
+### End user configuration
 
 
 ### The following lines were added by compinstall
@@ -193,6 +193,10 @@ eval $(thefuck --alias)
 export PYENV_ROOT="$HOME/.pyenv"
 [[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"
 eval "$(pyenv init -)"
+#
+## ruff
+fpath+=~/.zfunc
+autoload -Uz compinit && compinit
 #
 ## Personal aliases
 # Extracts the archive file
