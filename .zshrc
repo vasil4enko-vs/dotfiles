@@ -177,7 +177,7 @@ compinit
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 #
-alias ls='ls --color=auto'
+# alias ls='ls --color=auto'  # ls заменён на eza
 alias grep='grep --color=auto'
 #
 ### End lines carried over from ~/.bashrc
@@ -193,6 +193,12 @@ alias grep='grep --color=auto'
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+#
+## eza - A modern, maintained replacement for ls
+if [ -x "$(command -v eza)" ]; then
+    alias ls="eza"
+    alias la="eza --long --all --group"
+fi
 #
 ## thefuck
 eval $(thefuck --alias)
@@ -218,9 +224,6 @@ alias ext="extract"
 # source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
 #
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
-# [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 #
 ### End lines for Powerlevel10k
-
-# To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
-[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
