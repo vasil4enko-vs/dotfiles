@@ -200,6 +200,18 @@ if [ -x "$(command -v eza)" ]; then
     alias la="eza --long --all --group"
 fi
 #
+## bat - A cat(1) clone with wings.
+alias cat="bat"
+#
+## duf - Disk Usage/Free Utility - a better 'df' alternative
+alias df="duf"
+#
+## tldr - Collaborative cheatsheets for console commands ('man' alternative)
+alias man="tldr"
+#
+## fd - Simple, fast and user-friendly alternative to find
+alias find="fd"
+#
 ## thefuck
 eval $(thefuck --alias)
 #
