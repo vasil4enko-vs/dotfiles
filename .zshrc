@@ -194,27 +194,33 @@ alias grep='grep --color=auto'
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #
-## eza - A modern, maintained replacement for ls
+
+## Personal aliases
+# Extracts the archive file
+alias ext="extract"
+#
+# eza - A modern, maintained replacement for ls
 if [ -x "$(command -v eza)" ]; then
     alias ls="eza"
     alias la="eza --long --all --group"
 fi
 #
-## bat - A cat(1) clone with wings.
+# bat - A cat(1) clone with wings.
 alias cat="bat"
 #
-## duf - Disk Usage/Free Utility - a better 'df' alternative
+# duf - Disk Usage/Free Utility - a better 'df' alternative
 alias df="duf"
 #
-## tldr - Collaborative cheatsheets for console commands ('man' alternative)
+# tldr - Collaborative cheatsheets for console commands ('man' alternative)
 alias man="tldr"
 #
-## fd - Simple, fast and user-friendly alternative to find
+# fd - Simple, fast and user-friendly alternative to find
 alias find="fd"
 #
-## thefuck
+# thefuck
 eval $(thefuck --alias)
 #
+
 ## pyenv
 export PYENV_ROOT="$HOME/.pyenv"
 [[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"
@@ -223,10 +229,6 @@ eval "$(pyenv init -)"
 ## ruff
 fpath+=~/.zfunc
 autoload -Uz compinit && compinit
-#
-## Personal aliases
-# Extracts the archive file
-alias ext="extract"
 #
 ### End personal lines configuration
 
