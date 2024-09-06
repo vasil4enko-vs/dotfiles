@@ -2,6 +2,9 @@
 # ~/.zshrc
 #
 
+#
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+#
 
 ### Personal lines configuration
 #
@@ -12,11 +15,16 @@ fastfetch
 fortune 95% ru 5% en | cowsay -f eyes
 #
 ## From https://github.com/CachyOS/cachyos-zsh-config
-source ~/.cachyos-zsh-config/cachyos-config.zsh
+# source ~/.cachyos-zsh-config/cachyos-config.zsh
 #
 ### End personal lines configuration
 
+#
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+#
 
+### Lines for Powerlevel10k
+#
 # Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
 # Initialization code that may require console input (password prompts, [y/n]
 # confirmations, etc.) must go above this block; everything else may go below.
@@ -24,18 +32,9 @@ if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]
   source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
 fi
 
-
-### Lines for Powerlevel10k
 #
-# Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
-# Initialization code that may require console input (password prompts, [y/n]
-# confirmations, etc.) must go above this block; everything else may go below.
-# if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
-#   source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
-# fi
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 #
-### End lines for Powerlevel10k
-
 
 ### Lines configured by zsh-newuser-install
 #
@@ -46,6 +45,9 @@ bindkey -e
 #
 ### End of lines configured by zsh-newuser-install
 
+#
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+#
 
 ### Lines carried over from /usr/share/oh-my-zsh/zshrc
 #
@@ -53,7 +55,7 @@ bindkey -e
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 #
 # Path to your oh-my-zsh installation.
-# ZSH=/usr/share/oh-my-zsh/
+export ZSH="/usr/share/oh-my-zsh"
 #
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -98,7 +100,7 @@ bindkey -e
 # You can also set it to another string to have that shown instead of the default red dots.
 # e.g. COMPLETION_WAITING_DOTS="%F{yellow}waiting...%f"
 # Caution: this setting can cause issues with multiline prompts in zsh < 5.7.1 (see #5765)
-# COMPLETION_WAITING_DOTS="true"
+COMPLETION_WAITING_DOTS="true"
 #
 # Uncomment the following line if you want to disable marking untracked files
 # under VCS as dirty. This makes repository status check for large repositories
@@ -121,12 +123,41 @@ bindkey -e
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(colorize sudo gh gitignore pyenv rye ruff npm docker docker-compose)
+plugins=(colorize z sudo git fzf extract gh gitignore npm docker docker-compose)
 #
 ### End lines carried over from /usr/share/oh-my-zsh/zshrc
 
+#
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+#
 
-### User configuration
+ZSH_CACHE_DIR=$HOME/.cache/oh-my-zsh
+if [[ ! -d $ZSH_CACHE_DIR ]]; then
+  mkdir $ZSH_CACHE_DIR
+fi
+#
+source $ZSH/oh-my-zsh.sh
+
+#
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+#
+
+### The following lines were added by compinstall
+#
+zstyle :compinstall filename '~/.zshrc'
+#
+autoload -Uz compinit
+compinit
+#
+### End of lines added by compinstall
+
+#
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+#
+
+# User configuration
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 #
 # export MANPATH="/usr/local/man:$MANPATH"
 #
@@ -139,70 +170,83 @@ plugins=(colorize sudo gh gitignore pyenv rye ruff npm docker docker-compose)
 # else
 #   export EDITOR='mvim'
 # fi
+export EDITOR='nvim'
 #
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
 #
-# Set personal aliases, overriding those provided by oh-my-zsh libs,
-# plugins, and themes. Aliases can be placed here, though oh-my-zsh
-# users are encouraged to define aliases within the ZSH_CUSTOM folder.
-# For a full list of active aliases, run `alias`.
-#
-# Example aliases
-# alias zshconfig="mate ~/.zshrc"
-# alias ohmyzsh="mate ~/.oh-my-zsh"
-#
-ZSH_CACHE_DIR=$HOME/.cache/oh-my-zsh
-if [[ ! -d $ZSH_CACHE_DIR ]]; then
-  mkdir $ZSH_CACHE_DIR
-fi
-#
-# source $ZSH/oh-my-zsh.sh
-#
-### End user configuration
 
+# Ignore commands that start with spaces and duplicates.
 
-### The following lines were added by compinstall
-#
-zstyle :compinstall filename '~/.zshrc'
-#
-autoload -Uz compinit
-compinit
-#
-### End of lines added by compinstall
+export HISTCONTROL=ignoreboth
 
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-### Lines carried over from ~/.bashrc
-#
-# If not running interactively, don't do anything
-[[ $- != *i* ]] && return
-#
-# alias ls='ls --color=auto'  # ls заменён на eza
-alias grep='grep --color=auto'
-#
-### End lines carried over from ~/.bashrc
+# Don't add certain commands to the history file.
 
+export HISTIGNORE="&:[bf]g:c:clear:history:exit:q:pwd:* --help"
 
-### Personal lines configuration
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+# Use custom `less` colors for `man` pages.
+
+export LESS_TERMCAP_md="$(tput bold 2> /dev/null; tput setaf 2 2> /dev/null)"
+export LESS_TERMCAP_me="$(tput sgr0 2> /dev/null)"
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+# Make new shells get the history lines from all previous
+# shells instead of the default "last window closed" history.
+
+export PROMPT_COMMAND="history -a; $PROMPT_COMMAND"
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+## Alias from https://github.com/CachyOS/cachyos-zsh-config
 #
 # Set personal aliases, overriding those provided by oh-my-zsh libs,
 # plugins, and themes. Aliases can be placed here, though oh-my-zsh
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
-# For a full list of active aliases, run `alias`.
-#
-# Example aliases
-# alias zshconfig="mate ~/.zshrc"
-# alias ohmyzsh="mate ~/.oh-my-zsh"
-#
+#alias open="xdg-open"
+alias make="make -j`nproc`"
+alias ninja="ninja -j`nproc`"
+alias n="ninja"
+alias c="clear"
+alias rmpkg="sudo pacman -Rsn"
+alias cleanch="sudo pacman -Scc"
+alias fixpacman="sudo rm /var/lib/pacman/db.lck"
+alias update="sudo pacman -Syu"
 
-## Personal aliases
+# Help people new to Arch
+alias apt="man pacman"
+alias apt-get="man pacman"
+alias please="sudo"
+alias tb="nc termbin.com 9999"
+
+# Cleanup orphaned packages
+alias cleanup="sudo pacman -Rsn $(pacman -Qtdq)"
+
+# Get the error messages from journalctl
+alias jctl="journalctl -p 3 -xb"
+
+# Recent installed packages
+alias rip="expac --timefmt='%Y-%m-%d %T' '%l\t%n %v' | sort | tail -200 | nl"
+#
+## End alias from https://github.com/CachyOS/cachyos-zsh-config
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+## User aliases
+#
 # Extracts the archive file
 alias ext="extract"
 #
 # eza - A modern, maintained replacement for ls
 if [ -x "$(command -v eza)" ]; then
-    alias ls="eza"
-    alias la="eza --long --all --group"
+    # alias ls="eza"
+    alias ls="eza --tree --level=1 --icons=always --no-time --no-user --no-permissions"
+    # alias la="eza --long --all --group"
+    alias la="eza --tree --level=1 --icons=always --long --all --group"
 fi
 #
 # bat - A cat(1) clone with wings.
@@ -217,27 +261,54 @@ alias man="tldr"
 # fd - Simple, fast and user-friendly alternative to find
 alias find="fd"
 #
+## User aliases
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
 # thefuck
 eval $(thefuck --alias)
 #
-
-## pyenv
-export PYENV_ROOT="$HOME/.pyenv"
-[[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"
-eval "$(pyenv init -)"
+## fzf
+# export FZF_BASE="/usr/bin/"
+# export FZF_BASE=/usr/share/fzf
+export FZF_DEFAULT_COMMAND="fd"
+DISABLE_FZF_AUTO_COMPLETION="false"
+DISABLE_FZF_KEY_BINDINGS="false"
+# Preview file content using bat (https://github.com/sharkdp/bat)
+export FZF_CTRL_T_OPTS="
+  --walker-skip .git,node_modules,target
+  --preview 'bat -n --color=always {}'
+  --bind 'ctrl-/:change-preview-window(down|hidden|)'"
 #
-## ruff
+## z
+source /usr/share/oh-my-zsh/plugins/z/z.plugin.zsh
+#
+## ruff, uv
 fpath+=~/.zfunc
 autoload -Uz compinit && compinit
 #
-### End personal lines configuration
+## Add PATH ~/.local/bin
+export PATH="~/.local/bin:$PATH"
+#
+### End User configuration
 
+#
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+#
 
 ### Lines for Powerlevel10k
-#
-# source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
-#
+source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
+
+# Fish-like syntax highlighting and autosuggestions
+source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
+
+# Use history substring search
+source /usr/share/zsh/plugins/zsh-history-substring-search/zsh-history-substring-search.zsh
+
+# pkgfile "command not found" handler
+source /usr/share/doc/pkgfile/command-not-found.zsh
+
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
-#
-### End lines for Powerlevel10k
+

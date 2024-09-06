@@ -1,12 +1,7 @@
 ### Personal lines configured
 #
-## pyenv
-export PYENV_ROOT="$HOME/.pyenv"
-[[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"
-eval "$(pyenv init -)"
-#
-## rye
-source "$HOME/.rye/env"
+# npm
+export PATH=${HOME}/.npm-global/bin:$PATH
 #
 ### End personal lines configured
 
