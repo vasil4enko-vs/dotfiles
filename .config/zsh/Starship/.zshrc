@@ -266,7 +266,27 @@ alias lazyvim='NVIM_APPNAME=nvim-lazyvim nvim' # LazyVim
 alias nvchad='NVIM_APPNAME=nvim-nvchad nvim' # NvChad
 alias astrovim='NVIM_APPNAME=nvim-astrovim nvim' # AstroVim
 #
-## User aliases
+## End user aliases
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+# Use select to list your configs so you can choose one
+sv() {
+  select config in astrovim lazyvim nvchad
+  do NVIM_APPNAME=nvim-$config nvim $@; break; done
+}
+#
+# Use fzf to list your configs so you can choose one
+vv() {
+  # Assumes all configs exist in directories named ~/.config/nvim-*
+  local config=$(fd --max-depth 1 --glob 'nvim-*' ~/.config | fzf --prompt="Neovim Configs > " --height=~50% --layout=reverse --border --exit-0)
+
+  # If I exit fzf without selecting a config, don't open Neovim
+  [[ -z $config ]] && echo "No config selected" && return
+
+  # Open Neovim with the selected config
+  NVIM_APPNAME=$(basename $config) nvim $@
+}
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -314,4 +334,3 @@ source /usr/share/doc/pkgfile/command-not-found.zsh
 #
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 #
-
