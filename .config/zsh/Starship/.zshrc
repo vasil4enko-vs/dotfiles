@@ -22,6 +22,13 @@ fortune 95% ru 5% en | cowsay -f eyes
 #
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 #
+### initialize Starship
+eval "$(starship init zsh)"
+export STARSHIP_CONFIG="~/.config/zsh/Starship/starship.toml"
+
+#
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+#
 
 ### Lines configured by zsh-newuser-install
 #
@@ -308,6 +315,3 @@ source /usr/share/doc/pkgfile/command-not-found.zsh
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 #
 
-### initialize Starship
-eval "$(starship init zsh)"
-export STARSHIP_CONFIG="~/.config/zsh/Starship/starship.toml"

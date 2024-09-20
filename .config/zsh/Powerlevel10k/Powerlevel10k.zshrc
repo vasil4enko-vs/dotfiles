@@ -12,7 +12,7 @@
 fastfetch
 #
 ## fortune & cowsay
-fortune 95% ru 5% en | cowsay -f eyes
+# fortune 95% ru 5% en | cowsay -f eyes
 #
 ## From https://github.com/CachyOS/cachyos-zsh-config
 # source ~/.cachyos-zsh-config/cachyos-config.zsh
@@ -31,6 +31,8 @@ fortune 95% ru 5% en | cowsay -f eyes
 if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
   source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
 fi
+# To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
+[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
 #
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -324,6 +326,4 @@ source /usr/share/doc/pkgfile/command-not-found.zsh
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 #
 
-# To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
-[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
