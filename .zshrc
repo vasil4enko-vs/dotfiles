@@ -266,10 +266,12 @@ alias v='nvim' # default Neovim config
 alias vz='NVIM_APPNAME=nvim-lazyvim nvim' # LazyVim
 alias vc='NVIM_APPNAME=nvim-nvchad nvim' # NvChad
 alias va='NVIM_APPNAME=nvim-astrovim nvim' # AstroVim
+alias vl='lvim' # LunarVim
 #
 alias lazyvim='NVIM_APPNAME=nvim-lazyvim nvim' # LazyVim
 alias nvchad='NVIM_APPNAME=nvim-nvchad nvim' # NvChad
 alias astrovim='NVIM_APPNAME=nvim-astrovim nvim' # AstroVim
+alias lunarvim='lvim' # LunarVim
 #
 ## End user aliases
 
@@ -318,7 +320,9 @@ fpath+=~/.zfunc
 autoload -Uz compinit && compinit
 #
 ## Added PATH
+# ~/.local/bin
 export PATH=~/.local/bin:$PATH
+# cargo
 export PATH=~/.cargo/bin:$PATH
 #
 ### End User configuration
