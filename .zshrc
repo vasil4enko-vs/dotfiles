@@ -122,7 +122,7 @@ COMPLETION_WAITING_DOTS="true"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(colorize z sudo git fzf extract gh gitignore npm docker docker-compose)
+plugins=(colorize sudo git fzf extract gh gitignore npm docker docker-compose)
 #
 ### End lines carried over from /usr/share/oh-my-zsh/zshrc
 
@@ -312,8 +312,8 @@ export FZF_CTRL_T_OPTS="
   --preview 'bat -n --color=always {}'
   --bind 'ctrl-/:change-preview-window(down|hidden|)'"
 #
-## z
-source /usr/share/oh-my-zsh/plugins/z/z.plugin.zsh
+## zoxide
+eval "$(zoxide init zsh)"
 #
 ## ruff, uv
 fpath+=~/.zfunc
