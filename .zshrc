@@ -263,11 +263,13 @@ alias find="fd"
 # Neovim - hyperextensible Vim-based text editor
 # Switching Configs in Neovim
 alias v='nvim' # default Neovim config
+alias vk='NVIM_APPNAME=nvim-kickstart nvim' # kickstart.nvim
 alias vz='NVIM_APPNAME=nvim-lazyvim nvim' # LazyVim
 alias vc='NVIM_APPNAME=nvim-nvchad nvim' # NvChad
 alias va='NVIM_APPNAME=nvim-astrovim nvim' # AstroVim
 alias vl='lvim' # LunarVim
 #
+alias lazyvim='NVIM_APPNAME=nvim-kickstart nvim' # kickstart.nvim
 alias lazyvim='NVIM_APPNAME=nvim-lazyvim nvim' # LazyVim
 alias nvchad='NVIM_APPNAME=nvim-nvchad nvim' # NvChad
 alias astrovim='NVIM_APPNAME=nvim-astrovim nvim' # AstroVim
@@ -279,7 +281,7 @@ alias lunarvim='lvim' # LunarVim
 
 # Use select to list your configs so you can choose one
 sv() {
-  select config in astrovim lazyvim nvchad
+  select config in astrovim kickstart lazyvim nvchad
   do NVIM_APPNAME=nvim-$config nvim $@; break; done
 }
 #
