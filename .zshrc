@@ -154,7 +154,7 @@ compinit
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 #
 
-# User configuration
+### User configuration
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 #
@@ -294,6 +294,11 @@ vv() {
   # Open Neovim with the selected config
   NVIM_APPNAME=$(basename $config) nvim $@
 }
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+# Find the file using fzf and open it in Neovim
+alias ins='nvim $(fzf -m --preview="bat --theme=gruvbox-dark --color=always {}")'
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
