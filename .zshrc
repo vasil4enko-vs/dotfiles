@@ -6,6 +6,24 @@
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 #
 
+### Lazyman configuration
+#
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+# Source the Lazyman shell initialization for aliases and nvims selector
+# shellcheck source=.config/nvim-Lazyman/.lazymanrc
+[ -f ~/.config/nvim-Lazyman/.lazymanrc ] && source ~/.config/nvim-Lazyman/.lazymanrc
+# Source the Lazyman .nvimsbind for nvims key binding
+# shellcheck source=.config/nvim-Lazyman/.nvimsbind
+[ -f ~/.config/nvim-Lazyman/.nvimsbind ] && source ~/.config/nvim-Lazyman/.nvimsbind
+#
+### End Lazyman configuration
+
+#
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+#
+
 ### Personal lines configuration
 #
 ## fastfetch
@@ -155,7 +173,7 @@ compinit
 #
 
 ### User configuration
-
+#
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 #
 # export MANPATH="/usr/local/man:$MANPATH"
@@ -307,6 +325,16 @@ alias ins='nvim $(fzf -m --preview="bat --theme=gruvbox-dark --color=always {}")
 # thefuck
 eval $(thefuck --alias)
 #
+## yazi - Blazing fast terminal file manager written in Rust, based on async I/O.
+function y() {
+	local tmp="$(mktemp -t "yazi-cwd.XXXXXX")"
+	yazi "$@" --cwd-file="$tmp"
+	if cwd="$(command cat -- "$tmp")" && [ -n "$cwd" ] && [ "$cwd" != "$PWD" ]; then
+		builtin cd -- "$cwd"
+	fi
+	rm -f -- "$tmp"
+}
+#
 ## fzf
 # export FZF_BASE="/usr/bin/"
 # export FZF_BASE=/usr/share/fzf
@@ -351,4 +379,3 @@ source /usr/share/doc/pkgfile/command-not-found.zsh
 #
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 #
-
