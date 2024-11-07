@@ -1,6 +1,6 @@
-if true then
+--[[if true then
     return {}
-end -- WARN: REMOVE THIS LINE TO ACTIVATE THIS FILE
+end ]]-- WARN: REMOVE THIS LINE TO ACTIVATE THIS FILE
 
 -- AstroCore provides a central place to modify mappings, vim options, autocommands, and more!
 -- Configuration documentation can be found with `:h astrocore`
@@ -42,7 +42,6 @@ return {
             },
         },
         -- Mappings can be configured through AstroCore as well.
-        -- NOTE: keycodes follow the casing in the vimdocs. For example, `<Leader>` must be capitalized
         mappings = {
             -- first key is the mode
             n = {
@@ -82,3 +81,4 @@ return {
         },
     },
 }
+

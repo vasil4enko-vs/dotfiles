@@ -8,6 +8,7 @@
 return {
     "AstroNvim/astrocommunity",
     -- Support for programming languages
+    { import = "astrocommunity.pack.bash" },
     { import = "astrocommunity.pack.lua" },
     { import = "astrocommunity.pack.python-ruff" },
     { import = "astrocommunity.pack.toml" },
@@ -21,8 +22,7 @@ return {
     { import = "astrocommunity.colorscheme.catppuccin" },
     -- Bars and lines
     { import = "astrocommunity.bars-and-lines.bufferline-nvim" },
-    { import = "astrocommunity.bars-and-lines.dropbar-nvim" },
-    { import = "astrocommunity.recipes.heirline-mode-text-statusline" },
+    -- { import = "astrocommunity.bars-and-lines.dropbar-nvim" },
 
     -- import/override with your plugins folder
 }

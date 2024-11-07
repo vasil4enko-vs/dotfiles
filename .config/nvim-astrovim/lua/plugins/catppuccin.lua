@@ -9,14 +9,14 @@ return {
             conditionals = { "italic" },
             loops = {},
             functions = { "italic" },
-            keywords = { "bold", "italic" },
+            keywords = { "italic" },
             strings = {},
             variables = {},
             numbers = {},
-            booleans = {},
+            booleans = { "italic" },
             properties = {},
-            types = {},
-            operators = {},
+            types = {"italic"},
+            operators = {"italic"},
             -- miscs = {}, -- Uncomment to turn off hard-coded styles
         },
         integrations = {
