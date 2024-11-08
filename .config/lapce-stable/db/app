@@ -1,0 +1,25 @@
+{
+  "windows": [
+    {
+      "size": {
+        "width": 1920.0,
+        "height": 1036.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "maximised": false,
+      "tabs": {
+        "active_tab": 0,
+        "workspaces": [
+          {
+            "kind": "Local",
+            "path": "/home/scyth1an/Projects/GitHub/Development-Learning/Learn_Python",
+            "last_open": 1717074560
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+[FileDialogSize]
+1920x1080 screen: Height=774
+1920x1080 screen: Width=1395
+
+[KFileDialog Settings]
+detailViewIconSize=32
+
+[UiSettings]
+ColorScheme=Gently

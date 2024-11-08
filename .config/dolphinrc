@@ -1,0 +1,30 @@
+[ContextMenu]
+ShowCopyMoveMenu=true
+
+[FileDialogSize]
+1920x1080 screen: Height=676
+1920x1080 screen: Width=960
+
+[General]
+ShowFullPath=true
+UseTabForSwitchingSplitView=true
+Version=202
+ViewPropsTimestamp=2024,3,12,17,42,44.32
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=32
+detailViewIconSize=32
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[PlacesPanel]
+IconSize=32
+
+[PreviewSettings]
+Plugins=appimagethumbnail,ffmpegthumbs,opendocumentthumbnail,kraorathumbnail,imagethumbnail,exrthumbnail,jpegthumbnail,windowsimagethumbnail,svgthumbnail,windowsexethumbnail,comicbookthumbnail,directorythumbnail,blenderthumbnail,djvuthumbnail,gsthumbnail,cursorthumbnail,fontthumbnail,rawthumbnail,ebookthumbnail,mobithumbnail
+
+[VersionControl]
+enabledPlugins=Dropbox,Git

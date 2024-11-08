@@ -1,0 +1,11 @@
+{
+  "fontFamilyUnset": false,
+  "taskColor": true,
+  "taskBold": true,
+  "headingLeftSidebarMenu": "",
+  "removeMenuGraphView": false,
+  "leftSidebarMenuHeight": true,
+  "leftSidebarMenuJustifyContent": "unset",
+  "leftSidebarMenuBackground": "Theme color",
+  "disabled": false
+}

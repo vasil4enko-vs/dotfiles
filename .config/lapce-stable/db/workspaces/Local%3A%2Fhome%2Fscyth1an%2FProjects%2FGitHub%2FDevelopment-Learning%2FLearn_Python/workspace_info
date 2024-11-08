@@ -1,0 +1,105 @@
+{
+  "split": {
+    "children": [
+      {
+        "EditorTab": {
+          "active": 1,
+          "is_focus": true,
+          "children": [
+            "Settings",
+            {
+              "Editor": {
+                "content": {
+                  "File": {
+                    "path": "/home/scyth1an/Projects/GitHub/Development-Learning/Learn_Python/my_test.py",
+                    "read_only": false
+                  }
+                },
+                "unsaved": null,
+                "offset": 58,
+                "scroll_offset": [
+                  0.0,
+                  0.0
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "direction": "Horizontal"
+  },
+  "panel": {
+    "panels": {
+      "RightTop": [
+        "DocumentSymbol"
+      ],
+      "BottomLeft": [
+        "Terminal",
+        "Search",
+        "Problem",
+        "CallHierarchy"
+      ],
+      "LeftTop": [
+        "FileExplorer",
+        "Plugin",
+        "SourceControl",
+        "Debug"
+      ]
+    },
+    "styles": {
+      "BottomRight": {
+        "active": 0,
+        "shown": false,
+        "maximized": false
+      },
+      "BottomLeft": {
+        "active": 0,
+        "shown": false,
+        "maximized": false
+      },
+      "RightBottom": {
+        "active": 0,
+        "shown": true,
+        "maximized": false
+      },
+      "RightTop": {
+        "active": 0,
+        "shown": true,
+        "maximized": false
+      },
+      "LeftTop": {
+        "active": 1,
+        "shown": true,
+        "maximized": false
+      },
+      "LeftBottom": {
+        "active": 0,
+        "shown": false,
+        "maximized": false
+      }
+    },
+    "size": {
+      "left": 284.29296875,
+      "left_split": 0.5,
+      "bottom": 300.0,
+      "bottom_split": 0.5,
+      "right": 250.0,
+      "right_split": 0.5
+    },
+    "sections": {
+      "Changes": true,
+      "Breakpoint": true,
+      "FileExplorer": true,
+      "Process": true,
+      "Available": true,
+      "OpenEditor": true,
+      "Installed": true,
+      "Variable": true,
+      "StackFrame": true,
+      "Warn": true,
+      "Error": true
+    }
+  },
+  "breakpoints": {}
+}

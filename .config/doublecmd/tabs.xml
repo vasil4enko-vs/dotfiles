@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doublecmd>
+  <Tabs>
+    <OpenedTabs>
+      <Left>
+        <ActiveTab>2</ActiveTab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/usr/lib/doublecmd/</Path>
+                  <Path Filename="..">/usr/</Path>
+                  <Path Filename="etc">/</Path>
+                  <Path Filename="..">/etc/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/usr/lib/doublecmd/</Path>
+                  <Path Filename="..">/usr/</Path>
+                  <Path Filename="home">/</Path>
+                  <Path Filename="..">/home/</Path>
+                  <Path Filename="bin">/</Path>
+                  <Path Filename=".Home Media Server">/home/scyth1an/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/Python_ создавайте и публикуйте свои собственные модули/</Path>
+                  <Path Filename="40 книг по Linux">/home/scyth1an/Загрузки/_Новые загрузки/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/40 книг по Linux/</Path>
+                  <Path Filename="111">/home/scyth1an/Загрузки/_Новые загрузки/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/111/</Path>
+                  <Path Filename="React. Интенсивный курс для программистов">/home/scyth1an/Загрузки/_Новые загрузки/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/React. Интенсивный курс для программистов/</Path>
+                  <Path Filename="React. Интенсивный курс для программистов">/home/scyth1an/Загрузки/_Новые загрузки/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/React. Интенсивный курс для программистов/</Path>
+                  <Path Filename="React. Интенсивный курс для программистов">/home/scyth1an/Загрузки/_Новые загрузки/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/React. Интенсивный курс для программистов/</Path>
+                  <Path Filename="SQL_ Инструменты тестировщика">/home/scyth1an/Загрузки/_Новые загрузки/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/SQL_ Инструменты тестировщика/</Path>
+                  <Path Filename="Svelte &amp; SvelteKit">/home/scyth1an/Загрузки/_Новые загрузки/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/Svelte &amp; SvelteKit/</Path>
+                  <Path Filename="TypeScript с нуля - полный курс и паттерны проектирования">/home/scyth1an/Загрузки/_Новые загрузки/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/TypeScript с нуля - полный курс и паттерны проектирования/</Path>
+                  <Path Filename="TypeScript с нуля - полный курс и паттерны проектирования">/home/scyth1an/Загрузки/_Новые загрузки/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/TypeScript с нуля - полный курс и паттерны проектирования/</Path>
+                  <Path Filename="TypeScript с нуля - полный курс и паттерны проектирования">/home/scyth1an/Загрузки/_Новые загрузки/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/TypeScript с нуля - полный курс и паттерны проектирования/</Path>
+                  <Path Filename="TypeScript с нуля - полный курс и паттерны проектирования">/home/scyth1an/Загрузки/_Новые загрузки/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/TypeScript с нуля - полный курс и паттерны проектирования/</Path>
+                  <Path Filename="Vue 3">/home/scyth1an/Загрузки/_Новые загрузки/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/Vue 3/</Path>
+                  <Path Filename="Vue 3">/home/scyth1an/Загрузки/_Новые загрузки/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/Vue 3/</Path>
+                  <Path Filename="Vue 3">/home/scyth1an/Загрузки/_Новые загрузки/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/Vue 3/</Path>
+                  <Path Filename="Vue Advanced продвинутый курс по разработке SPA (Vue 3)">/home/scyth1an/Загрузки/_Новые загрузки/</Path>
+                  <Path Filename="Vue Advanced продвинутый курс по разработке SPA (Vue 3) - 1">/home/scyth1an/Загрузки/_Новые загрузки/Vue Advanced продвинутый курс по разработке SPA (Vue 3)/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/Vue Advanced продвинутый курс по разработке SPA (Vue 3)/Vue Advanced продвинутый курс по разработке SPA (Vue 3) - 1/</Path>
+                  <Path Filename="Vue Advanced продвинутый курс по разработке SPA (Vue 3) - 2">/home/scyth1an/Загрузки/_Новые загрузки/Vue Advanced продвинутый курс по разработке SPA (Vue 3)/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/Vue Advanced продвинутый курс по разработке SPA (Vue 3)/Vue Advanced продвинутый курс по разработке SPA (Vue 3) - 2/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/Vue Advanced продвинутый курс по разработке SPA (Vue 3)/</Path>
+                  <Path Filename="Vue Advanced продвинутый курс по разработке SPA (Vue 3)">/home/scyth1an/Загрузки/_Новые загрузки/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/Vue Advanced продвинутый курс по разработке SPA (Vue 3)/</Path>
+                  <Path Filename="Vue Advanced продвинутый курс по разработке SPA (Vue 3)">/home/scyth1an/Загрузки/_Новые загрузки/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/Vue Advanced продвинутый курс по разработке SPA (Vue 3)/</Path>
+                  <Path Filename="Vue Advanced продвинутый курс по разработке SPA (Vue 3)">/home/scyth1an/Загрузки/_Новые загрузки/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/Vue Advanced продвинутый курс по разработке SPA (Vue 3)/</Path>
+                  <Path Filename="Vue Advanced продвинутый курс по разработке SPA (Vue 3)">/home/scyth1an/Загрузки/_Новые загрузки/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/Vue Advanced продвинутый курс по разработке SPA (Vue 3)/</Path>
+                  <Path Filename="Vue.js для профессиональных разработчиков">/home/scyth1an/Загрузки/_Новые загрузки/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/Vue.js для профессиональных разработчиков/</Path>
+                  <Path Filename="Vue.js для профессиональных разработчиков">/home/scyth1an/Загрузки/_Новые загрузки/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/Vue.js для профессиональных разработчиков/</Path>
+                  <Path Filename="Vue.js для профессиональных разработчиков">/home/scyth1an/Загрузки/_Новые загрузки/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/Vue.js для профессиональных разработчиков/</Path>
+                  <Path Filename="Web в Python">/home/scyth1an/Загрузки/_Новые загрузки/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+      </Left>
+      <Right>
+        <ActiveTab>4</ActiveTab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/usr/lib/doublecmd/</Path>
+                  <Path Filename="clang">/usr/lib/</Path>
+                  <Path Filename="..">/usr/lib/clang/</Path>
+                  <Path Filename="..">/usr/lib/</Path>
+                  <Path Filename="..">/usr/</Path>
+                  <Path Filename="bin">/</Path>
+                  <Path Filename="..">/bin/</Path>
+                  <Path Filename="home">/</Path>
+                  <Path Filename="scyth1an">/home/</Path>
+                  <Path Filename="dwhelper">/home/scyth1an/</Path>
+                  <Path Filename="..">/home/scyth1an/dwhelper/</Path>
+                  <Path Filename="..">/home/scyth1an/</Path>
+                  <Path Filename="scyth1an">/home/</Path>
+                  <Path Filename="Документы">/home/scyth1an/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/</Path>
+                  <Path Filename="Рабочий стол">/home/scyth1an/</Path>
+                  <Path Filename="..">/home/scyth1an/Рабочий стол/</Path>
+                  <Path Filename=".cr3">/home/scyth1an/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="Документы">/home/scyth1an/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/</Path>
+                  <Path Filename="Рабочий стол">/home/scyth1an/</Path>
+                  <Path Filename="..">/home/scyth1an/Рабочий стол/</Path>
+                  <Path Filename=".wallaby">/home/scyth1an/</Path>
+                  <Path Filename="..">/home/scyth1an/.wallaby/</Path>
+                  <Path Filename=".pki">/home/scyth1an/</Path>
+                  <Path Filename="nssdb">/home/scyth1an/.pki/</Path>
+                  <Path Filename="..">/home/scyth1an/.pki/nssdb/</Path>
+                  <Path Filename="..">/home/scyth1an/.pki/</Path>
+                  <Path Filename="Загрузки">/home/scyth1an/</Path>
+                  <Path Filename="_Новые загрузки">/home/scyth1an/Загрузки/</Path>
+                  <Path Filename="111">/home/scyth1an/Загрузки/_Новые загрузки/</Path>
+                  <Path Filename="RESTAPIs">/home/scyth1an/Загрузки/_Новые загрузки/111/</Path>
+                  <Path Filename="01 - Welcome!">/home/scyth1an/Загрузки/_Новые загрузки/111/RESTAPIs/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/111/RESTAPIs/01 - Welcome!/</Path>
+                  <Path Filename="02 - A Full Python Refresher">/home/scyth1an/Загрузки/_Новые загрузки/111/RESTAPIs/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/111/RESTAPIs/02 - A Full Python Refresher/</Path>
+                  <Path Filename="03 - Your first REST API">/home/scyth1an/Загрузки/_Новые загрузки/111/RESTAPIs/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/111/RESTAPIs/03 - Your first REST API/</Path>
+                  <Path Filename="04 - Introduction to Docker">/home/scyth1an/Загрузки/_Новые загрузки/111/RESTAPIs/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/111/RESTAPIs/04 - Introduction to Docker/</Path>
+                  <Path Filename="05 - Flask-Smorest for more efficient development">/home/scyth1an/Загрузки/_Новые загрузки/111/RESTAPIs/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/111/RESTAPIs/05 - Flask-Smorest for more efficient development/</Path>
+                  <Path Filename="06 - Store data in a SQL database with SQLAlchemy">/home/scyth1an/Загрузки/_Новые загрузки/111/RESTAPIs/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/111/RESTAPIs/06 - Store data in a SQL database with SQLAlchemy/</Path>
+                  <Path Filename="07 - Many-to-many relationships with SQLAlchemy">/home/scyth1an/Загрузки/_Новые загрузки/111/RESTAPIs/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/111/RESTAPIs/07 - Many-to-many relationships with SQLAlchemy/</Path>
+                  <Path Filename="08 - User authentication with Flask-JWT-Extended">/home/scyth1an/Загрузки/_Новые загрузки/111/RESTAPIs/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/111/RESTAPIs/08 - User authentication with Flask-JWT-Extended/</Path>
+                  <Path Filename="09 - Database migrations with Alembic and Flask-Migrate">/home/scyth1an/Загрузки/_Новые загрузки/111/RESTAPIs/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/111/RESTAPIs/09 - Database migrations with Alembic and Flask-Migrate/</Path>
+                  <Path Filename="10 - Git Crash Course">/home/scyth1an/Загрузки/_Новые загрузки/111/RESTAPIs/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/111/RESTAPIs/10 - Git Crash Course/</Path>
+                  <Path Filename="11 - Deployments with Render.com">/home/scyth1an/Загрузки/_Новые загрузки/111/RESTAPIs/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/111/RESTAPIs/11 - Deployments with Render.com/</Path>
+                  <Path Filename="12 - Task Queues with rq and sending emails">/home/scyth1an/Загрузки/_Новые загрузки/111/RESTAPIs/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/111/RESTAPIs/12 - Task Queues with rq and sending emails/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/111/RESTAPIs/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/111/</Path>
+                  <Path Filename="111">/home/scyth1an/Загрузки/_Новые загрузки/</Path>
+                  <Path Filename="RESTAPIs">/home/scyth1an/Загрузки/_Новые загрузки/111/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/111/RESTAPIs/</Path>
+                  <Path Filename="RESTAPIs">/home/scyth1an/Загрузки/_Новые загрузки/111/</Path>
+                  <Path Filename="11 - Deployments with Render.com">/home/scyth1an/Загрузки/_Новые загрузки/111/RESTAPIs/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/111/RESTAPIs/11 - Deployments with Render.com/</Path>
+                  <Path Filename="12 - Task Queues with rq and sending emails">/home/scyth1an/Загрузки/_Новые загрузки/111/RESTAPIs/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/111/RESTAPIs/12 - Task Queues with rq and sending emails/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/111/</Path>
+                  <Path Filename="..">/home/scyth1an/Загрузки/_Новые загрузки/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="Библиотека">/home/scyth1an/Документы/</Path>
+                  <Path Filename="Техника">/home/scyth1an/Документы/Библиотека/</Path>
+                  <Path Filename="Компьютер">/home/scyth1an/Документы/Библиотека/Техника/</Path>
+                  <Path Filename="Разработка">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/</Path>
+                  <Path Filename="Программирование">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Разработка/</Path>
+                  <Path Filename="Языки программирования">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Разработка/Программирование/</Path>
+                  <Path Filename="Python">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Разработка/Программирование/Языки программирования/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="Операционные системы">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/</Path>
+                  <Path Filename="Linux">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/</Path>
+                  <Path Filename="Ядро Linux">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/</Path>
+                  <Path Filename="Компоненты ядра Linux">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/Ядро Linux/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/Ядро Linux/Компоненты ядра Linux/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/Ядро Linux/</Path>
+                  <Path Filename="_Ядро Linux">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/</Path>
+                  <Path Filename="_Компоненты ядра Linux">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/_Ядро Linux/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/_Ядро Linux/_Компоненты ядра Linux/</Path>
+                  <Path Filename="_Компоненты ядра Linux">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/_Ядро Linux/</Path>
+                  <Path Filename="Калавера Д., Фонтана Л">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/_Ядро Linux/_Компоненты ядра Linux/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/_Ядро Linux/_Компоненты ядра Linux/Калавера Д., Фонтана Л/</Path>
+                  <Path Filename="_Виртуальная машина BPF">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/_Ядро Linux/_Компоненты ядра Linux/</Path>
+                  <Path Filename="Калавера Д., Фонтана Л">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/_Ядро Linux/_Компоненты ядра Linux/_Виртуальная машина BPF/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/_Ядро Linux/_Компоненты ядра Linux/_Виртуальная машина BPF/Калавера Д., Фонтана Л/</Path>
+                  <Path Filename="Калавера Д., Фонтана Л">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/_Ядро Linux/_Компоненты ядра Linux/_Виртуальная машина BPF/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/_Ядро Linux/_Компоненты ядра Linux/_Виртуальная машина BPF/Калавера Д., Фонтана Л/</Path>
+                  <Path Filename="_Дистрибутивы">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/</Path>
+                  <Path Filename="Kali Linux">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/_Дистрибутивы/</Path>
+                  <Path Filename="Херцог Р., О’Горман Д., Ахарони М">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/_Дистрибутивы/Kali Linux/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/_Дистрибутивы/Kali Linux/Херцог Р., О’Горман Д., Ахарони М/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/_Дистрибутивы/Kali Linux/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/_Дистрибутивы/</Path>
+                  <Path Filename="_Дистрибутивы">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/</Path>
+                  <Path Filename="_Kali Linux">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/_Дистрибутивы/</Path>
+                  <Path Filename="Херцог Р., О’Горман Д., Ахарони М">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/_Дистрибутивы/_Kali Linux/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/_Дистрибутивы/_Kali Linux/Херцог Р., О’Горман Д., Ахарони М/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/_Дистрибутивы/_Kali Linux/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="_Linux">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Разработка/Программирование/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Разработка/Программирование/_Linux/</Path>
+                  <Path Filename="Операционные системы">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/</Path>
+                  <Path Filename="Linux">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/</Path>
+                  <Path Filename="Негус К">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/Негус К/</Path>
+                  <Path Filename="_Командная строка">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/</Path>
+                  <Path Filename="_EN">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/_Командная строка/</Path>
+                  <Path Filename="Blum R., Bresnahan Ch. - Linux Command Line and Shell Scripting BIBLE - 2021.pdf">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Операционные системы/Linux/_Командная строка/_EN/</Path>
+                  <Path Active="True" Filename="..">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="Меле А">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - Python/Django/</Path>
+                  <Path Filename="python.svg">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - Python/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="JavaScript">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Программирование/Веб-программирование/Фронтенд/</Path>
+                  <Path Filename="Изучение - JavaScript">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Программирование/Веб-программирование/Фронтенд/JavaScript/</Path>
+                  <Path Filename="JavaScript для Python-программистов">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Программирование/Веб-программирование/Фронтенд/JavaScript/Изучение - JavaScript/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Программирование/Веб-программирование/Фронтенд/JavaScript/Изучение - JavaScript/JavaScript для Python-программистов/</Path>
+                  <Path Filename="JavaScript для Python-программистов">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Программирование/Веб-программирование/Фронтенд/JavaScript/Изучение - JavaScript/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Программирование/Веб-программирование/Фронтенд/JavaScript/Изучение - JavaScript/JavaScript для Python-программистов/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Программирование/Веб-программирование/Фронтенд/JavaScript/Изучение - JavaScript/</Path>
+                  <Path Filename="Изучение - JavaScript">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Программирование/Веб-программирование/Фронтенд/JavaScript/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Программирование/Веб-программирование/Фронтенд/JavaScript/Изучение - JavaScript/</Path>
+                  <Path Filename="Изучение - JavaScript">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Программирование/Веб-программирование/Фронтенд/JavaScript/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Программирование/Веб-программирование/Фронтенд/JavaScript/Изучение - JavaScript/</Path>
+                  <Path Filename="javascript">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Программирование/Веб-программирование/Фронтенд/JavaScript/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Программирование/Веб-программирование/Фронтенд/JavaScript/javascript/</Path>
+                  <Path Filename="JavaScript Базовый уровень">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Программирование/Веб-программирование/Фронтенд/JavaScript/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Программирование/Веб-программирование/Фронтенд/JavaScript/JavaScript Базовый уровень/</Path>
+                  <Path Filename="JavaScript Базовый уровень - Stepik - Романенко С.">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Программирование/Веб-программирование/Фронтенд/JavaScript/</Path>
+                  <Path Filename="[infoVolna.com]  1. Введение">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Программирование/Веб-программирование/Фронтенд/JavaScript/JavaScript Базовый уровень - Stepik - Романенко С./</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Программирование/Веб-программирование/Фронтенд/JavaScript/JavaScript Базовый уровень - Stepik - Романенко С./[infoVolna.com]  1. Введение/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Программирование/Веб-программирование/Фронтенд/JavaScript/JavaScript Базовый уровень - Stepik - Романенко С./</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Программирование/Веб-программирование/Фронтенд/JavaScript/</Path>
+                  <Path Filename="Языки программирования">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Программирование/</Path>
+                  <Path Filename="Python">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Программирование/Языки программирования/</Path>
+                  <Path Filename="Изучение - Python">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - Python/Django/</Path>
+                  <Path Filename="FastAPI">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - Python/</Path>
+                  <Path Filename="_EN">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - Python/FastAPI/</Path>
+                  <Path Filename="Frond-back-end руководство">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - Python/FastAPI/_EN/</Path>
+                  <Path Filename="Celery and Fastapi">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - Python/FastAPI/_EN/Frond-back-end руководство/</Path>
+                  <Path Filename="pdf">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - Python/FastAPI/_EN/Frond-back-end руководство/Celery and Fastapi/</Path>
+                  <Path Filename="Part 1">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - Python/FastAPI/_EN/Frond-back-end руководство/Celery and Fastapi/pdf/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - Python/FastAPI/_EN/Frond-back-end руководство/Celery and Fastapi/pdf/Part 1/</Path>
+                  <Path Filename="Part 1">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - Python/FastAPI/_EN/Frond-back-end руководство/Celery and Fastapi/pdf/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - Python/FastAPI/_EN/Frond-back-end руководство/Celery and Fastapi/pdf/Part 1/</Path>
+                  <Path Filename="Part 2">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - Python/FastAPI/_EN/Frond-back-end руководство/Celery and Fastapi/pdf/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - Python/FastAPI/_EN/Frond-back-end руководство/Celery and Fastapi/pdf/Part 2/</Path>
+                  <Path Filename="04. Application Factory.pdf">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - Python/FastAPI/_EN/Frond-back-end руководство/Celery and Fastapi/pdf/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="Веб-разработка">/home/scyth1an/Документы/Техника/Компьютер/Разработка/</Path>
+                  <Path Filename="Веб-фреймворки">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Веб-разработка/</Path>
+                  <Path Filename="Фреймворки - Python">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/</Path>
+                  <Path Filename="Рабочий процесс">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - Python/</Path>
+                  <Path Filename="Деплой на прод">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - Python/Рабочий процесс/</Path>
+                  <Path Filename="Fabric">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - Python/Рабочий процесс/Деплой на прод/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - Python/Рабочий процесс/Деплой на прод/Fabric/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - Python/Рабочий процесс/Деплой на прод/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - Python/Рабочий процесс/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - Python/</Path>
+                  <Path Active="True" Filename="Изучение - Python">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="Публикация пакетов Python">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Программирование/Языки программирования/Python/Пакетирование/</Path>
+                  <Path Filename="К подготовке и публикации первого пакета Python готовы! (2021-11-16 16_41_27).html">/home/scyth1an/Документы/Техника/Компьютер/Разработка/Программирование/Языки программирования/Python/Пакетирование/Публикация пакетов Python/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="Пакетирование">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="Изучение - Пакетирование">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Программирование/Языки программирования/Python/Пакетирование/</Path>
+                  <Path Filename="Python - создавайте и публикуйте свои собственные модули">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Программирование/Языки программирования/Python/Пакетирование/Изучение - Пакетирование/</Path>
+                  <Path Filename="..">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Программирование/Языки программирования/Python/Пакетирование/Изучение - Пакетирование/Python - создавайте и публикуйте свои собственные модули/</Path>
+                  <Path Filename="_EN">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Программирование/Языки программирования/Python/Пакетирование/Изучение - Пакетирование/</Path>
+                  <Path Filename="Python - создавайте и публикуйте свои собственные модули">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Программирование/Языки программирования/Python/Пакетирование/Изучение - Пакетирование/_EN/</Path>
+                  <Path Filename="..">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Программирование/Языки программирования/Python/Пакетирование/Изучение - Пакетирование/_EN/Python - создавайте и публикуйте свои собственные модули/</Path>
+                  <Path Filename="..">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Программирование/Языки программирования/Python/Пакетирование/Изучение - Пакетирование/_EN/</Path>
+                  <Path Filename="..">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="Веб-разработка">/home/scyth1an/Видео/Техника/Компьютер/Разработка/</Path>
+                  <Path Filename="Веб-фреймворки">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/</Path>
+                  <Path Filename="Фреймворки - JavaScript">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/</Path>
+                  <Path Filename="_Фронтенд | Браузерная разработка">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/</Path>
+                  <Path Filename="React">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/</Path>
+                  <Path Filename="2022 - Дмитрий Лаврик - React. Интенсивный курс для программистов">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/React/</Path>
+                  <Path Filename="..">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/React/2022 - Дмитрий Лаврик - React. Интенсивный курс для программистов/</Path>
+                  <Path Filename="..">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/React/</Path>
+                  <Path Filename="..">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/</Path>
+                  <Path Filename="..">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/</Path>
+                  <Path Filename="Фреймворки - JavaScript">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/</Path>
+                  <Path Filename="_Фронтенд | Браузерная разработка">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/</Path>
+                  <Path Filename="Vue.js">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/</Path>
+                  <Path Filename="2021 - Vue 3">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/Vue.js/</Path>
+                  <Path Filename="..">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/Vue.js/2021 - Vue 3/</Path>
+                  <Path Filename="Vue Advanced продвинутый курс по разработке SPA (Vue 3)">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/Vue.js/</Path>
+                  <Path Filename="..">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/Vue.js/Vue Advanced продвинутый курс по разработке SPA (Vue 3)/</Path>
+                  <Path Filename="Vue Advanced продвинутый курс по разработке SPA (Vue 3)">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/Vue.js/</Path>
+                  <Path Filename=" 6">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/Vue.js/Vue Advanced продвинутый курс по разработке SPA (Vue 3)/</Path>
+                  <Path Filename="..">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/Vue.js/Vue Advanced продвинутый курс по разработке SPA (Vue 3)/ 6/</Path>
+                  <Path Filename=" 1">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/Vue.js/Vue Advanced продвинутый курс по разработке SPA (Vue 3)/</Path>
+                  <Path Filename=" 1">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/Vue.js/Vue Advanced продвинутый курс по разработке SPA (Vue 3)/ 1/</Path>
+                  <Path Filename="..">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/Vue.js/Vue Advanced продвинутый курс по разработке SPA (Vue 3)/ 1/ 1/</Path>
+                  <Path Filename=" DZ">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/Vue.js/Vue Advanced продвинутый курс по разработке SPA (Vue 3)/ 1/</Path>
+                  <Path Filename="..">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/Vue.js/Vue Advanced продвинутый курс по разработке SPA (Vue 3)/ 1/ DZ/</Path>
+                  <Path Filename="..">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/Vue.js/Vue Advanced продвинутый курс по разработке SPA (Vue 3)/ 1/</Path>
+                  <Path Filename="..">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/Vue.js/Vue Advanced продвинутый курс по разработке SPA (Vue 3)/</Path>
+                  <Path Filename="..">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/Vue.js/</Path>
+                  <Path Filename="Vue.js">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/</Path>
+                  <Path Filename="Vue Advanced продвинутый курс по разработке SPA (Vue 3)">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/Vue.js/</Path>
+                  <Path Filename=" 8">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/Vue.js/Vue Advanced продвинутый курс по разработке SPA (Vue 3)/</Path>
+                  <Path Filename="..">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/Vue.js/Vue Advanced продвинутый курс по разработке SPA (Vue 3)/ 8/</Path>
+                  <Path Filename="..">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/Vue.js/Vue Advanced продвинутый курс по разработке SPA (Vue 3)/</Path>
+                  <Path Filename="Дмитрий Лаврик">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/Vue.js/</Path>
+                  <Path Filename="..">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/Vue.js/Дмитрий Лаврик/</Path>
+                  <Path Filename="Дмитрий Лаврик">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/Vue.js/</Path>
+                  <Path Filename="..">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/Vue.js/Дмитрий Лаврик/</Path>
+                  <Path Filename="2021 - Vue 3">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/Vue.js/</Path>
+                  <Path Filename="..">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/Vue.js/2021 - Vue 3/</Path>
+                  <Path Filename="Vue.js для профессиональных разработчиков">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/Vue.js/</Path>
+                  <Path Filename="BONUS">/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - JavaScript/_Фронтенд | Браузерная разработка/Vue.js/Vue.js для профессиональных разработчиков/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/usr/lib/doublecmd/</Path>
+                  <Path Filename="clang">/usr/lib/</Path>
+                  <Path Filename="..">/usr/lib/clang/</Path>
+                  <Path Filename="..">/usr/lib/</Path>
+                  <Path Filename="..">/usr/</Path>
+                  <Path Filename="bin">/</Path>
+                  <Path Filename="..">/bin/</Path>
+                  <Path Filename="home">/</Path>
+                  <Path Filename="scyth1an">/home/</Path>
+                  <Path Filename="dwhelper">/home/scyth1an/</Path>
+                  <Path Filename="..">/home/scyth1an/dwhelper/</Path>
+                  <Path Filename="..">/home/scyth1an/</Path>
+                  <Path Filename="scyth1an">/home/</Path>
+                  <Path Filename="Документы">/home/scyth1an/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/</Path>
+                  <Path Filename="Рабочий стол">/home/scyth1an/</Path>
+                  <Path Filename="..">/home/scyth1an/Рабочий стол/</Path>
+                  <Path Filename="Calibre_Library">/home/scyth1an/</Path>
+                  <Path Filename="..">/home/scyth1an/Calibre_Library/</Path>
+                  <Path Filename="Библиотека calibre">/home/scyth1an/</Path>
+                  <Path Filename="..">/home/scyth1an/Библиотека calibre/</Path>
+                  <Path Filename="Документы">/home/scyth1an/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/</Path>
+                  <Path Filename="Документы">/home/scyth1an/</Path>
+                  <Path Filename="Библиотека-добавление">/home/scyth1an/Документы/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+      </Right>
+    </OpenedTabs>
+  </Tabs>
+</doublecmd>

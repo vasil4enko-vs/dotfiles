@@ -1,0 +1,29 @@
+{
+  "theme": {
+    "name": "Bonofix Theme",
+    "url": "assets:///home/scyth1an/.logseq/plugins/logseq-bonofix-theme/custom.css",
+    "description": "A clean theme",
+    "pid": "logseq-bonofix-theme"
+  },
+  "themes": {
+    "mode": "dark",
+    "light": {
+      "name": "Tenset light",
+      "url": "assets:///home/scyth1an/.logseq/plugins/logseq-tenset-theme/tenset-theme.css",
+      "description": "Beautiful light theme made for smart contract auditors",
+      "mode": "light",
+      "pid": "logseq-tenset-theme",
+      "selected": false
+    },
+    "dark": {
+      "name": "Default Dark Theme",
+      "url": null,
+      "description": "Logseq default dark theme.",
+      "mode": "dark",
+      "selected": false,
+      "group-first": true,
+      "group-desc": "dark themes"
+    }
+  },
+  "externals": []
+}

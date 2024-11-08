@@ -1,0 +1,59 @@
+{
+  "parser-directories": [
+    "/home/scyth1an/github",
+    "/home/scyth1an/src",
+    "/home/scyth1an/source",
+    "/home/scyth1an/projects",
+    "/home/scyth1an/dev",
+    "/home/scyth1an/git"
+  ],
+  "theme": {
+    "type.builtin": {
+      "bold": true,
+      "color": 23
+    },
+    "keyword": 56,
+    "constant": 94,
+    "function": 26,
+    "constant.builtin": {
+      "bold": true,
+      "color": 94
+    },
+    "type": 23,
+    "function.builtin": {
+      "bold": true,
+      "color": 26
+    },
+    "variable.parameter": {
+      "underline": true
+    },
+    "embedded": null,
+    "constructor": 136,
+    "number": {
+      "color": 94,
+      "bold": true
+    },
+    "comment": {
+      "italic": true,
+      "color": 245
+    },
+    "operator": {
+      "bold": true,
+      "color": 239
+    },
+    "punctuation.bracket": 239,
+    "string.special": 30,
+    "module": 136,
+    "attribute": {
+      "italic": true,
+      "color": 124
+    },
+    "punctuation.delimiter": 239,
+    "string": 28,
+    "tag": 18,
+    "variable.builtin": {
+      "bold": true
+    },
+    "property": 124
+  }
+}

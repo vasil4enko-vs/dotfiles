@@ -1,0 +1,35 @@
+
+[BlurScope]
+color=297677
+
+[audacious]
+cover_name_include=front,album,cover,folder
+enable_replay_gain=FALSE
+generic_title_format=${?artist:${artist} - }${?album:${album} - }${?track-number:${track-number}. }${title}
+leading_zero=TRUE
+show_numbers_in_pl=TRUE
+
+[audgui]
+filesel_path=/home/scyth1an/Музыка/Наши Исполнители/Пилот/CD/1997-2008 - Пилот (11 альбомов) + Илья Чёрт (2 альбома)/2001 -  Сказка о прыгуне и скользящем/
+
+[lyricwiki]
+remote-source=chartlyrics.com
+
+[notify]
+custom_duration=5
+custom_duration_enabled=TRUE
+
+[pipewire]
+volume_left=100
+volume_right=100
+
+[qtui]
+column_widths=25,49,275,227,50,175,175,25,100,25,63,275,275,275,75,275,175,75
+entry_count_visible=TRUE
+player_height=1036
+player_width=1920
+playlist_columns=playing number genre year album-artist album disc track artist title length bitrate
+playlist_headers_bold=TRUE
+
+[statusicon]
+scroll_action=1

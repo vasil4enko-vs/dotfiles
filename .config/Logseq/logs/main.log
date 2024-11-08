@@ -1,0 +1,586 @@
+[2024-03-13 15:27:45.442] [info] Logseq App(0.10.7) Starting... 
+[2024-03-13 15:27:45.451] [info] restore proxy settings {:type "system"}
+[2024-03-13 15:27:45.452] [info] set proxy to {:type "system"}
+[2024-03-13 15:27:48.077] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-03-13 15:30:10.100] [info] new-window https://github.com/sethfair/logseq-atlas-theme/issues
+[2024-03-13 15:33:22.813] [debug] [Marketplace] === Installing: sansui233/logseq-bonofix-theme ===
+[2024-03-13 15:33:23.266] [debug] [Marketplace] INFO: use github api -  https://plugins.logseq.io/github/api
+[2024-03-13 15:33:23.603] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/sansui233/logseq-bonofix-theme/releases/latest :status 200
+[2024-03-13 15:33:23.605] [debug] [Marketplace] Release latest: v3.10.3  from https://api.github.com/repos/Sansui233/logseq-bonofix-theme/releases/assets/155624907
+[2024-03-13 15:33:24.750] [debug] [Marketplace] [Updated DONE] v3.10.3
+[2024-03-13 15:33:34.845] [debug] [Marketplace] === Updating: sansui233/logseq-bonofix-theme ===
+[2024-03-13 15:33:35.216] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/sansui233/logseq-bonofix-theme/releases/latest :status 200
+[2024-03-13 15:33:35.217] [debug] [Marketplace] Release latest: v3.10.3  from https://api.github.com/repos/Sansui233/logseq-bonofix-theme/releases/assets/155624907
+[2024-03-13 15:33:35.218] [debug] [Marketplace] Release compare: v3.10.3 (current) >  v3.10.3 (latest)
+[2024-03-13 15:33:35.218] [debug] [Marketplace] Update skip: no new version
+[2024-03-13 15:36:59.370] [info] new-window https://user-images.githubusercontent.com/584378/128587194-bd775264-b3ba-4303-8595-060953fe8030.mp4
+[2024-03-13 15:37:49.567] [info] new-window lsp://logseq.com/CHANGELOG.md
+[2024-03-13 15:38:02.232] [info] new-window https://github.com/pengx17/logseq-dev-theme/issues/46
+[2024-03-13 15:53:55.875] [info] :electron.handler/open-dir open folder selection dialog
+[2024-03-13 15:53:59.214] [debug] :electron.handler/open-dir {:path nil}
+[2024-03-13 15:55:00.512] [info] :electron.handler/open-dir open folder selection dialog
+[2024-03-13 15:56:25.349] [debug] :electron.handler/open-dir {:path nil}
+[2024-03-13 15:56:31.594] [info] :electron.handler/open-dir open folder selection dialog
+[2024-03-13 15:56:49.209] [debug] :electron.handler/open-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-03-13 15:56:49.385] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-03-13 15:57:13.855] [debug] window-all-closed Quitting...
+[2024-04-02 23:22:30.581] [info] Logseq App(0.10.8) Starting... 
+[2024-04-02 23:22:30.591] [info] restore proxy settings {:type "system"}
+[2024-04-02 23:22:30.592] [info] set proxy to {:type "system"}
+[2024-04-02 23:22:33.451] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-04-02 23:22:33.471] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-04-02 23:22:33.472] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-04-02 23:22:33.956] [debug] [Marketplace] === Updating: sansui233/logseq-bonofix-theme ===
+[2024-04-02 23:22:34.393] [debug] [Marketplace] INFO: use github api -  https://plugins.logseq.io/github/api
+[2024-04-02 23:22:34.767] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/sansui233/logseq-bonofix-theme/releases/latest :status 200
+[2024-04-02 23:22:34.771] [debug] [Marketplace] Release latest: v3.10.3  from https://api.github.com/repos/Sansui233/logseq-bonofix-theme/releases/assets/155624907
+[2024-04-02 23:22:34.772] [debug] [Marketplace] Release compare: v3.10.3 (current) >  v3.10.3 (latest)
+[2024-04-02 23:22:34.773] [debug] [Marketplace] Update skip: no new version
+[2024-04-02 23:24:56.629] [info] new-window https://github.com/sethfair/logseq-atlas-theme/issues
+[2024-04-02 23:25:37.656] [info] new-window https://github.com/catppuccin
+[2024-04-02 23:25:43.890] [info] new-window https://github.com/pengx17/logseq-dev-theme
+[2024-04-02 23:29:57.050] [debug] [Marketplace] === Installing: YU000jp/logseq-theme-classic-dark-theme-pack ===
+[2024-04-02 23:29:57.710] [debug] [Marketplace] INFO: use github api -  https://plugins.logseq.io/github/api
+[2024-04-02 23:29:58.085] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/YU000jp/logseq-theme-classic-dark-theme-pack/releases/latest :status 200
+[2024-04-02 23:29:58.087] [debug] [Marketplace] Release latest: v1.5.0  from https://api.github.com/repos/YU000jp/logseq-theme-classic-dark-theme-pack/releases/assets/149417196
+[2024-04-02 23:29:59.176] [debug] [Marketplace] [Updated DONE] v1.5.0
+[2024-04-02 23:31:25.748] [debug] [Marketplace] === Installing: tenset-security/logseq-tenset-theme ===
+[2024-04-02 23:31:26.419] [debug] [Marketplace] INFO: use github api -  https://plugins.logseq.io/github/api
+[2024-04-02 23:31:26.816] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/tenset-security/logseq-tenset-theme/releases/latest :status 200
+[2024-04-02 23:31:26.817] [debug] [Marketplace] Release latest: v1.0.1  from https://api.github.com/repos/tenset-security/logseq-tenset-theme/releases/assets/120839331
+[2024-04-02 23:31:28.018] [debug] [Marketplace] [Updated DONE] v1.0.1
+[2024-04-02 23:33:33.191] [debug] [Marketplace] [Uninstall] /home/scyth1an/.logseq/plugins/logseq-tenset-theme
+[2024-04-02 23:34:09.267] [debug] window-all-closed Quitting...
+[2024-04-18 16:10:50.866] [info] Logseq App(0.10.8) Starting... 
+[2024-04-18 16:10:50.871] [info] restore proxy settings {:type "system"}
+[2024-04-18 16:10:50.871] [info] set proxy to {:type "system"}
+[2024-04-18 16:10:53.641] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-04-18 16:10:53.680] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-04-18 16:10:53.681] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-04-18 16:10:54.344] [debug] [Marketplace] === Updating: YU000jp/logseq-theme-classic-dark-theme-pack ===
+[2024-04-18 16:10:54.943] [debug] [Marketplace] INFO: use github api -  https://plugins.logseq.io/github/api
+[2024-04-18 16:10:55.287] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/YU000jp/logseq-theme-classic-dark-theme-pack/releases/latest :status 200
+[2024-04-18 16:10:55.292] [debug] [Marketplace] Release latest: v1.5.0  from https://api.github.com/repos/YU000jp/logseq-theme-classic-dark-theme-pack/releases/assets/149417196
+[2024-04-18 16:10:55.293] [debug] [Marketplace] Release compare: v1.5.0 (current) >  v1.5.0 (latest)
+[2024-04-18 16:10:55.294] [debug] [Marketplace] Update skip: no new version
+[2024-04-18 16:10:55.803] [debug] [Marketplace] === Updating: sansui233/logseq-bonofix-theme ===
+[2024-04-18 16:10:56.165] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/sansui233/logseq-bonofix-theme/releases/latest :status 200
+[2024-04-18 16:10:56.167] [debug] [Marketplace] Release latest: v3.10.4  from https://api.github.com/repos/Sansui233/logseq-bonofix-theme/releases/assets/160490033
+[2024-04-18 16:10:56.168] [debug] [Marketplace] Release compare: v3.10.3 (current) >  v3.10.4 (latest)
+[2024-04-18 16:10:56.169] [debug] [Marketplace] Updating latest: v3.10.4
+[2024-04-18 16:10:56.170] [debug] [Marketplace] [Checked DONE] v3.10.4
+[2024-04-18 16:39:53.701] [debug] window-all-closed Quitting...
+[2024-04-18 16:39:57.589] [info] Logseq App(0.10.8) Starting... 
+[2024-04-18 16:39:57.598] [info] restore proxy settings {:type "system"}
+[2024-04-18 16:39:57.598] [info] set proxy to {:type "system"}
+[2024-04-18 16:40:00.360] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-04-18 16:40:00.400] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-04-18 16:40:00.401] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-04-18 18:03:32.929] [info] new-window /home/scyth1an/Документы/Техника/Компьютер/Разработка/Программирование/Версионирование/Dependency specification _ Documentation _ Poetry - Python dependency management and packaging made easy (18.04.2024 17_56_10).html
+[2024-04-18 18:04:33.600] [info] new-window /home/scyth1an/Документы/Техника/Компьютер/Разработка/Программирование/Версионирование/Dependency specification _ Documentation _ Poetry - Python dependency management and packaging made easy (18.04.2024 17_56_10).html
+[2024-04-19 02:07:33.798] [debug] window-all-closed Quitting...
+[2024-04-19 12:51:33.095] [info] Logseq App(0.10.8) Starting... 
+[2024-04-19 12:51:33.104] [info] restore proxy settings {:type "system"}
+[2024-04-19 12:51:33.104] [info] set proxy to {:type "system"}
+[2024-04-19 12:51:36.042] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-04-19 12:51:36.064] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-04-19 12:51:36.065] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-04-19 12:51:36.495] [debug] [Marketplace] === Updating: sansui233/logseq-bonofix-theme ===
+[2024-04-19 12:51:36.965] [debug] [Marketplace] INFO: use github api -  https://plugins.logseq.io/github/api
+[2024-04-19 12:51:37.408] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/sansui233/logseq-bonofix-theme/releases/latest :status 200
+[2024-04-19 12:51:37.411] [debug] [Marketplace] Release latest: v3.10.4  from https://api.github.com/repos/Sansui233/logseq-bonofix-theme/releases/assets/160490033
+[2024-04-19 12:51:37.412] [debug] [Marketplace] Release compare: v3.10.3 (current) >  v3.10.4 (latest)
+[2024-04-19 12:51:37.412] [debug] [Marketplace] Updating latest: v3.10.4
+[2024-04-19 12:51:37.413] [debug] [Marketplace] [Checked DONE] v3.10.4
+[2024-04-19 12:51:37.918] [debug] [Marketplace] === Updating: YU000jp/logseq-theme-classic-dark-theme-pack ===
+[2024-04-19 12:51:38.290] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/YU000jp/logseq-theme-classic-dark-theme-pack/releases/latest :status 200
+[2024-04-19 12:51:38.293] [debug] [Marketplace] Release latest: v1.5.0  from https://api.github.com/repos/YU000jp/logseq-theme-classic-dark-theme-pack/releases/assets/149417196
+[2024-04-19 12:51:38.294] [debug] [Marketplace] Release compare: v1.5.0 (current) >  v1.5.0 (latest)
+[2024-04-19 12:51:38.294] [debug] [Marketplace] Update skip: no new version
+[2024-04-19 13:12:55.652] [debug] window-all-closed Quitting...
+[2024-04-19 13:13:04.437] [info] Logseq App(0.10.8) Starting... 
+[2024-04-19 13:13:04.441] [info] restore proxy settings {:type "system"}
+[2024-04-19 13:13:04.442] [info] set proxy to {:type "system"}
+[2024-04-19 13:13:07.429] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-04-19 13:13:07.454] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-04-19 13:13:07.455] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-04-19 14:08:15.964] [debug] window-all-closed Quitting...
+[2024-04-19 15:08:05.391] [info] Logseq App(0.10.8) Starting... 
+[2024-04-19 15:08:05.401] [info] restore proxy settings {:type "system"}
+[2024-04-19 15:08:05.401] [info] set proxy to {:type "system"}
+[2024-04-19 15:08:08.371] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-04-19 15:08:08.415] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-04-19 15:08:08.415] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-04-19 23:33:08.234] [debug] window-all-closed Quitting...
+[2024-07-01 09:41:52.093] [info] Logseq App(0.10.9) Starting... 
+[2024-07-01 09:41:52.102] [info] restore proxy settings {:type "system"}
+[2024-07-01 09:41:52.103] [info] set proxy to {:type "system"}
+[2024-07-01 09:41:55.118] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-07-01 09:41:55.145] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-07-01 09:41:55.146] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-07-01 09:41:55.637] [debug] [Marketplace] === Updating: sansui233/logseq-bonofix-theme ===
+[2024-07-01 09:41:55.937] [debug] [Marketplace] ERR: valid github api -  Error: Unauthorized
+    at /opt/logseq-desktop/resources/app/electron.js:14195:13
+    at Function.$G__108146__1$$ [as $cljs$core$IFn$_invoke$arity$1$] (/opt/logseq-desktop/resources/app/electron.js:4104:175)
+    at /opt/logseq-desktop/resources/app/electron.js:13064:80
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-07-01 09:41:56.228] [debug] [Marketplace] Release latest: https://api.github.com/repos/sansui233/logseq-bonofix-theme/releases/latest :status 200
+[2024-07-01 09:41:56.233] [debug] [Marketplace] Release latest: v3.10.4  from https://api.github.com/repos/Sansui233/logseq-bonofix-theme/releases/assets/160490033
+[2024-07-01 09:41:56.234] [debug] [Marketplace] Release compare: v3.10.3 (current) >  v3.10.4 (latest)
+[2024-07-01 09:41:56.235] [debug] [Marketplace] Updating latest: v3.10.4
+[2024-07-01 09:41:56.236] [debug] [Marketplace] [Checked DONE] v3.10.4
+[2024-07-01 09:41:56.781] [debug] [Marketplace] === Updating: YU000jp/logseq-theme-classic-dark-theme-pack ===
+[2024-07-01 09:41:57.087] [debug] [Marketplace] Release latest: https://api.github.com/repos/YU000jp/logseq-theme-classic-dark-theme-pack/releases/latest :status 200
+[2024-07-01 09:41:57.089] [debug] [Marketplace] Release latest: v1.5.0  from https://api.github.com/repos/YU000jp/logseq-theme-classic-dark-theme-pack/releases/assets/149417196
+[2024-07-01 09:41:57.090] [debug] [Marketplace] Release compare: v1.5.0 (current) >  v1.5.0 (latest)
+[2024-07-01 09:41:57.090] [debug] [Marketplace] Update skip: no new version
+[2024-07-01 11:03:36.744] [debug] window-all-closed Quitting...
+[2024-07-23 19:50:12.193] [info] Logseq App(0.10.9) Starting... 
+[2024-07-23 19:50:12.205] [info] restore proxy settings {:type "system"}
+[2024-07-23 19:50:12.205] [info] set proxy to {:type "system"}
+[2024-07-23 19:50:15.341] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-07-23 19:50:15.366] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-07-23 19:50:15.368] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-07-23 19:50:15.854] [debug] [Marketplace] === Updating: sansui233/logseq-bonofix-theme ===
+[2024-07-23 19:50:16.525] [debug] [Marketplace] INFO: use github api -  https://plugins.logseq.io/github/api
+[2024-07-23 19:50:17.116] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/sansui233/logseq-bonofix-theme/releases/latest :status 200
+[2024-07-23 19:50:17.119] [debug] [Marketplace] Release latest: v3.10.4  from https://api.github.com/repos/Sansui233/logseq-bonofix-theme/releases/assets/160490033
+[2024-07-23 19:50:17.120] [debug] [Marketplace] Release compare: v3.10.3 (current) >  v3.10.4 (latest)
+[2024-07-23 19:50:17.120] [debug] [Marketplace] Updating latest: v3.10.4
+[2024-07-23 19:50:17.121] [debug] [Marketplace] [Checked DONE] v3.10.4
+[2024-07-23 19:50:17.627] [debug] [Marketplace] === Updating: YU000jp/logseq-theme-classic-dark-theme-pack ===
+[2024-07-23 19:50:18.076] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/YU000jp/logseq-theme-classic-dark-theme-pack/releases/latest :status 200
+[2024-07-23 19:50:18.079] [debug] [Marketplace] Release latest: v1.6.0  from https://api.github.com/repos/YU000jp/logseq-theme-classic-dark-theme-pack/releases/assets/178040263
+[2024-07-23 19:50:18.079] [debug] [Marketplace] Release compare: v1.5.0 (current) >  v1.6.0 (latest)
+[2024-07-23 19:50:18.080] [debug] [Marketplace] Updating latest: v1.6.0
+[2024-07-23 19:50:18.080] [debug] [Marketplace] [Checked DONE] v1.6.0
+[2024-07-23 20:03:24.939] [info] new-window https://t.me/sysadmin_library/2816
+[2024-07-23 22:06:41.720] [debug] window-all-closed Quitting...
+[2024-07-24 10:02:58.544] [info] Logseq App(0.10.9) Starting... 
+[2024-07-24 10:02:58.553] [info] restore proxy settings {:type "system"}
+[2024-07-24 10:02:58.554] [info] set proxy to {:type "system"}
+[2024-07-24 10:03:01.569] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-07-24 10:03:01.688] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-07-24 10:03:01.689] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-07-24 10:03:02.270] [debug] [Marketplace] === Updating: YU000jp/logseq-theme-classic-dark-theme-pack ===
+[2024-07-24 10:03:02.800] [debug] [Marketplace] INFO: use github api -  https://plugins.logseq.io/github/api
+[2024-07-24 10:03:03.180] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/YU000jp/logseq-theme-classic-dark-theme-pack/releases/latest :status 200
+[2024-07-24 10:03:03.182] [debug] [Marketplace] Release latest: v1.6.0  from https://api.github.com/repos/YU000jp/logseq-theme-classic-dark-theme-pack/releases/assets/178040263
+[2024-07-24 10:03:03.182] [debug] [Marketplace] Release compare: v1.5.0 (current) >  v1.6.0 (latest)
+[2024-07-24 10:03:03.183] [debug] [Marketplace] Updating latest: v1.6.0
+[2024-07-24 10:03:03.183] [debug] [Marketplace] [Checked DONE] v1.6.0
+[2024-07-24 10:03:03.691] [debug] [Marketplace] === Updating: sansui233/logseq-bonofix-theme ===
+[2024-07-24 10:03:04.067] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/sansui233/logseq-bonofix-theme/releases/latest :status 200
+[2024-07-24 10:03:04.069] [debug] [Marketplace] Release latest: v3.10.4  from https://api.github.com/repos/Sansui233/logseq-bonofix-theme/releases/assets/160490033
+[2024-07-24 10:03:04.069] [debug] [Marketplace] Release compare: v3.10.3 (current) >  v3.10.4 (latest)
+[2024-07-24 10:03:04.069] [debug] [Marketplace] Updating latest: v3.10.4
+[2024-07-24 10:03:04.070] [debug] [Marketplace] [Checked DONE] v3.10.4
+[2024-07-24 10:09:18.849] [info] :electron.handler/unlink {:path "/home/scyth1an/Документы/_Logseq/pages/Утилита systemctl.md"}
+[2024-07-24 10:09:18.850] [debug] :electron.handler/unlink recycle to /home/scyth1an/Документы/_Logseq/logseq/.recycle/pages_Утилита systemctl.md
+[2024-07-24 10:09:18.965] [debug] :electron.fs-watcher/on-unlink {:path "/home/scyth1an/Документы/_Logseq/pages/Утилита systemctl.md"}
+[2024-07-24 10:12:55.484] [info] Logseq App(0.10.9) Starting... 
+[2024-07-24 10:12:55.497] [info] restore proxy settings {:type "system"}
+[2024-07-24 10:12:55.498] [info] set proxy to {:type "system"}
+[2024-07-24 10:12:58.400] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-07-24 10:12:58.512] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-07-24 10:12:58.513] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-07-24 10:12:59.675] [info] :electron.handler/backup backup db file pages/systemctl.md
+[2024-07-24 10:16:09.916] [debug] window-all-closed Quitting...
+[2024-08-14 10:56:56.426] [info] Logseq App(0.10.9) Starting... 
+[2024-08-14 10:56:56.430] [info] restore proxy settings {:type "system"}
+[2024-08-14 10:56:56.431] [info] set proxy to {:type "system"}
+[2024-08-14 10:56:59.351] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-08-14 10:56:59.373] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-08-14 10:56:59.373] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-08-14 10:56:59.850] [debug] [Marketplace] === Updating: sansui233/logseq-bonofix-theme ===
+[2024-08-14 10:57:00.684] [debug] [Marketplace] INFO: use github api -  https://plugins.logseq.io/github/api
+[2024-08-14 10:57:01.142] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/sansui233/logseq-bonofix-theme/releases/latest :status 200
+[2024-08-14 10:57:01.145] [debug] [Marketplace] Release latest: v3.10.4  from https://api.github.com/repos/Sansui233/logseq-bonofix-theme/releases/assets/160490033
+[2024-08-14 10:57:01.146] [debug] [Marketplace] Release compare: v3.10.3 (current) >  v3.10.4 (latest)
+[2024-08-14 10:57:01.147] [debug] [Marketplace] Updating latest: v3.10.4
+[2024-08-14 10:57:01.147] [debug] [Marketplace] [Checked DONE] v3.10.4
+[2024-08-14 10:57:01.656] [debug] [Marketplace] === Updating: YU000jp/logseq-theme-classic-dark-theme-pack ===
+[2024-08-14 10:57:01.922] [debug] [Marketplace] Error: Github API Failed(404) {"message":"Not Found","documentation_url":"https://docs.github.com/rest","status":"404"}
+    at /opt/logseq-desktop/resources/app/electron.js:14226:25
+    at Function.$G__108146__1$$ [as $cljs$core$IFn$_invoke$arity$1$] (/opt/logseq-desktop/resources/app/electron.js:4104:175)
+    at /opt/logseq-desktop/resources/app/electron.js:13064:80
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-08-14 10:57:01.923] [debug] [Marketplace] Error: [:release-channel-issue "Github API Failed(404) {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest\",\"status\":\"404\"}"]
+    at /opt/logseq-desktop/resources/app/electron.js:14260:11
+    at /opt/logseq-desktop/resources/app/electron.js:13090:152
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-08-14 11:01:55.131] [debug] window-all-closed Quitting...
+[2024-08-19 18:48:01.894] [info] Logseq App(0.10.9) Starting... 
+[2024-08-19 18:48:01.899] [info] restore proxy settings {:type "system"}
+[2024-08-19 18:48:01.900] [info] set proxy to {:type "system"}
+[2024-08-19 18:48:04.921] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-08-19 18:48:04.960] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-08-19 18:48:04.962] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-08-19 18:48:05.524] [debug] [Marketplace] === Updating: YU000jp/logseq-theme-classic-dark-theme-pack ===
+[2024-08-19 18:48:05.987] [debug] [Marketplace] INFO: use github api -  https://plugins.logseq.io/github/api
+[2024-08-19 18:48:06.584] [debug] [Marketplace] Error: Github API Failed(404) {"message":"Not Found","documentation_url":"https://docs.github.com/rest","status":"404"}
+    at /opt/logseq-desktop/resources/app/electron.js:14226:25
+    at Function.$G__108146__1$$ [as $cljs$core$IFn$_invoke$arity$1$] (/opt/logseq-desktop/resources/app/electron.js:4104:175)
+    at /opt/logseq-desktop/resources/app/electron.js:13064:80
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-08-19 18:48:06.587] [debug] [Marketplace] Error: [:release-channel-issue "Github API Failed(404) {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest\",\"status\":\"404\"}"]
+    at /opt/logseq-desktop/resources/app/electron.js:14260:11
+    at /opt/logseq-desktop/resources/app/electron.js:13090:152
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-08-19 18:48:07.096] [debug] [Marketplace] === Updating: sansui233/logseq-bonofix-theme ===
+[2024-08-19 18:48:07.506] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/sansui233/logseq-bonofix-theme/releases/latest :status 200
+[2024-08-19 18:48:07.508] [debug] [Marketplace] Release latest: v3.10.4  from https://api.github.com/repos/Sansui233/logseq-bonofix-theme/releases/assets/160490033
+[2024-08-19 18:48:07.509] [debug] [Marketplace] Release compare: v3.10.3 (current) >  v3.10.4 (latest)
+[2024-08-19 18:48:07.509] [debug] [Marketplace] Updating latest: v3.10.4
+[2024-08-19 18:48:07.509] [debug] [Marketplace] [Checked DONE] v3.10.4
+[2024-08-19 20:54:35.477] [debug] window-all-closed Quitting...
+[2024-08-19 22:08:08.916] [info] Logseq App(0.10.9) Starting... 
+[2024-08-19 22:08:08.920] [info] restore proxy settings {:type "system"}
+[2024-08-19 22:08:08.921] [info] set proxy to {:type "system"}
+[2024-08-19 22:08:12.088] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-08-19 22:08:12.186] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-08-19 22:08:12.186] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-08-19 22:14:56.110] [debug] window-all-closed Quitting...
+[2024-08-22 12:42:02.390] [info] Logseq App(0.10.9) Starting... 
+[2024-08-22 12:42:02.399] [info] restore proxy settings {:type "system"}
+[2024-08-22 12:42:02.400] [info] set proxy to {:type "system"}
+[2024-08-22 12:42:05.346] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-08-22 12:42:05.387] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-08-22 12:42:05.388] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-08-22 12:42:05.910] [debug] [Marketplace] === Updating: YU000jp/logseq-theme-classic-dark-theme-pack ===
+[2024-08-22 12:42:06.704] [debug] [Marketplace] INFO: use github api -  https://plugins.logseq.io/github/api
+[2024-08-22 12:42:07.050] [debug] [Marketplace] Error: Github API Failed(404) {"message":"Not Found","documentation_url":"https://docs.github.com/rest","status":"404"}
+    at /opt/logseq-desktop/resources/app/electron.js:14226:25
+    at Function.$G__108146__1$$ [as $cljs$core$IFn$_invoke$arity$1$] (/opt/logseq-desktop/resources/app/electron.js:4104:175)
+    at /opt/logseq-desktop/resources/app/electron.js:13064:80
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-08-22 12:42:07.054] [debug] [Marketplace] Error: [:release-channel-issue "Github API Failed(404) {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest\",\"status\":\"404\"}"]
+    at /opt/logseq-desktop/resources/app/electron.js:14260:11
+    at /opt/logseq-desktop/resources/app/electron.js:13090:152
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-08-22 12:42:07.623] [debug] [Marketplace] === Updating: sansui233/logseq-bonofix-theme ===
+[2024-08-22 12:42:08.053] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/sansui233/logseq-bonofix-theme/releases/latest :status 200
+[2024-08-22 12:42:08.055] [debug] [Marketplace] Release latest: v3.10.4  from https://api.github.com/repos/Sansui233/logseq-bonofix-theme/releases/assets/160490033
+[2024-08-22 12:42:08.055] [debug] [Marketplace] Release compare: v3.10.3 (current) >  v3.10.4 (latest)
+[2024-08-22 12:42:08.056] [debug] [Marketplace] Updating latest: v3.10.4
+[2024-08-22 12:42:08.056] [debug] [Marketplace] [Checked DONE] v3.10.4
+[2024-09-03 18:00:53.922] [info] Logseq App(0.10.9) Starting... 
+[2024-09-03 18:00:53.932] [info] restore proxy settings {:type "system"}
+[2024-09-03 18:00:53.933] [info] set proxy to {:type "system"}
+[2024-09-03 18:00:57.087] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-09-03 18:00:57.135] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-09-03 18:00:57.136] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-09-03 18:00:57.723] [debug] [Marketplace] === Updating: sansui233/logseq-bonofix-theme ===
+[2024-09-03 18:00:58.532] [debug] [Marketplace] INFO: use github api -  https://plugins.logseq.io/github/api
+[2024-09-03 18:00:58.937] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/sansui233/logseq-bonofix-theme/releases/latest :status 200
+[2024-09-03 18:00:58.941] [debug] [Marketplace] Release latest: v3.10.4  from https://api.github.com/repos/Sansui233/logseq-bonofix-theme/releases/assets/160490033
+[2024-09-03 18:00:58.942] [debug] [Marketplace] Release compare: v3.10.3 (current) >  v3.10.4 (latest)
+[2024-09-03 18:00:58.942] [debug] [Marketplace] Updating latest: v3.10.4
+[2024-09-03 18:00:58.943] [debug] [Marketplace] [Checked DONE] v3.10.4
+[2024-09-03 18:00:59.465] [debug] [Marketplace] === Updating: YU000jp/logseq-theme-classic-dark-theme-pack ===
+[2024-09-03 18:00:59.807] [debug] [Marketplace] Error: Github API Failed(404) {"message":"Not Found","documentation_url":"https://docs.github.com/rest","status":"404"}
+    at /opt/logseq-desktop/resources/app/electron.js:14226:25
+    at Function.$G__108146__1$$ [as $cljs$core$IFn$_invoke$arity$1$] (/opt/logseq-desktop/resources/app/electron.js:4104:175)
+    at /opt/logseq-desktop/resources/app/electron.js:13064:80
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-09-03 18:00:59.809] [debug] [Marketplace] Error: [:release-channel-issue "Github API Failed(404) {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest\",\"status\":\"404\"}"]
+    at /opt/logseq-desktop/resources/app/electron.js:14260:11
+    at /opt/logseq-desktop/resources/app/electron.js:13090:152
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-09-03 18:05:24.990] [info] :electron.handler/backup backup db file logseq/config.edn
+[2024-09-03 23:44:01.083] [debug] window-all-closed Quitting...
+[2024-09-05 18:03:13.049] [info] Logseq App(0.10.9) Starting... 
+[2024-09-05 18:03:13.060] [info] restore proxy settings {:type "system"}
+[2024-09-05 18:03:13.061] [info] set proxy to {:type "system"}
+[2024-09-05 18:03:16.107] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-09-05 18:03:16.150] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-09-05 18:03:16.152] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-09-05 18:03:16.738] [debug] [Marketplace] === Updating: sansui233/logseq-bonofix-theme ===
+[2024-09-05 18:03:17.587] [debug] [Marketplace] INFO: use github api -  https://plugins.logseq.io/github/api
+[2024-09-05 18:03:17.976] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/sansui233/logseq-bonofix-theme/releases/latest :status 200
+[2024-09-05 18:03:17.978] [debug] [Marketplace] Release latest: v3.10.4  from https://api.github.com/repos/Sansui233/logseq-bonofix-theme/releases/assets/160490033
+[2024-09-05 18:03:17.978] [debug] [Marketplace] Release compare: v3.10.3 (current) >  v3.10.4 (latest)
+[2024-09-05 18:03:17.979] [debug] [Marketplace] Updating latest: v3.10.4
+[2024-09-05 18:03:17.979] [debug] [Marketplace] [Checked DONE] v3.10.4
+[2024-09-05 18:03:18.488] [debug] [Marketplace] === Updating: YU000jp/logseq-theme-classic-dark-theme-pack ===
+[2024-09-05 18:03:18.862] [debug] [Marketplace] Error: Github API Failed(404) {"message":"Not Found","documentation_url":"https://docs.github.com/rest","status":"404"}
+    at /opt/logseq-desktop/resources/app/electron.js:14226:25
+    at Function.$G__108146__1$$ [as $cljs$core$IFn$_invoke$arity$1$] (/opt/logseq-desktop/resources/app/electron.js:4104:175)
+    at /opt/logseq-desktop/resources/app/electron.js:13064:80
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-09-05 18:03:18.864] [debug] [Marketplace] Error: [:release-channel-issue "Github API Failed(404) {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest\",\"status\":\"404\"}"]
+    at /opt/logseq-desktop/resources/app/electron.js:14260:11
+    at /opt/logseq-desktop/resources/app/electron.js:13090:152
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-09-05 18:19:20.698] [debug] window-all-closed Quitting...
+[2024-09-05 19:04:39.602] [info] Logseq App(0.10.9) Starting... 
+[2024-09-05 19:04:39.610] [info] restore proxy settings {:type "system"}
+[2024-09-05 19:04:39.610] [info] set proxy to {:type "system"}
+[2024-09-05 19:04:42.642] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-09-05 19:04:42.735] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-09-05 19:04:42.737] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-09-05 19:23:52.118] [info] :electron.handler/rename from /home/scyth1an/Документы/_Logseq/pages/Normal.md to /home/scyth1an/Документы/_Logseq/pages/Normal - Нормальный режим.md
+[2024-09-05 19:23:52.222] [debug] :electron.fs-watcher/on-unlink {:path "/home/scyth1an/Документы/_Logseq/pages/Normal.md"}
+[2024-09-05 19:40:27.008] [info] :electron.handler/rename from /home/scyth1an/Документы/_Logseq/pages/Normal - Нормальный режим.md to /home/scyth1an/Документы/_Logseq/pages/Normal Mode - Нормальный режим.md
+[2024-09-05 19:40:27.111] [debug] :electron.fs-watcher/on-unlink {:path "/home/scyth1an/Документы/_Logseq/pages/Normal - Нормальный режим.md"}
+[2024-09-05 19:40:39.790] [info] :electron.handler/rename from /home/scyth1an/Документы/_Logseq/pages/Insert - Режим вставки (редактирования).md to /home/scyth1an/Документы/_Logseq/pages/Insert Mode - Режим вставки (редактирования).md
+[2024-09-05 19:40:39.891] [debug] :electron.fs-watcher/on-unlink {:path "/home/scyth1an/Документы/_Logseq/pages/Insert - Режим вставки (редактирования).md"}
+[2024-09-05 19:45:05.684] [debug] window-all-closed Quitting...
+[2024-09-05 20:10:18.066] [info] Logseq App(0.10.9) Starting... 
+[2024-09-05 20:10:18.070] [info] restore proxy settings {:type "system"}
+[2024-09-05 20:10:18.070] [info] set proxy to {:type "system"}
+[2024-09-05 20:10:21.051] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-09-05 20:10:21.154] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-09-05 20:10:21.154] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-09-05 20:23:57.966] [debug] window-all-closed Quitting...
+[2024-09-05 21:37:49.212] [info] Logseq App(0.10.9) Starting... 
+[2024-09-05 21:37:49.219] [info] restore proxy settings {:type "system"}
+[2024-09-05 21:37:49.221] [info] set proxy to {:type "system"}
+[2024-09-05 21:37:52.127] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-09-05 21:37:52.230] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-09-05 21:37:52.231] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-09-05 21:45:06.605] [info] :electron.handler/rename from /home/scyth1an/Документы/_Logseq/pages/Команда отмены.md to /home/scyth1an/Документы/_Logseq/pages/Команды `Отменить` и `Повторить`.md
+[2024-09-05 21:45:06.711] [debug] :electron.fs-watcher/on-unlink {:path "/home/scyth1an/Документы/_Logseq/pages/Команда отмены.md"}
+[2024-09-05 21:47:22.216] [info] :electron.handler/rename from /home/scyth1an/Документы/_Logseq/pages/Visual Mode - Визуальный режим (Режим выделения).md to /home/scyth1an/Документы/_Logseq/pages/`Visual Mode` - Визуальный режим (Режим выделения).md
+[2024-09-05 21:47:22.321] [debug] :electron.fs-watcher/on-unlink {:path "/home/scyth1an/Документы/_Logseq/pages/Visual Mode - Визуальный режим (Режим выделения).md"}
+[2024-09-05 21:47:39.675] [info] :electron.handler/rename from /home/scyth1an/Документы/_Logseq/pages/Insert Mode - Режим вставки (редактирования).md to /home/scyth1an/Документы/_Logseq/pages/`Insert Mode` - Режим вставки (редактирования).md
+[2024-09-05 21:47:39.777] [debug] :electron.fs-watcher/on-unlink {:path "/home/scyth1an/Документы/_Logseq/pages/Insert Mode - Режим вставки (редактирования).md"}
+[2024-09-05 21:47:52.331] [info] :electron.handler/rename from /home/scyth1an/Документы/_Logseq/pages/Normal Mode - Нормальный режим.md to /home/scyth1an/Документы/_Logseq/pages/`Normal Mode` - Нормальный режим.md
+[2024-09-05 21:47:52.434] [debug] :electron.fs-watcher/on-unlink {:path "/home/scyth1an/Документы/_Logseq/pages/Normal Mode - Нормальный режим.md"}
+[2024-09-05 21:51:46.656] [info] :electron.handler/rename from /home/scyth1an/Документы/_Logseq/pages/Команды `Отменить` и `Повторить`.md to /home/scyth1an/Документы/_Logseq/pages/Команды.md
+[2024-09-05 21:51:46.758] [debug] :electron.fs-watcher/on-unlink {:path "/home/scyth1an/Документы/_Logseq/pages/Команды `Отменить` и `Повторить`.md"}
+[2024-09-05 22:37:23.939] [info] :electron.handler/rename from /home/scyth1an/Документы/_Logseq/pages/Visual-Line.md to /home/scyth1an/Документы/_Logseq/pages/Visual-Line - Визуальный режим (Режим выделения) с выделением текущей строки.md
+[2024-09-05 22:37:24.040] [debug] :electron.fs-watcher/on-unlink {:path "/home/scyth1an/Документы/_Logseq/pages/Visual-Line.md"}
+[2024-09-06 00:14:45.069] [debug] window-all-closed Quitting...
+[2024-09-13 21:55:10.411] [info] Logseq App(0.10.9) Starting... 
+[2024-09-13 21:55:10.420] [info] restore proxy settings {:type "system"}
+[2024-09-13 21:55:10.421] [info] set proxy to {:type "system"}
+[2024-09-13 21:55:13.391] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-09-13 21:55:13.416] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-09-13 21:55:13.417] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-09-13 21:55:13.861] [debug] [Marketplace] === Updating: sansui233/logseq-bonofix-theme ===
+[2024-09-13 21:55:14.565] [debug] [Marketplace] INFO: use github api -  https://plugins.logseq.io/github/api
+[2024-09-13 21:55:15.283] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/sansui233/logseq-bonofix-theme/releases/latest :status 200
+[2024-09-13 21:55:15.285] [debug] [Marketplace] Release latest: v3.10.4  from https://api.github.com/repos/Sansui233/logseq-bonofix-theme/releases/assets/160490033
+[2024-09-13 21:55:15.286] [debug] [Marketplace] Release compare: v3.10.3 (current) >  v3.10.4 (latest)
+[2024-09-13 21:55:15.286] [debug] [Marketplace] Updating latest: v3.10.4
+[2024-09-13 21:55:15.287] [debug] [Marketplace] [Checked DONE] v3.10.4
+[2024-09-13 21:55:15.799] [debug] [Marketplace] === Updating: YU000jp/logseq-theme-classic-dark-theme-pack ===
+[2024-09-13 21:55:16.333] [debug] [Marketplace] Error: Github API Failed(404) {"message":"Not Found","documentation_url":"https://docs.github.com/rest","status":"404"}
+    at /opt/logseq-desktop/resources/app/electron.js:14226:25
+    at Function.$G__108146__1$$ [as $cljs$core$IFn$_invoke$arity$1$] (/opt/logseq-desktop/resources/app/electron.js:4104:175)
+    at /opt/logseq-desktop/resources/app/electron.js:13064:80
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-09-13 21:55:16.334] [debug] [Marketplace] Error: [:release-channel-issue "Github API Failed(404) {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest\",\"status\":\"404\"}"]
+    at /opt/logseq-desktop/resources/app/electron.js:14260:11
+    at /opt/logseq-desktop/resources/app/electron.js:13090:152
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-09-13 21:56:44.160] [debug] window-all-closed Quitting...
+[2024-09-13 21:56:46.271] [info] Logseq App(0.10.9) Starting... 
+[2024-09-13 21:56:46.276] [info] restore proxy settings {:type "system"}
+[2024-09-13 21:56:46.276] [info] set proxy to {:type "system"}
+[2024-09-13 21:56:49.270] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-09-13 21:56:49.364] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-09-13 21:56:49.365] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-09-15 22:04:17.216] [info] Logseq App(0.10.9) Starting... 
+[2024-09-15 22:04:17.222] [info] restore proxy settings {:type "system"}
+[2024-09-15 22:04:17.223] [info] set proxy to {:type "system"}
+[2024-09-15 22:04:20.297] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-09-15 22:04:20.349] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-09-15 22:04:20.350] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-09-15 22:04:56.828] [debug] window-all-closed Quitting...
+[2024-09-15 22:34:09.672] [info] Logseq App(0.10.9) Starting... 
+[2024-09-15 22:34:09.676] [info] restore proxy settings {:type "system"}
+[2024-09-15 22:34:09.676] [info] set proxy to {:type "system"}
+[2024-09-15 22:34:12.673] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-09-15 22:34:12.718] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-09-15 22:34:12.719] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-09-15 22:35:34.907] [debug] window-all-closed Quitting...
+[2024-09-15 23:39:25.601] [info] Logseq App(0.10.9) Starting... 
+[2024-09-15 23:39:25.609] [info] restore proxy settings {:type "system"}
+[2024-09-15 23:39:25.610] [info] set proxy to {:type "system"}
+[2024-09-15 23:39:28.546] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-09-15 23:39:28.592] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-09-15 23:39:28.593] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-09-15 23:42:17.851] [debug] window-all-closed Quitting...
+[2024-09-17 17:37:34.761] [info] Logseq App(0.10.9) Starting... 
+[2024-09-17 17:37:34.771] [info] restore proxy settings {:type "system"}
+[2024-09-17 17:37:34.772] [info] set proxy to {:type "system"}
+[2024-09-17 17:37:37.858] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-09-17 17:37:37.898] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-09-17 17:37:37.899] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-09-17 17:37:38.499] [debug] [Marketplace] === Updating: sansui233/logseq-bonofix-theme ===
+[2024-09-17 17:37:39.345] [debug] [Marketplace] INFO: use github api -  https://plugins.logseq.io/github/api
+[2024-09-17 17:37:39.721] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/sansui233/logseq-bonofix-theme/releases/latest :status 200
+[2024-09-17 17:37:39.724] [debug] [Marketplace] Release latest: v3.10.4  from https://api.github.com/repos/Sansui233/logseq-bonofix-theme/releases/assets/160490033
+[2024-09-17 17:37:39.724] [debug] [Marketplace] Release compare: v3.10.3 (current) >  v3.10.4 (latest)
+[2024-09-17 17:37:39.725] [debug] [Marketplace] Updating latest: v3.10.4
+[2024-09-17 17:37:39.725] [debug] [Marketplace] [Checked DONE] v3.10.4
+[2024-09-17 17:37:40.242] [debug] [Marketplace] === Updating: YU000jp/logseq-theme-classic-dark-theme-pack ===
+[2024-09-17 17:37:40.594] [debug] [Marketplace] Error: Github API Failed(404) {"message":"Not Found","documentation_url":"https://docs.github.com/rest","status":"404"}
+    at /opt/logseq-desktop/resources/app/electron.js:14226:25
+    at Function.$G__108146__1$$ [as $cljs$core$IFn$_invoke$arity$1$] (/opt/logseq-desktop/resources/app/electron.js:4104:175)
+    at /opt/logseq-desktop/resources/app/electron.js:13064:80
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-09-17 17:37:40.595] [debug] [Marketplace] Error: [:release-channel-issue "Github API Failed(404) {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest\",\"status\":\"404\"}"]
+    at /opt/logseq-desktop/resources/app/electron.js:14260:11
+    at /opt/logseq-desktop/resources/app/electron.js:13090:152
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-09-18 01:38:22.602] [debug] window-all-closed Quitting...
+[2024-09-20 10:53:58.366] [info] Logseq App(0.10.9) Starting... 
+[2024-09-20 10:53:58.371] [info] restore proxy settings {:type "system"}
+[2024-09-20 10:53:58.373] [info] set proxy to {:type "system"}
+[2024-09-20 10:54:01.345] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-09-20 10:54:01.393] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-09-20 10:54:01.394] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-09-20 10:54:01.958] [debug] [Marketplace] === Updating: YU000jp/logseq-theme-classic-dark-theme-pack ===
+[2024-09-20 10:54:02.837] [debug] [Marketplace] INFO: use github api -  https://plugins.logseq.io/github/api
+[2024-09-20 10:54:03.214] [debug] [Marketplace] Error: Github API Failed(404) {"message":"Not Found","documentation_url":"https://docs.github.com/rest","status":"404"}
+    at /opt/logseq-desktop/resources/app/electron.js:14226:25
+    at Function.$G__108146__1$$ [as $cljs$core$IFn$_invoke$arity$1$] (/opt/logseq-desktop/resources/app/electron.js:4104:175)
+    at /opt/logseq-desktop/resources/app/electron.js:13064:80
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-09-20 10:54:03.217] [debug] [Marketplace] Error: [:release-channel-issue "Github API Failed(404) {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest\",\"status\":\"404\"}"]
+    at /opt/logseq-desktop/resources/app/electron.js:14260:11
+    at /opt/logseq-desktop/resources/app/electron.js:13090:152
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-09-20 10:54:03.725] [debug] [Marketplace] === Updating: sansui233/logseq-bonofix-theme ===
+[2024-09-20 10:54:04.106] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/sansui233/logseq-bonofix-theme/releases/latest :status 200
+[2024-09-20 10:54:04.110] [debug] [Marketplace] Release latest: v3.10.4  from https://api.github.com/repos/Sansui233/logseq-bonofix-theme/releases/assets/160490033
+[2024-09-20 10:54:04.111] [debug] [Marketplace] Release compare: v3.10.3 (current) >  v3.10.4 (latest)
+[2024-09-20 10:54:04.112] [debug] [Marketplace] Updating latest: v3.10.4
+[2024-09-20 10:54:04.112] [debug] [Marketplace] [Checked DONE] v3.10.4
+[2024-09-27 15:43:46.821] [info] Logseq App(0.10.9) Starting... 
+[2024-09-27 15:43:46.830] [info] restore proxy settings {:type "system"}
+[2024-09-27 15:43:46.831] [info] set proxy to {:type "system"}
+[2024-09-27 15:43:49.954] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-09-27 15:43:49.995] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-09-27 15:43:49.996] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-09-27 15:43:50.595] [debug] [Marketplace] === Updating: sansui233/logseq-bonofix-theme ===
+[2024-09-27 15:43:51.013] [debug] [Marketplace] INFO: use github api -  https://plugins.logseq.io/github/api
+[2024-09-27 15:43:51.495] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/sansui233/logseq-bonofix-theme/releases/latest :status 200
+[2024-09-27 15:43:51.502] [debug] [Marketplace] Release latest: v3.10.4  from https://api.github.com/repos/Sansui233/logseq-bonofix-theme/releases/assets/160490033
+[2024-09-27 15:43:51.503] [debug] [Marketplace] Release compare: v3.10.3 (current) >  v3.10.4 (latest)
+[2024-09-27 15:43:51.504] [debug] [Marketplace] Updating latest: v3.10.4
+[2024-09-27 15:43:51.505] [debug] [Marketplace] [Checked DONE] v3.10.4
+[2024-09-27 15:43:52.017] [debug] [Marketplace] === Updating: YU000jp/logseq-theme-classic-dark-theme-pack ===
+[2024-09-27 15:43:52.604] [debug] [Marketplace] Error: Github API Failed(404) {"message":"Not Found","documentation_url":"https://docs.github.com/rest","status":"404"}
+    at /opt/logseq-desktop/resources/app/electron.js:14226:25
+    at Function.$G__108146__1$$ [as $cljs$core$IFn$_invoke$arity$1$] (/opt/logseq-desktop/resources/app/electron.js:4104:175)
+    at /opt/logseq-desktop/resources/app/electron.js:13064:80
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-09-27 15:43:52.606] [debug] [Marketplace] Error: [:release-channel-issue "Github API Failed(404) {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest\",\"status\":\"404\"}"]
+    at /opt/logseq-desktop/resources/app/electron.js:14260:11
+    at /opt/logseq-desktop/resources/app/electron.js:13090:152
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-09-28 20:03:29.360] [info] Logseq App(0.10.9) Starting... 
+[2024-09-28 20:03:29.365] [info] restore proxy settings {:type "system"}
+[2024-09-28 20:03:29.366] [info] set proxy to {:type "system"}
+[2024-09-28 20:03:32.303] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-09-28 20:03:32.348] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-09-28 20:03:32.349] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-09-28 20:03:32.937] [debug] [Marketplace] === Updating: sansui233/logseq-bonofix-theme ===
+[2024-09-28 20:03:33.911] [debug] [Marketplace] INFO: use github api -  https://plugins.logseq.io/github/api
+[2024-09-28 20:03:33.920] [info] :electron.handler/backup backup db file pages/`Normal Mode` - Нормальный режим.md
+[2024-09-28 20:03:34.345] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/sansui233/logseq-bonofix-theme/releases/latest :status 200
+[2024-09-28 20:03:34.348] [debug] [Marketplace] Release latest: v3.10.4  from https://api.github.com/repos/Sansui233/logseq-bonofix-theme/releases/assets/160490033
+[2024-09-28 20:03:34.348] [debug] [Marketplace] Release compare: v3.10.3 (current) >  v3.10.4 (latest)
+[2024-09-28 20:03:34.349] [debug] [Marketplace] Updating latest: v3.10.4
+[2024-09-28 20:03:34.349] [debug] [Marketplace] [Checked DONE] v3.10.4
+[2024-09-28 20:03:34.859] [debug] [Marketplace] === Updating: YU000jp/logseq-theme-classic-dark-theme-pack ===
+[2024-09-28 20:03:35.198] [debug] [Marketplace] Error: Github API Failed(404) {"message":"Not Found","documentation_url":"https://docs.github.com/rest","status":"404"}
+    at /opt/logseq-desktop/resources/app/electron.js:14226:25
+    at Function.$G__108146__1$$ [as $cljs$core$IFn$_invoke$arity$1$] (/opt/logseq-desktop/resources/app/electron.js:4104:175)
+    at /opt/logseq-desktop/resources/app/electron.js:13064:80
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-09-28 20:03:35.200] [debug] [Marketplace] Error: [:release-channel-issue "Github API Failed(404) {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest\",\"status\":\"404\"}"]
+    at /opt/logseq-desktop/resources/app/electron.js:14260:11
+    at /opt/logseq-desktop/resources/app/electron.js:13090:152
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-09-28 23:29:39.280] [debug] window-all-closed Quitting...
+[2024-10-07 16:47:56.421] [info] Logseq App(0.10.9) Starting... 
+[2024-10-07 16:47:56.432] [info] restore proxy settings {:type "system"}
+[2024-10-07 16:47:56.432] [info] set proxy to {:type "system"}
+[2024-10-07 16:47:59.465] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-10-07 16:47:59.511] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-10-07 16:47:59.513] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-10-07 16:47:59.953] [debug] [Marketplace] === Updating: sansui233/logseq-bonofix-theme ===
+[2024-10-07 16:48:00.564] [debug] [Marketplace] INFO: use github api -  https://plugins.logseq.io/github/api
+[2024-10-07 16:48:01.178] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/sansui233/logseq-bonofix-theme/releases/latest :status 200
+[2024-10-07 16:48:01.184] [debug] [Marketplace] Release latest: v3.10.4  from https://api.github.com/repos/Sansui233/logseq-bonofix-theme/releases/assets/160490033
+[2024-10-07 16:48:01.186] [debug] [Marketplace] Release compare: v3.10.3 (current) >  v3.10.4 (latest)
+[2024-10-07 16:48:01.187] [debug] [Marketplace] Updating latest: v3.10.4
+[2024-10-07 16:48:01.187] [debug] [Marketplace] [Checked DONE] v3.10.4
+[2024-10-07 16:48:01.923] [debug] [Marketplace] === Updating: YU000jp/logseq-theme-classic-dark-theme-pack ===
+[2024-10-07 16:48:02.276] [debug] [Marketplace] Error: Github API Failed(404) {"message":"Not Found","documentation_url":"https://docs.github.com/rest","status":"404"}
+    at /opt/logseq-desktop/resources/app/electron.js:14226:25
+    at Function.$G__108146__1$$ [as $cljs$core$IFn$_invoke$arity$1$] (/opt/logseq-desktop/resources/app/electron.js:4104:175)
+    at /opt/logseq-desktop/resources/app/electron.js:13064:80
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-10-07 16:48:02.278] [debug] [Marketplace] Error: [:release-channel-issue "Github API Failed(404) {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest\",\"status\":\"404\"}"]
+    at /opt/logseq-desktop/resources/app/electron.js:14260:11
+    at /opt/logseq-desktop/resources/app/electron.js:13090:152
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-10-07 23:43:14.486] [debug] window-all-closed Quitting...
+[2024-10-09 01:31:49.085] [info] Logseq App(0.10.9) Starting... 
+[2024-10-09 01:31:49.094] [info] restore proxy settings {:type "system"}
+[2024-10-09 01:31:49.095] [info] set proxy to {:type "system"}
+[2024-10-09 01:31:52.103] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-10-09 01:31:52.127] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-10-09 01:31:52.128] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-10-09 01:31:52.605] [debug] [Marketplace] === Updating: YU000jp/logseq-theme-classic-dark-theme-pack ===
+[2024-10-09 01:31:53.453] [debug] [Marketplace] INFO: use github api -  https://plugins.logseq.io/github/api
+[2024-10-09 01:31:53.770] [debug] [Marketplace] Error: Github API Failed(404) {"message":"Not Found","documentation_url":"https://docs.github.com/rest","status":"404"}
+    at /opt/logseq-desktop/resources/app/electron.js:14226:25
+    at Function.$G__108146__1$$ [as $cljs$core$IFn$_invoke$arity$1$] (/opt/logseq-desktop/resources/app/electron.js:4104:175)
+    at /opt/logseq-desktop/resources/app/electron.js:13064:80
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-10-09 01:31:53.773] [debug] [Marketplace] Error: [:release-channel-issue "Github API Failed(404) {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest\",\"status\":\"404\"}"]
+    at /opt/logseq-desktop/resources/app/electron.js:14260:11
+    at /opt/logseq-desktop/resources/app/electron.js:13090:152
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-10-09 01:31:54.285] [debug] [Marketplace] === Updating: sansui233/logseq-bonofix-theme ===
+[2024-10-09 01:31:54.676] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/sansui233/logseq-bonofix-theme/releases/latest :status 200
+[2024-10-09 01:31:54.679] [debug] [Marketplace] Release latest: v3.10.4  from https://api.github.com/repos/Sansui233/logseq-bonofix-theme/releases/assets/160490033
+[2024-10-09 01:31:54.680] [debug] [Marketplace] Release compare: v3.10.3 (current) >  v3.10.4 (latest)
+[2024-10-09 01:31:54.682] [debug] [Marketplace] Updating latest: v3.10.4
+[2024-10-09 01:31:54.682] [debug] [Marketplace] [Checked DONE] v3.10.4
+[2024-10-09 01:48:23.141] [debug] window-all-closed Quitting...
+[2024-10-21 13:08:02.926] [info] Logseq App(0.10.9) Starting... 
+[2024-10-21 13:08:02.931] [info] restore proxy settings {:type "system"}
+[2024-10-21 13:08:02.931] [info] set proxy to {:type "system"}
+[2024-10-21 13:08:05.961] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-10-21 13:08:06.001] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-10-21 13:08:06.001] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-10-21 13:08:06.491] [debug] [Marketplace] === Updating: sansui233/logseq-bonofix-theme ===
+[2024-10-21 13:08:06.975] [debug] [Marketplace] INFO: use github api -  https://plugins.logseq.io/github/api
+[2024-10-21 13:08:07.779] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/sansui233/logseq-bonofix-theme/releases/latest :status 200
+[2024-10-21 13:08:07.786] [debug] [Marketplace] Release latest: v3.10.4  from https://api.github.com/repos/Sansui233/logseq-bonofix-theme/releases/assets/160490033
+[2024-10-21 13:08:07.787] [debug] [Marketplace] Release compare: v3.10.3 (current) >  v3.10.4 (latest)
+[2024-10-21 13:08:07.788] [debug] [Marketplace] Updating latest: v3.10.4
+[2024-10-21 13:08:07.789] [debug] [Marketplace] [Checked DONE] v3.10.4
+[2024-10-21 13:08:08.300] [debug] [Marketplace] === Updating: YU000jp/logseq-theme-classic-dark-theme-pack ===
+[2024-10-21 13:08:08.782] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/YU000jp/logseq-theme-classic-dark-theme-pack/releases/latest :status 200
+[2024-10-21 13:08:08.785] [debug] [Marketplace] Release latest: v1.6.0  from https://api.github.com/repos/YU000jp/logseq-theme-classic-dark-theme-pack/releases/assets/178040263
+[2024-10-21 13:08:08.789] [debug] [Marketplace] Release compare: v1.5.0 (current) >  v1.6.0 (latest)
+[2024-10-21 13:08:08.790] [debug] [Marketplace] Updating latest: v1.6.0
+[2024-10-21 13:08:08.790] [debug] [Marketplace] [Checked DONE] v1.6.0
+[2024-10-27 08:59:34.328] [info] Logseq App(0.10.9) Starting... 
+[2024-10-27 08:59:34.342] [info] restore proxy settings {:type "system"}
+[2024-10-27 08:59:34.342] [info] set proxy to {:type "system"}
+[2024-10-27 08:59:37.252] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/.logseq/config"}
+[2024-10-27 08:59:37.293] [debug] :electron.handler/unwatch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-10-27 08:59:37.294] [debug] :electron.handler/watch-dir {:path "/home/scyth1an/Документы/_Logseq"}
+[2024-10-27 08:59:37.774] [debug] [Marketplace] === Updating: sansui233/logseq-bonofix-theme ===
+[2024-10-27 08:59:38.627] [debug] [Marketplace] INFO: use github api -  https://plugins.logseq.io/github/api
+[2024-10-27 08:59:38.982] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/sansui233/logseq-bonofix-theme/releases/latest :status 200
+[2024-10-27 08:59:38.985] [debug] [Marketplace] Release latest: v3.10.4  from https://api.github.com/repos/Sansui233/logseq-bonofix-theme/releases/assets/160490033
+[2024-10-27 08:59:38.986] [debug] [Marketplace] Release compare: v3.10.3 (current) >  v3.10.4 (latest)
+[2024-10-27 08:59:38.986] [debug] [Marketplace] Updating latest: v3.10.4
+[2024-10-27 08:59:38.987] [debug] [Marketplace] [Checked DONE] v3.10.4
+[2024-10-27 08:59:39.499] [debug] [Marketplace] === Updating: YU000jp/logseq-theme-classic-dark-theme-pack ===
+[2024-10-27 08:59:39.887] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/YU000jp/logseq-theme-classic-dark-theme-pack/releases/latest :status 200
+[2024-10-27 08:59:39.891] [debug] [Marketplace] Release latest: v1.6.0  from https://api.github.com/repos/YU000jp/logseq-theme-classic-dark-theme-pack/releases/assets/178040263
+[2024-10-27 08:59:39.891] [debug] [Marketplace] Release compare: v1.5.0 (current) >  v1.6.0 (latest)
+[2024-10-27 08:59:39.892] [debug] [Marketplace] Updating latest: v1.6.0
+[2024-10-27 08:59:39.892] [debug] [Marketplace] [Checked DONE] v1.6.0

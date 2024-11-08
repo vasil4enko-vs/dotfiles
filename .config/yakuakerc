@@ -1,0 +1,20 @@
+[Appearance]
+HideSkinBorders=true
+Skin=breezly-yakuake-master
+SkinInstalledWithKns=true
+Translucency=true
+
+[Behavior]
+FocusFollowsMouse=true
+
+[Desktop Entry]
+DefaultProfile=scyth1an.profile
+
+[Dialogs]
+FirstRun=false
+
+[Window]
+Height=90
+KeepOpenAfterLastSessionCloses=true
+ToggleToFocus=true
+Width=95
