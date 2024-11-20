@@ -3,7 +3,7 @@ return {
   "mikavilpas/yazi.nvim",
   event = "VeryLazy",
   dependencies = {
-    { "AstroNvim/astroui", opts = { icons = { Yazi = " " } } },
+    { "AstroNvim/astroui", opts = { icons = { Yazi = "" } } },
     {
       "AstroNvim/astrocore",
       opts = function(_, opts)
