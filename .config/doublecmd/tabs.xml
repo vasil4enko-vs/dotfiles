@@ -1,0 +1,1289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doublecmd>
+  <Tabs>
+    <OpenedTabs>
+      <Left>
+        <ActiveTab>5</ActiveTab>
+        <Tab>
+          <FileView Type="columns">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/run/media/scyth1an/HOME-EOS/scyth1an/Projects/GitHub/Python/code-learn-python/</Path>
+                  <Path Filename="Learn_Python">/run/media/scyth1an/HOME-EOS/scyth1an/Projects/GitHub/Python/</Path>
+                  <Path Filename=".env">/run/media/scyth1an/HOME-EOS/scyth1an/Projects/GitHub/Python/Learn_Python/</Path>
+                  <Path Filename="..">/run/media/scyth1an/HOME-EOS/scyth1an/Projects/GitHub/Python/Learn_Python/.env/</Path>
+                  <Path Filename=".env">/run/media/scyth1an/HOME-EOS/scyth1an/Projects/GitHub/Python/Learn_Python/</Path>
+                  <Path Filename="..">/run/media/scyth1an/HOME-EOS/scyth1an/Projects/GitHub/Python/Learn_Python/.env/</Path>
+                  <Path Filename=".env">/run/media/scyth1an/HOME-EOS/scyth1an/Projects/GitHub/Python/Learn_Python/</Path>
+                  <Path Filename="..">/run/media/scyth1an/HOME-EOS/scyth1an/Projects/GitHub/Python/Learn_Python/.env/</Path>
+                  <Path Filename="..">/run/media/scyth1an/HOME-EOS/scyth1an/Projects/GitHub/Python/Learn_Python/</Path>
+                  <Path Filename="..">/run/media/scyth1an/HOME-EOS/scyth1an/Projects/GitHub/Python/</Path>
+                  <Path Filename="Python">/run/media/scyth1an/HOME-EOS/scyth1an/Projects/GitHub/</Path>
+                  <Path Filename="..">/run/media/scyth1an/HOME-EOS/scyth1an/Projects/GitHub/Python/</Path>
+                  <Path Filename="Dotfiles">/run/media/scyth1an/HOME-EOS/scyth1an/Projects/GitHub/</Path>
+                  <Path Filename="..">/run/media/scyth1an/HOME-EOS/scyth1an/Projects/GitHub/Dotfiles/</Path>
+                  <Path Filename="WEB">/run/media/scyth1an/HOME-EOS/scyth1an/Projects/GitHub/</Path>
+                  <Path Filename="..">/run/media/scyth1an/HOME-EOS/scyth1an/Projects/GitHub/WEB/</Path>
+                  <Path Filename="Python">/run/media/scyth1an/HOME-EOS/scyth1an/Projects/GitHub/</Path>
+                  <Path Filename="..">/run/media/scyth1an/HOME-EOS/scyth1an/Projects/GitHub/Python/</Path>
+                  <Path Filename="..">/run/media/scyth1an/HOME-EOS/scyth1an/Projects/GitHub/</Path>
+                  <Path Filename="..">/run/media/scyth1an/HOME-EOS/scyth1an/Projects/</Path>
+                  <Path Filename="vscode-insiders:">/run/media/scyth1an/HOME-EOS/scyth1an/</Path>
+                  <Path Filename="vscode.github-authentication">/run/media/scyth1an/HOME-EOS/scyth1an/vscode-insiders:/</Path>
+                  <Path Filename="..">/run/media/scyth1an/HOME-EOS/scyth1an/vscode-insiders:/vscode.github-authentication/</Path>
+                  <Path Filename="..">/run/media/scyth1an/HOME-EOS/scyth1an/vscode-insiders:/</Path>
+                  <Path Filename="Yandex.Disk">/run/media/scyth1an/HOME-EOS/scyth1an/</Path>
+                  <Path Filename="Музыка">/run/media/scyth1an/HOME-EOS/scyth1an/Yandex.Disk/</Path>
+                  <Path Filename="..">/run/media/scyth1an/HOME-EOS/scyth1an/Yandex.Disk/Музыка/</Path>
+                  <Path Filename="Мои Яндекс.Картинки">/run/media/scyth1an/HOME-EOS/scyth1an/Yandex.Disk/</Path>
+                  <Path Filename="..">/run/media/scyth1an/HOME-EOS/scyth1an/Yandex.Disk/Мои Яндекс.Картинки/</Path>
+                  <Path Filename="Видео ">/run/media/scyth1an/HOME-EOS/scyth1an/Yandex.Disk/</Path>
+                  <Path Filename="..">/run/media/scyth1an/HOME-EOS/scyth1an/Yandex.Disk/Видео /</Path>
+                  <Path Filename="Документы">/run/media/scyth1an/HOME-EOS/scyth1an/Yandex.Disk/</Path>
+                  <Path Filename="..">/run/media/scyth1an/HOME-EOS/scyth1an/Yandex.Disk/Документы/</Path>
+                  <Path Filename="Загрузки">/run/media/scyth1an/HOME-EOS/scyth1an/Yandex.Disk/</Path>
+                  <Path Filename="..">/run/media/scyth1an/HOME-EOS/scyth1an/Yandex.Disk/Загрузки/</Path>
+                  <Path Filename="Мои Яндекс.Картинки">/run/media/scyth1an/HOME-EOS/scyth1an/Yandex.Disk/</Path>
+                  <Path Filename="..">/run/media/scyth1an/HOME-EOS/scyth1an/Yandex.Disk/Мои Яндекс.Картинки/</Path>
+                  <Path Filename="Фото">/run/media/scyth1an/HOME-EOS/scyth1an/Yandex.Disk/</Path>
+                  <Path Filename="..">/run/media/scyth1an/HOME-EOS/scyth1an/Yandex.Disk/Фото/</Path>
+                  <Path Filename="..">/run/media/scyth1an/HOME-EOS/scyth1an/Yandex.Disk/</Path>
+                  <Path Filename=".zshrc">/run/media/scyth1an/HOME-EOS/scyth1an/</Path>
+                  <Path Filename="..">/run/media/</Path>
+                  <Path Filename="..">/run/media/scyth1an/HOME-EOS/scyth1an/</Path>
+                  <Path Filename="..">/run/media/</Path>
+                  <Path Filename="..">/run/media/scyth1an/HOME-EOS/scyth1an/</Path>
+                  <Path Filename="..">/run/media/</Path>
+                  <Path Filename="..">/run/</Path>
+                  <Path Filename="bin">/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+          <Options>2</Options>
+          <LockPath>/</LockPath>
+          <Title>/</Title>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/.wallpapers/endeavouros/</Path>
+                  <Path Filename="..">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/.wallpapers/</Path>
+                  <Path Filename=".wine">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/</Path>
+                  <Path Filename="..">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/.wine/</Path>
+                  <Path Filename=".yandex">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/</Path>
+                  <Path Filename="..">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/.yandex/</Path>
+                  <Path Filename="Calibre_Library">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/</Path>
+                  <Path Filename="..">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/Calibre_Library/</Path>
+                  <Path Filename="Games">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/</Path>
+                  <Path Filename="..">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/Games/</Path>
+                  <Path Filename="Projects">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/</Path>
+                  <Path Filename="..">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/Projects/</Path>
+                  <Path Filename=".config">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/</Path>
+                  <Path Filename="audacious">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/.config/</Path>
+                  <Path Filename="..">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/.config/audacious/</Path>
+                  <Path Filename="..">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/.config/</Path>
+                  <Path Filename="..">/run/media/</Path>
+                  <Path Filename="Projects">/home/scyth1an/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/</Path>
+                  <Path Filename="Projects">/home/scyth1an/</Path>
+                  <Path Filename="GitHub-Dotfiles">/home/scyth1an/Projects/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename="GitHub">/home/scyth1an/Projects/</Path>
+                  <Path Filename="Python">/home/scyth1an/Projects/GitHub/</Path>
+                  <Path Filename="Learn_Python">/home/scyth1an/Projects/GitHub/Python/</Path>
+                  <Path Filename="learn-python">/home/scyth1an/Projects/GitHub/Python/Learn_Python/</Path>
+                  <Path Filename="01-vvedeniye-v-komp&apos;yutery-i-programmirovaniye">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/01-vvedeniye-v-komp'yutery-i-programmirovaniye/</Path>
+                  <Path Filename="images">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/images/</Path>
+                  <Path Filename="x3-nastroyka-sredy-razrabotki-python">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/x3-nastroyka-sredy-razrabotki-python/</Path>
+                  <Path Filename="01-vvedeniye-v-komp&apos;yutery-i-programmirovaniye">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="01-images">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/01-vvedeniye-v-komp'yutery-i-programmirovaniye/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/01-vvedeniye-v-komp'yutery-i-programmirovaniye/01-images/</Path>
+                  <Path Filename="01-images">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/01-vvedeniye-v-komp'yutery-i-programmirovaniye/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/01-vvedeniye-v-komp'yutery-i-programmirovaniye/01-images/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/01-vvedeniye-v-komp'yutery-i-programmirovaniye/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="learn-python-selfedu">/home/scyth1an/Projects/GitHub/Python/Learn_Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python-selfedu/</Path>
+                  <Path Filename=".spyproject">/home/scyth1an/Projects/GitHub/Python/Learn_Python/</Path>
+                  <Path Filename="config">/home/scyth1an/Projects/GitHub/Python/Learn_Python/.spyproject/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/.spyproject/config/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/.spyproject/</Path>
+                  <Path Filename=".ropeproject">/home/scyth1an/Projects/GitHub/Python/Learn_Python/</Path>
+                  <Path Filename="..">/home/scyth1an/</Path>
+                  <Path Filename="..">/home/scyth1an/Рабочий стол/</Path>
+                  <Path Filename=".ViberPC">/home/scyth1an/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+          <Options>2</Options>
+          <LockPath>/home/scyth1an/</LockPath>
+          <Title>scyth1an</Title>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/usr/lib64/doublecmd/</Path>
+                  <Path Filename="..">/home/scyth1an/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Red Hat/Fedora/</Path>
+                  <Path Filename="Arch Linux &amp; Co">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/</Path>
+                  <Path Filename="EndeavourOS">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/</Path>
+                  <Path Filename="EndeavourOS">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/</Path>
+                  <Path Filename="Полное руководство по Python3 от новичка до специалиста">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/</Path>
+                  <Path Filename="21. BONUS">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/Полное руководство по Python3 от новичка до специалиста/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/Полное руководство по Python3 от новичка до специалиста/21. BONUS/</Path>
+                  <Path Filename="1. Введение в Python">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/Полное руководство по Python3 от новичка до специалиста/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/Полное руководство по Python3 от новичка до специалиста/1. Введение в Python/</Path>
+                  <Path Filename="1. Введение в Python">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/Полное руководство по Python3 от новичка до специалиста/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/Полное руководство по Python3 от новичка до специалиста/1. Введение в Python/</Path>
+                  <Path Filename="2. Основы Python">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/Полное руководство по Python3 от новичка до специалиста/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/Полное руководство по Python3 от новичка до специалиста/2. Основы Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/Полное руководство по Python3 от новичка до специалиста/</Path>
+                  <Path Filename="Полное руководство по Python3 от новичка до специалиста">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/Полное руководство по Python3 от новичка до специалиста/</Path>
+                  <Path Filename="Полное руководство по Python3 от новичка до специалиста">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/</Path>
+                  <Path Filename="1. Введение в Python">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/Полное руководство по Python3 от новичка до специалиста/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/Полное руководство по Python3 от новичка до специалиста/1. Введение в Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/Полное руководство по Python3 от новичка до специалиста/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/</Path>
+                  <Path Filename="Arch Linux">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/Arch Linux/</Path>
+                  <Path Filename="">/home/scyth1an/Документы/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+          <Options>2</Options>
+          <LockPath>/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/Arch Linux/</LockPath>
+          <Title>Arch Linux</Title>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/usr/lib64/doublecmd/</Path>
+                  <Path Filename="..">/home/scyth1an/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Red Hat/Fedora/</Path>
+                  <Path Filename="..">/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Fedora/KDE/Программы/</Path>
+                  <Path Filename="KDE">/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Fedora/</Path>
+                  <Path Filename="Arch Linux &amp; Co">/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/</Path>
+                  <Path Filename="Arch Linux">/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Arch Linux &amp; Co/</Path>
+                  <Path Filename="..">/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Arch Linux &amp; Co/Arch Linux/</Path>
+                  <Path Filename="CachyOS">/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Arch Linux &amp; Co/</Path>
+                  <Path Filename="..">/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Arch Linux &amp; Co/CachyOS/</Path>
+                  <Path Filename="">/home/scyth1an/Шаблоны/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+          <Options>2</Options>
+          <LockPath>/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Arch Linux &amp; Co/CachyOS/</LockPath>
+          <Title>CachyOS</Title>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/usr/lib64/doublecmd/</Path>
+                  <Path Filename="..">/home/scyth1an/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Red Hat/Fedora/</Path>
+                  <Path Filename="..">/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Fedora/KDE/Программы/</Path>
+                  <Path Filename="KDE">/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Fedora/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Программы/Разработка/Текстовые редакторы | IDE/VS Code/</Path>
+                  <Path Filename="..">/home/scyth1an/Шаблоны/Мой компьютер/Программы/Текстовые редакторы | IDE/VS Code/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename="GitHub-Dotfiles">/home/scyth1an/Projects/</Path>
+                  <Path Filename="dotfiles">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename=".git">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/.git/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="dotfiles">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="dotfiles">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="GitHub-Python">/home/scyth1an/Projects/</Path>
+                  <Path Filename="Learn_Python">/home/scyth1an/Projects/GitHub-Python/</Path>
+                  <Path Filename=".eric6project">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/.eric6project/</Path>
+                  <Path Filename="learn-python">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="01-ustanovka-python-i-virtual&apos;noye okruzheniye">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/01-ustanovka-python-i-virtual'noye okruzheniye/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="learn-python">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="messenger">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="_Изучение Python - vvs">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/</Path>
+                  <Path Filename="_Изучение Python - vvs">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="1 - Изучение Python">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/</Path>
+                  <Path Filename="Гэддис Т">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/1 - Изучение Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/1 - Изучение Python/Гэддис Т/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/1 - Изучение Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/</Path>
+                  <Path Filename="Гэддис Т">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="Гэддис Т. - Начинаем программировать на Python - 5-е изд.: - 2022">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/Гэддис Т/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/Гэддис Т/Гэддис Т. - Начинаем программировать на Python - 5-е изд.: - 2022/</Path>
+                  <Path Filename="Музыка">/home/scyth1an/</Path>
+                  <Path Filename="Наши Исполнители">/home/scyth1an/Музыка/</Path>
+                  <Path Filename="АлисА">/home/scyth1an/Музыка/Наши Исполнители/</Path>
+                  <Path Filename="CD">/home/scyth1an/Музыка/Наши Исполнители/АлисА/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+          <Options>2</Options>
+          <LockPath>/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Разработка/Программирование/Языки программирования/Python/</LockPath>
+          <Title>Python</Title>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="learn-python">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="messenger">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="_Изучение Python - vvs">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/</Path>
+                  <Path Filename="_Изучение Python - vvs">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="1 - Изучение Python">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/</Path>
+                  <Path Filename="Гэддис Т">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/1 - Изучение Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/1 - Изучение Python/Гэддис Т/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/1 - Изучение Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/</Path>
+                  <Path Filename="Гэддис Т">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="Гэддис Т. - Начинаем программировать на Python - 5-е изд.: - 2022">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/Гэддис Т/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/Гэддис Т/Гэддис Т. - Начинаем программировать на Python - 5-е изд.: - 2022/</Path>
+                  <Path Filename="Музыка">/home/scyth1an/</Path>
+                  <Path Filename="Наши Исполнители">/home/scyth1an/Музыка/</Path>
+                  <Path Filename="АлисА">/home/scyth1an/Музыка/Наши Исполнители/</Path>
+                  <Path Filename="CD">/home/scyth1an/Музыка/Наши Исполнители/АлисА/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/</Path>
+                  <Path Filename="Изучение - Python">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="*args и **kwargs в Python">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/*args и **kwargs в Python/</Path>
+                  <Path Filename="__init__.py">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/__init__.py/</Path>
+                  <Path Filename="__main__.py">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/__main__.py/</Path>
+                  <Path Filename="__main__.py">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/__main__.py/</Path>
+                  <Path Filename="__init__.py">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/__init__.py/</Path>
+                  <Path Filename="__name__ == &quot;__main__&quot;">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/__name__ == "__main__"/</Path>
+                  <Path Filename="__init__.py">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/__init__.py/</Path>
+                  <Path Filename="__init__.py">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/__init__.py/</Path>
+                  <Path Filename="__main__.py">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/__main__.py/</Path>
+                  <Path Filename="__name__ == &quot;__main__&quot;">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/__name__ == "__main__"/</Path>
+                  <Path Filename="__name__ == &quot;__main__&quot;">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/</Path>
+                  <Path Filename="t.me-Python_Community_ru">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/__name__ == "__main__"/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/__name__ == "__main__"/t.me-Python_Community_ru/</Path>
+                  <Path Filename="Базы данных в Python">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Базы данных в Python/</Path>
+                  <Path Filename="Изучение - Python">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="Лекции">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+          <Options>2</Options>
+          <LockPath>/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/</LockPath>
+          <Title>Python</Title>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/usr/lib64/doublecmd/</Path>
+                  <Path Filename="..">/home/scyth1an/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Red Hat/Fedora/</Path>
+                  <Path Filename="..">/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Fedora/KDE/Программы/</Path>
+                  <Path Filename="KDE">/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Fedora/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Программы/Разработка/Текстовые редакторы | IDE/VS Code/</Path>
+                  <Path Filename="..">/home/scyth1an/Шаблоны/Мой компьютер/Программы/Текстовые редакторы | IDE/VS Code/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename="GitHub-Dotfiles">/home/scyth1an/Projects/</Path>
+                  <Path Filename="dotfiles">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename=".git">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/.git/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="dotfiles">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="dotfiles">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="GitHub-Python">/home/scyth1an/Projects/</Path>
+                  <Path Filename="Learn_Python">/home/scyth1an/Projects/GitHub-Python/</Path>
+                  <Path Filename=".eric6project">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/.eric6project/</Path>
+                  <Path Filename="learn-python">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="01-ustanovka-python-i-virtual&apos;noye okruzheniye">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/01-ustanovka-python-i-virtual'noye okruzheniye/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="learn-python">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="messenger">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="_Изучение Python - vvs">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/</Path>
+                  <Path Filename="_Изучение Python - vvs">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="1 - Изучение Python">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/</Path>
+                  <Path Filename="Гэддис Т">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/1 - Изучение Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/1 - Изучение Python/Гэддис Т/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/1 - Изучение Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/</Path>
+                  <Path Filename="Гэддис Т">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="Гэддис Т. - Начинаем программировать на Python - 5-е изд.: - 2022">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/Гэддис Т/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/Гэддис Т/Гэддис Т. - Начинаем программировать на Python - 5-е изд.: - 2022/</Path>
+                  <Path Filename="Музыка">/home/scyth1an/</Path>
+                  <Path Filename="Наши Исполнители">/home/scyth1an/Музыка/</Path>
+                  <Path Filename="АлисА">/home/scyth1an/Музыка/Наши Исполнители/</Path>
+                  <Path Filename="CD">/home/scyth1an/Музыка/Наши Исполнители/АлисА/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/</Path>
+                  <Path Filename="Изучение Python">/home/scyth1an/Видео/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="">/home/scyth1an/Видео/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+          <Options>2</Options>
+          <LockPath>/home/scyth1an/Видео/Компьютер/Разработка/Программирование/Языки программирования/Python/</LockPath>
+          <Title>Python</Title>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/home/scyth1an/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Red Hat/Fedora/</Path>
+                  <Path Filename="..">/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Fedora/KDE/Программы/</Path>
+                  <Path Filename="KDE">/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Fedora/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Программы/Разработка/Текстовые редакторы | IDE/VS Code/</Path>
+                  <Path Filename="..">/home/scyth1an/Шаблоны/Мой компьютер/Программы/Текстовые редакторы | IDE/VS Code/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename="GitHub-Dotfiles">/home/scyth1an/Projects/</Path>
+                  <Path Filename="dotfiles">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename=".git">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/.git/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="dotfiles">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="dotfiles">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="GitHub-Python">/home/scyth1an/Projects/</Path>
+                  <Path Filename="Learn_Python">/home/scyth1an/Projects/GitHub-Python/</Path>
+                  <Path Filename=".eric6project">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/.eric6project/</Path>
+                  <Path Filename="learn-python">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="01-ustanovka-python-i-virtual&apos;noye okruzheniye">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/01-ustanovka-python-i-virtual'noye okruzheniye/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="learn-python">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="messenger">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="_Изучение Python - vvs">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/</Path>
+                  <Path Filename="_Изучение Python - vvs">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="1 - Изучение Python">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/</Path>
+                  <Path Filename="Гэддис Т">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/1 - Изучение Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/1 - Изучение Python/Гэддис Т/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/1 - Изучение Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/</Path>
+                  <Path Filename="Гэддис Т">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="Гэддис Т. - Начинаем программировать на Python - 5-е изд.: - 2022">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/Гэддис Т/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/Гэддис Т/Гэддис Т. - Начинаем программировать на Python - 5-е изд.: - 2022/</Path>
+                  <Path Filename="Музыка">/home/scyth1an/</Path>
+                  <Path Filename="Наши Исполнители">/home/scyth1an/Музыка/</Path>
+                  <Path Filename="АлисА">/home/scyth1an/Музыка/Наши Исполнители/</Path>
+                  <Path Filename="CD">/home/scyth1an/Музыка/Наши Исполнители/АлисА/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/</Path>
+                  <Path Filename="..">/home/scyth1an/Видео/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="GitHub">/home/scyth1an/Projects/</Path>
+                  <Path Filename="Python">/home/scyth1an/Projects/GitHub/</Path>
+                  <Path Filename="Learn_Python">/home/scyth1an/Projects/GitHub/Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/</Path>
+                  <Path Filename="">/home/scyth1an/Projects/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Веб-программирование/PHP/Веллинг Люк, Томсон Лора/</Path>
+                  <Path Filename="Шлосснейгл Д.">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Веб-программирование/PHP/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Веб-программирование/PHP/Шлосснейгл Д./</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Веб-программирование/PHP/</Path>
+                  <Path Filename="SQL">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Веб-программирование/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Веб-программирование/SQL/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Веб-программирование/</Path>
+                  <Path Filename="Программирование">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Программирование/</Path>
+                  <Path Filename="Регулярные выражения">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/</Path>
+                  <Path Filename="Бен-Форта.-Регулярные-выражения-за-10-минут">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Регулярные выражения/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Регулярные выражения/Бен-Форта.-Регулярные-выражения-за-10-минут/</Path>
+                  <Path Filename="Бен-Форта.-Регулярные-выражения-за-10-минут">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Регулярные выражения/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Регулярные выражения/Бен-Форта.-Регулярные-выражения-за-10-минут/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Регулярные выражения/</Path>
+                  <Path Filename="Рефакторинг">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Рефакторинг/</Path>
+                  <Path Filename="Советы начинающим программистам">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Советы начинающим программистам/</Path>
+                  <Path Filename="Теория программирования">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Теория программирования/</Path>
+                  <Path Filename="Теория программирования">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/</Path>
+                  <Path Filename="Курт У. - Байесовская статистика. Star Wars, LEGO, резиновые уточки и многое другое (Библиотека программиста) - 2021">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Теория программирования/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Теория программирования/Курт У. - Байесовская статистика. Star Wars, LEGO, резиновые уточки и многое другое (Библиотека программиста) - 2021/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Теория программирования/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/</Path>
+                  <Path Filename="Системная инженерия">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Системная инженерия/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/</Path>
+                  <Path Filename="Компьютер">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/</Path>
+                  <Path Filename="Системная инженерия">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Системная инженерия/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/</Path>
+                  <Path Filename="Ракетная техника">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Ракетная техника/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/</Path>
+                  <Path Filename="Художественная литература">/home/scyth1an/Документы/Библиотека-добавление/</Path>
+                  <Path Filename="Пушкин Александр Сергеевич">/home/scyth1an/Документы/Библиотека-добавление/Художественная литература/</Path>
+                  <Path Filename="Изданiе Брокгаузъ-Ефрона (6т)">/home/scyth1an/Документы/Библиотека-добавление/Художественная литература/Пушкин Александр Сергеевич/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Художественная литература/Пушкин Александр Сергеевич/Изданiе Брокгаузъ-Ефрона (6т)/</Path>
+                  <Path Filename="Изданiе Брокгаузъ-Ефрона (6т)">/home/scyth1an/Документы/Библиотека-добавление/Художественная литература/Пушкин Александр Сергеевич/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Художественная литература/Пушкин Александр Сергеевич/Изданiе Брокгаузъ-Ефрона (6т)/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Художественная литература/</Path>
+                  <Path Filename="Художественная литература">/home/scyth1an/Документы/Библиотека-добавление/</Path>
+                  <Path Filename="Семенова Мария">/home/scyth1an/Документы/Библиотека-добавление/Художественная литература/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Художественная литература/Семенова Мария/</Path>
+                  <Path Filename="">/home/scyth1an/Документы/Библиотека-добавление/</Path>
+                  <Path Filename="">/home/scyth1an/Документы/Библиотека-добавление/Художественная литература/Семенова Мария/</Path>
+                  <Path Filename="">/home/scyth1an/Документы/Библиотека-добавление/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+          <Options>2</Options>
+          <LockPath>/home/scyth1an/Документы/Библиотека-добавление/Художественная литература/Семенова Мария/</LockPath>
+          <Title>Семенова Мария</Title>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/usr/lib64/doublecmd/</Path>
+                  <Path Filename="..">/home/scyth1an/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Red Hat/Fedora/</Path>
+                  <Path Filename="..">/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Fedora/KDE/Программы/</Path>
+                  <Path Filename="KDE">/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Fedora/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Программы/Разработка/Текстовые редакторы | IDE/VS Code/</Path>
+                  <Path Filename="..">/home/scyth1an/Шаблоны/Мой компьютер/Программы/Текстовые редакторы | IDE/VS Code/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename="GitHub-Dotfiles">/home/scyth1an/Projects/</Path>
+                  <Path Filename="dotfiles">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename=".git">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/.git/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="dotfiles">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="dotfiles">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="GitHub-Python">/home/scyth1an/Projects/</Path>
+                  <Path Filename="Learn_Python">/home/scyth1an/Projects/GitHub-Python/</Path>
+                  <Path Filename=".eric6project">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/.eric6project/</Path>
+                  <Path Filename="learn-python">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="01-ustanovka-python-i-virtual&apos;noye okruzheniye">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/01-ustanovka-python-i-virtual'noye okruzheniye/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="learn-python">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="messenger">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="_Изучение Python - vvs">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/</Path>
+                  <Path Filename="_Изучение Python - vvs">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="1 - Изучение Python">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/</Path>
+                  <Path Filename="Гэддис Т">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/1 - Изучение Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/1 - Изучение Python/Гэддис Т/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/1 - Изучение Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/</Path>
+                  <Path Filename="Гэддис Т">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="Гэддис Т. - Начинаем программировать на Python - 5-е изд.: - 2022">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/Гэддис Т/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/Гэддис Т/Гэддис Т. - Начинаем программировать на Python - 5-е изд.: - 2022/</Path>
+                  <Path Filename="Музыка">/home/scyth1an/</Path>
+                  <Path Filename="Наши Исполнители">/home/scyth1an/Музыка/</Path>
+                  <Path Filename="_Various Artists">/home/scyth1an/Музыка/Наши Исполнители/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/_Various Artists/</Path>
+                  <Path Active="True" Filename="..">/home/scyth1an/Музыка/Наши Исполнители/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/Catharsis/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+          <Options>2</Options>
+          <LockPath>/home/scyth1an/Музыка/Наши Исполнители/</LockPath>
+          <Title>Наши Исполнители</Title>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="02 Лучшее за 30 лет. Часть 1 (CD2)">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/2015 - Лучшее за 30 лет. Часть 2 (2CD)/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/2015 - Лучшее за 30 лет. Часть 2 (2CD)/02 Лучшее за 30 лет. Часть 1 (CD2)/</Path>
+                  <Path Filename="01 Лучшее за 30 лет. Часть 1 (CD1)">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/2015 - Лучшее за 30 лет. Часть 2 (2CD)/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/2015 - Лучшее за 30 лет. Часть 2 (2CD)/01 Лучшее за 30 лет. Часть 1 (CD1)/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/2015 - Лучшее за 30 лет. Часть 2 (2CD)/</Path>
+                  <Path Filename="2015 - Лучшее за 30 лет. Часть 2 (2CD)">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/2015 - Лучшее за 30 лет. Часть 2 (2CD)/</Path>
+                  <Path Filename="2015 - Лучшее за 30 лет. Часть 2 (2CD)">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/</Path>
+                  <Path Filename="01 Лучшее за 30 лет. Часть 1 (CD1)">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/2015 - Лучшее за 30 лет. Часть 2 (2CD)/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/2015 - Лучшее за 30 лет. Часть 2 (2CD)/01 Лучшее за 30 лет. Часть 1 (CD1)/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/2015 - Лучшее за 30 лет. Часть 2 (2CD)/</Path>
+                  <Path Filename="2015 - Лучшее за 30 лет. Часть 2 (2CD)">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/2015 - Лучшее за 30 лет. Часть 2 (2CD)/</Path>
+                  <Path Filename="2015 - Лучшее за 30 лет. Часть 2 (2CD)">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/</Path>
+                  <Path Filename="01 Лучшее за 30 лет. Часть 1 (CD1)">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/2015 - Лучшее за 30 лет. Часть 2 (2CD)/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/2015 - Лучшее за 30 лет. Часть 2 (2CD)/01 Лучшее за 30 лет. Часть 1 (CD1)/</Path>
+                  <Path Filename="02 Лучшее за 30 лет. Часть 1 (CD2)">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/2015 - Лучшее за 30 лет. Часть 2 (2CD)/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/2015 - Лучшее за 30 лет. Часть 2 (2CD)/02 Лучшее за 30 лет. Часть 1 (CD2)/</Path>
+                  <Path Filename="01 Лучшее за 30 лет. Часть 1 (CD1)">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/2015 - Лучшее за 30 лет. Часть 2 (2CD)/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/2015 - Лучшее за 30 лет. Часть 2 (2CD)/01 Лучшее за 30 лет. Часть 1 (CD1)/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/2015 - Лучшее за 30 лет. Часть 2 (2CD)/</Path>
+                  <Path Filename="2016 - Эксцесс (2016, К.Кинчев, Авторское издание)">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/2016 - Эксцесс (2016, К.Кинчев, Авторское издание)/</Path>
+                  <Path Filename="2019 - Посолонь (2019, К.Кинчев, Авторское издание, Double CD)">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/</Path>
+                  <Path Filename="Full scans (JPG, 300dpi)">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/2019 - Посолонь (2019, К.Кинчев, Авторское издание, Double CD)/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/2019 - Посолонь (2019, К.Кинчев, Авторское издание, Double CD)/Full scans (JPG, 300dpi)/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/2019 - Посолонь (2019, К.Кинчев, Авторское издание, Double CD)/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/</Path>
+                  <Path Filename="Lossy">/home/scyth1an/Музыка/Наши Исполнители/АлисА/</Path>
+                  <Path Filename="1987 - БлокАда (магнитоальбом) [256]">/home/scyth1an/Музыка/Наши Исполнители/АлисА/Lossy/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/Lossy/1987 - БлокАда (магнитоальбом) [256]/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/Lossy/</Path>
+                  <Path Filename="Lossy">/home/scyth1an/Музыка/Наши Исполнители/АлисА/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/Lossy/</Path>
+                  <Path Filename="MB">/home/scyth1an/Музыка/Наши Исполнители/АлисА/</Path>
+                  <Path Filename="1985, 1987, 1989 - 3 магнитоальбома (Цифровая реставрация) [24_96] {Часик65}">/home/scyth1an/Музыка/Наши Исполнители/АлисА/MB/</Path>
+                  <Path Filename="1987 - БлокАда [24_96] {Часик65}">/home/scyth1an/Музыка/Наши Исполнители/АлисА/MB/1985, 1987, 1989 - 3 магнитоальбома (Цифровая реставрация) [24_96] {Часик65}/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/MB/1985, 1987, 1989 - 3 магнитоальбома (Цифровая реставрация) [24_96] {Часик65}/1987 - БлокАда [24_96] {Часик65}/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/MB/1985, 1987, 1989 - 3 магнитоальбома (Цифровая реставрация) [24_96] {Часик65}/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/MB/</Path>
+                  <Path Filename="MC">/home/scyth1an/Музыка/Наши Исполнители/АлисА/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/MC/</Path>
+                  <Path Filename="Vinyls">/home/scyth1an/Музыка/Наши Исполнители/АлисА/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/Vinyls/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/</Path>
+                  <Path Filename="АлисА">/home/scyth1an/Музыка/Наши Исполнители/</Path>
+                  <Path Filename="MC">/home/scyth1an/Музыка/Наши Исполнители/АлисА/</Path>
+                  <Path Filename="1987 - Блок Ада (2015, Мистерия звука, CD-M+349-2, Магнитоальбом)">/home/scyth1an/Музыка/Наши Исполнители/АлисА/MC/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/MC/1987 - Блок Ада (2015, Мистерия звука, CD-M+349-2, Магнитоальбом)/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/MC/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+          <Options>2</Options>
+          <LockPath>/home/scyth1an/Музыка/Наши Исполнители/АлисА/MC/</LockPath>
+          <Title>MC</Title>
+        </Tab>
+      </Left>
+      <Right>
+        <ActiveTab>7</ActiveTab>
+        <Tab>
+          <FileView Type="columns">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/.wallpapers/endeavouros/</Path>
+                  <Path Filename="..">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/.wallpapers/</Path>
+                  <Path Filename=".wine">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/</Path>
+                  <Path Filename="..">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/.wine/</Path>
+                  <Path Filename=".yandex">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/</Path>
+                  <Path Filename="..">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/.yandex/</Path>
+                  <Path Filename="Calibre_Library">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/</Path>
+                  <Path Filename="..">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/Calibre_Library/</Path>
+                  <Path Filename="Games">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/</Path>
+                  <Path Filename="..">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/Games/</Path>
+                  <Path Filename="Projects">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/</Path>
+                  <Path Filename="..">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/Projects/</Path>
+                  <Path Filename=".config">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/</Path>
+                  <Path Filename="audacious">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/.config/</Path>
+                  <Path Filename="..">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/.config/audacious/</Path>
+                  <Path Filename="..">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/.config/</Path>
+                  <Path Filename="..">/run/media/</Path>
+                  <Path Filename="Projects">/home/scyth1an/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/</Path>
+                  <Path Filename="Projects">/home/scyth1an/</Path>
+                  <Path Filename="GitHub-Dotfiles">/home/scyth1an/Projects/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename="GitHub">/home/scyth1an/Projects/</Path>
+                  <Path Filename="Python">/home/scyth1an/Projects/GitHub/</Path>
+                  <Path Filename="Learn_Python">/home/scyth1an/Projects/GitHub/Python/</Path>
+                  <Path Filename="learn-python">/home/scyth1an/Projects/GitHub/Python/Learn_Python/</Path>
+                  <Path Filename="01-vvedeniye-v-komp&apos;yutery-i-programmirovaniye">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/01-vvedeniye-v-komp'yutery-i-programmirovaniye/</Path>
+                  <Path Filename="images">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/images/</Path>
+                  <Path Filename="x3-nastroyka-sredy-razrabotki-python">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/x3-nastroyka-sredy-razrabotki-python/</Path>
+                  <Path Filename="01-vvedeniye-v-komp&apos;yutery-i-programmirovaniye">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="01-images">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/01-vvedeniye-v-komp'yutery-i-programmirovaniye/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/01-vvedeniye-v-komp'yutery-i-programmirovaniye/01-images/</Path>
+                  <Path Filename="01-images">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/01-vvedeniye-v-komp'yutery-i-programmirovaniye/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/01-vvedeniye-v-komp'yutery-i-programmirovaniye/01-images/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/01-vvedeniye-v-komp'yutery-i-programmirovaniye/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="learn-python-selfedu">/home/scyth1an/Projects/GitHub/Python/Learn_Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python-selfedu/</Path>
+                  <Path Filename=".spyproject">/home/scyth1an/Projects/GitHub/Python/Learn_Python/</Path>
+                  <Path Filename="config">/home/scyth1an/Projects/GitHub/Python/Learn_Python/.spyproject/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/.spyproject/config/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/.spyproject/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/</Path>
+                  <Path Filename="..">/home/</Path>
+                  <Path Filename="bin">/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+          <Options>2</Options>
+          <LockPath>/</LockPath>
+          <Title>/</Title>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/.wallpapers/endeavouros/</Path>
+                  <Path Filename="..">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/.wallpapers/</Path>
+                  <Path Filename=".wine">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/</Path>
+                  <Path Filename="..">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/.wine/</Path>
+                  <Path Filename=".yandex">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/</Path>
+                  <Path Filename="..">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/.yandex/</Path>
+                  <Path Filename="Calibre_Library">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/</Path>
+                  <Path Filename="..">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/Calibre_Library/</Path>
+                  <Path Filename="Games">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/</Path>
+                  <Path Filename="..">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/Games/</Path>
+                  <Path Filename="Projects">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/</Path>
+                  <Path Filename="..">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/Projects/</Path>
+                  <Path Filename=".config">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/</Path>
+                  <Path Filename="audacious">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/.config/</Path>
+                  <Path Filename="..">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/.config/audacious/</Path>
+                  <Path Filename="..">/run/media/scyth1an/d2869b5d-f9ed-421d-a6d2-a5fa400352e6/home/scyth1an/.config/</Path>
+                  <Path Filename="..">/run/media/</Path>
+                  <Path Filename="Projects">/home/scyth1an/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/</Path>
+                  <Path Filename="Projects">/home/scyth1an/</Path>
+                  <Path Filename="GitHub-Dotfiles">/home/scyth1an/Projects/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename="GitHub">/home/scyth1an/Projects/</Path>
+                  <Path Filename="Python">/home/scyth1an/Projects/GitHub/</Path>
+                  <Path Filename="Learn_Python">/home/scyth1an/Projects/GitHub/Python/</Path>
+                  <Path Filename="learn-python">/home/scyth1an/Projects/GitHub/Python/Learn_Python/</Path>
+                  <Path Filename="01-vvedeniye-v-komp&apos;yutery-i-programmirovaniye">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/01-vvedeniye-v-komp'yutery-i-programmirovaniye/</Path>
+                  <Path Filename="images">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/images/</Path>
+                  <Path Filename="x3-nastroyka-sredy-razrabotki-python">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/x3-nastroyka-sredy-razrabotki-python/</Path>
+                  <Path Filename="01-vvedeniye-v-komp&apos;yutery-i-programmirovaniye">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="01-images">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/01-vvedeniye-v-komp'yutery-i-programmirovaniye/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/01-vvedeniye-v-komp'yutery-i-programmirovaniye/01-images/</Path>
+                  <Path Filename="01-images">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/01-vvedeniye-v-komp'yutery-i-programmirovaniye/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/01-vvedeniye-v-komp'yutery-i-programmirovaniye/01-images/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/01-vvedeniye-v-komp'yutery-i-programmirovaniye/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="learn-python-selfedu">/home/scyth1an/Projects/GitHub/Python/Learn_Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/learn-python-selfedu/</Path>
+                  <Path Filename=".spyproject">/home/scyth1an/Projects/GitHub/Python/Learn_Python/</Path>
+                  <Path Filename="config">/home/scyth1an/Projects/GitHub/Python/Learn_Python/.spyproject/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/.spyproject/config/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/.spyproject/</Path>
+                  <Path Filename=".ropeproject">/home/scyth1an/Projects/GitHub/Python/Learn_Python/</Path>
+                  <Path Filename="..">/home/scyth1an/</Path>
+                  <Path Filename="..">/home/scyth1an/Рабочий стол/</Path>
+                  <Path Filename="..">/home/scyth1an/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+          <Options>2</Options>
+          <LockPath>/home/scyth1an/</LockPath>
+          <Title>scyth1an</Title>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/usr/lib64/doublecmd/</Path>
+                  <Path Filename="..">/home/scyth1an/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Red Hat/Fedora/</Path>
+                  <Path Filename="Arch Linux &amp; Co">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/</Path>
+                  <Path Filename="EndeavourOS">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/</Path>
+                  <Path Filename="EndeavourOS">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/</Path>
+                  <Path Filename="Полное руководство по Python3 от новичка до специалиста">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/</Path>
+                  <Path Filename="21. BONUS">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/Полное руководство по Python3 от новичка до специалиста/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/Полное руководство по Python3 от новичка до специалиста/21. BONUS/</Path>
+                  <Path Filename="1. Введение в Python">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/Полное руководство по Python3 от новичка до специалиста/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/Полное руководство по Python3 от новичка до специалиста/1. Введение в Python/</Path>
+                  <Path Filename="1. Введение в Python">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/Полное руководство по Python3 от новичка до специалиста/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/Полное руководство по Python3 от новичка до специалиста/1. Введение в Python/</Path>
+                  <Path Filename="2. Основы Python">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/Полное руководство по Python3 от новичка до специалиста/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/Полное руководство по Python3 от новичка до специалиста/2. Основы Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/Полное руководство по Python3 от новичка до специалиста/</Path>
+                  <Path Filename="Полное руководство по Python3 от новичка до специалиста">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/Полное руководство по Python3 от новичка до специалиста/</Path>
+                  <Path Filename="Полное руководство по Python3 от новичка до специалиста">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/</Path>
+                  <Path Filename="1. Введение в Python">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/Полное руководство по Python3 от новичка до специалиста/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/Полное руководство по Python3 от новичка до специалиста/1. Введение в Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/Полное руководство по Python3 от новичка до специалиста/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/EndeavourOS/</Path>
+                  <Path Filename="Arch Linux">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/Arch Linux/</Path>
+                  <Path Filename="">/home/scyth1an/Документы/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+          <Options>2</Options>
+          <LockPath>/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/Arch Linux/</LockPath>
+          <Title>Arch Linux</Title>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/usr/lib64/doublecmd/</Path>
+                  <Path Filename="..">/home/scyth1an/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Red Hat/Fedora/</Path>
+                  <Path Filename="..">/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Fedora/KDE/Программы/</Path>
+                  <Path Filename="KDE">/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Fedora/</Path>
+                  <Path Filename="Arch Linux &amp; Co">/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/</Path>
+                  <Path Filename="Arch Linux">/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Arch Linux &amp; Co/</Path>
+                  <Path Filename="..">/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Arch Linux &amp; Co/Arch Linux/</Path>
+                  <Path Filename="CachyOS">/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Arch Linux &amp; Co/</Path>
+                  <Path Filename="fstab">/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Arch Linux &amp; Co/CachyOS/</Path>
+                  <Path Filename="">/home/scyth1an/Шаблоны/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+          <Options>2</Options>
+          <LockPath>/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Arch Linux &amp; Co/CachyOS/</LockPath>
+          <Title>CachyOS</Title>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/usr/lib64/doublecmd/</Path>
+                  <Path Filename="..">/home/scyth1an/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Red Hat/Fedora/</Path>
+                  <Path Filename="..">/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Fedora/KDE/Программы/</Path>
+                  <Path Filename="KDE">/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Fedora/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Программы/Разработка/Текстовые редакторы | IDE/VS Code/</Path>
+                  <Path Filename="..">/home/scyth1an/Шаблоны/Мой компьютер/Программы/Текстовые редакторы | IDE/VS Code/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename="GitHub-Dotfiles">/home/scyth1an/Projects/</Path>
+                  <Path Filename="dotfiles">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename=".git">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/.git/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="dotfiles">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="dotfiles">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="GitHub-Python">/home/scyth1an/Projects/</Path>
+                  <Path Filename="Learn_Python">/home/scyth1an/Projects/GitHub-Python/</Path>
+                  <Path Filename=".eric6project">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/.eric6project/</Path>
+                  <Path Filename="learn-python">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="01-ustanovka-python-i-virtual&apos;noye okruzheniye">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/01-ustanovka-python-i-virtual'noye okruzheniye/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="learn-python">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="messenger">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="_Изучение Python - vvs">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/</Path>
+                  <Path Filename="_Изучение Python - vvs">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="1 - Изучение Python">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/</Path>
+                  <Path Filename="Гэддис Т">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/1 - Изучение Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/1 - Изучение Python/Гэддис Т/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/1 - Изучение Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/</Path>
+                  <Path Filename="Гэддис Т">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="Гэддис Т. - Начинаем программировать на Python - 5-е изд.: - 2022">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/Гэддис Т/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/Гэддис Т/Гэддис Т. - Начинаем программировать на Python - 5-е изд.: - 2022/</Path>
+                  <Path Filename="Музыка">/home/scyth1an/</Path>
+                  <Path Filename="Наши Исполнители">/home/scyth1an/Музыка/</Path>
+                  <Path Filename="АлисА">/home/scyth1an/Музыка/Наши Исполнители/</Path>
+                  <Path Filename="CD">/home/scyth1an/Музыка/Наши Исполнители/АлисА/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+          <Options>2</Options>
+          <LockPath>/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Разработка/Программирование/Языки программирования/Python/</LockPath>
+          <Title>Python</Title>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Программы/Разработка/Текстовые редакторы | IDE/VS Code/</Path>
+                  <Path Filename="..">/home/scyth1an/Шаблоны/Мой компьютер/Программы/Текстовые редакторы | IDE/VS Code/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename="GitHub-Dotfiles">/home/scyth1an/Projects/</Path>
+                  <Path Filename="dotfiles">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename=".git">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/.git/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="dotfiles">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="dotfiles">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="GitHub-Python">/home/scyth1an/Projects/</Path>
+                  <Path Filename="Learn_Python">/home/scyth1an/Projects/GitHub-Python/</Path>
+                  <Path Filename=".eric6project">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/.eric6project/</Path>
+                  <Path Filename="learn-python">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="01-ustanovka-python-i-virtual&apos;noye okruzheniye">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/01-ustanovka-python-i-virtual'noye okruzheniye/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="learn-python">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="messenger">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="_Изучение Python - vvs">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/</Path>
+                  <Path Filename="_Изучение Python - vvs">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="1 - Изучение Python">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/</Path>
+                  <Path Filename="Гэддис Т">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/1 - Изучение Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/1 - Изучение Python/Гэддис Т/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/1 - Изучение Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/</Path>
+                  <Path Filename="Гэддис Т">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="Гэддис Т. - Начинаем программировать на Python - 5-е изд.: - 2022">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/Гэддис Т/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/Гэддис Т/Гэддис Т. - Начинаем программировать на Python - 5-е изд.: - 2022/</Path>
+                  <Path Filename="Музыка">/home/scyth1an/</Path>
+                  <Path Filename="Наши Исполнители">/home/scyth1an/Музыка/</Path>
+                  <Path Filename="АлисА">/home/scyth1an/Музыка/Наши Исполнители/</Path>
+                  <Path Filename="CD">/home/scyth1an/Музыка/Наши Исполнители/АлисА/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/</Path>
+                  <Path Filename="Изучение - Python">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="*args и **kwargs в Python">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/*args и **kwargs в Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/</Path>
+                  <Path Filename="Функциональное программирование на Python">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Функциональное программирование на Python/</Path>
+                  <Path Filename="Функции">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Функции/</Path>
+                  <Path Filename="Операторы и выражения">/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="">/home/scyth1an/Документы/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+          <Options>2</Options>
+          <LockPath>/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/</LockPath>
+          <Title>Python</Title>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/usr/lib64/doublecmd/</Path>
+                  <Path Filename="..">/home/scyth1an/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Red Hat/Fedora/</Path>
+                  <Path Filename="..">/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Fedora/KDE/Программы/</Path>
+                  <Path Filename="KDE">/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Fedora/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Программы/Разработка/Текстовые редакторы | IDE/VS Code/</Path>
+                  <Path Filename="..">/home/scyth1an/Шаблоны/Мой компьютер/Программы/Текстовые редакторы | IDE/VS Code/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename="GitHub-Dotfiles">/home/scyth1an/Projects/</Path>
+                  <Path Filename="dotfiles">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename=".git">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/.git/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="dotfiles">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="dotfiles">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="GitHub-Python">/home/scyth1an/Projects/</Path>
+                  <Path Filename="Learn_Python">/home/scyth1an/Projects/GitHub-Python/</Path>
+                  <Path Filename=".eric6project">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/.eric6project/</Path>
+                  <Path Filename="learn-python">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="01-ustanovka-python-i-virtual&apos;noye okruzheniye">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/01-ustanovka-python-i-virtual'noye okruzheniye/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="learn-python">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="messenger">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="_Изучение Python - vvs">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/</Path>
+                  <Path Filename="_Изучение Python - vvs">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="1 - Изучение Python">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/</Path>
+                  <Path Filename="Гэддис Т">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/1 - Изучение Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/1 - Изучение Python/Гэддис Т/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/1 - Изучение Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/</Path>
+                  <Path Filename="Гэддис Т">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="Гэддис Т. - Начинаем программировать на Python - 5-е изд.: - 2022">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/Гэддис Т/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/Гэддис Т/Гэддис Т. - Начинаем программировать на Python - 5-е изд.: - 2022/</Path>
+                  <Path Filename="Музыка">/home/scyth1an/</Path>
+                  <Path Filename="Наши Исполнители">/home/scyth1an/Музыка/</Path>
+                  <Path Filename="АлисА">/home/scyth1an/Музыка/Наши Исполнители/</Path>
+                  <Path Filename="CD">/home/scyth1an/Музыка/Наши Исполнители/АлисА/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/</Path>
+                  <Path Filename="Линтеры в Python">/home/scyth1an/Видео/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="">/home/scyth1an/Видео/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+          <Options>2</Options>
+          <LockPath>/home/scyth1an/Видео/Компьютер/Разработка/Программирование/Языки программирования/Python/</LockPath>
+          <Title>Python</Title>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Red Hat/Fedora/</Path>
+                  <Path Filename="..">/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Fedora/KDE/Программы/</Path>
+                  <Path Filename="KDE">/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Fedora/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Программы/Разработка/Текстовые редакторы | IDE/VS Code/</Path>
+                  <Path Filename="..">/home/scyth1an/Шаблоны/Мой компьютер/Программы/Текстовые редакторы | IDE/VS Code/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename="GitHub-Dotfiles">/home/scyth1an/Projects/</Path>
+                  <Path Filename="dotfiles">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename=".git">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/.git/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="dotfiles">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="dotfiles">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="GitHub-Python">/home/scyth1an/Projects/</Path>
+                  <Path Filename="Learn_Python">/home/scyth1an/Projects/GitHub-Python/</Path>
+                  <Path Filename=".eric6project">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/.eric6project/</Path>
+                  <Path Filename="learn-python">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="01-ustanovka-python-i-virtual&apos;noye okruzheniye">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/01-ustanovka-python-i-virtual'noye okruzheniye/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="learn-python">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="messenger">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="_Изучение Python - vvs">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/</Path>
+                  <Path Filename="_Изучение Python - vvs">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="1 - Изучение Python">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/</Path>
+                  <Path Filename="Гэддис Т">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/1 - Изучение Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/1 - Изучение Python/Гэддис Т/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/1 - Изучение Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/</Path>
+                  <Path Filename="Гэддис Т">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="Гэддис Т. - Начинаем программировать на Python - 5-е изд.: - 2022">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/Гэддис Т/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/Гэддис Т/Гэддис Т. - Начинаем программировать на Python - 5-е изд.: - 2022/</Path>
+                  <Path Filename="Музыка">/home/scyth1an/</Path>
+                  <Path Filename="Наши Исполнители">/home/scyth1an/Музыка/</Path>
+                  <Path Filename="АлисА">/home/scyth1an/Музыка/Наши Исполнители/</Path>
+                  <Path Filename="CD">/home/scyth1an/Музыка/Наши Исполнители/АлисА/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/АлисА/CD/</Path>
+                  <Path Filename="..">/home/scyth1an/Видео/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="GitHub">/home/scyth1an/Projects/</Path>
+                  <Path Filename="Python">/home/scyth1an/Projects/GitHub/</Path>
+                  <Path Filename="Learn_Python">/home/scyth1an/Projects/GitHub/Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub/Python/Learn_Python/</Path>
+                  <Path Active="True" Filename="..">/home/scyth1an/Projects/</Path>
+                  <Path Filename="Otkrytki">/home/scyth1an/Изображения/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+          <Options>2</Options>
+          <LockPath>/home/scyth1an/Projects/GitHub/Python/Learn_Python/</LockPath>
+          <Title>Learn_Python</Title>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Веб-программирование/PHP/Веллинг Люк, Томсон Лора/</Path>
+                  <Path Filename="Шлосснейгл Д.">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Веб-программирование/PHP/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Веб-программирование/PHP/Шлосснейгл Д./</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Веб-программирование/PHP/</Path>
+                  <Path Filename="SQL">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Веб-программирование/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Веб-программирование/SQL/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Веб-программирование/</Path>
+                  <Path Filename="Программирование">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Программирование/</Path>
+                  <Path Filename="Регулярные выражения">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/</Path>
+                  <Path Filename="Бен-Форта.-Регулярные-выражения-за-10-минут">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Регулярные выражения/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Регулярные выражения/Бен-Форта.-Регулярные-выражения-за-10-минут/</Path>
+                  <Path Filename="Бен-Форта.-Регулярные-выражения-за-10-минут">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Регулярные выражения/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Регулярные выражения/Бен-Форта.-Регулярные-выражения-за-10-минут/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Регулярные выражения/</Path>
+                  <Path Filename="Рефакторинг">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Рефакторинг/</Path>
+                  <Path Filename="Советы начинающим программистам">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Советы начинающим программистам/</Path>
+                  <Path Filename="Теория программирования">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Теория программирования/</Path>
+                  <Path Filename="Теория программирования">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/</Path>
+                  <Path Filename="Курт У. - Байесовская статистика. Star Wars, LEGO, резиновые уточки и многое другое (Библиотека программиста) - 2021">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Теория программирования/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Теория программирования/Курт У. - Байесовская статистика. Star Wars, LEGO, резиновые уточки и многое другое (Библиотека программиста) - 2021/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/Теория программирования/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/Программирование/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Разработка/</Path>
+                  <Path Filename="Системная инженерия">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Системная инженерия/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/</Path>
+                  <Path Filename="Компьютер">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/</Path>
+                  <Path Filename="Системная инженерия">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Системная инженерия/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/</Path>
+                  <Path Filename="Ракетная техника">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Ракетная техника/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/</Path>
+                  <Path Filename="Художественная литература">/home/scyth1an/Документы/Библиотека-добавление/</Path>
+                  <Path Filename="Пушкин Александр Сергеевич">/home/scyth1an/Документы/Библиотека-добавление/Художественная литература/</Path>
+                  <Path Filename="Изданiе Брокгаузъ-Ефрона (6т)">/home/scyth1an/Документы/Библиотека-добавление/Художественная литература/Пушкин Александр Сергеевич/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Художественная литература/Пушкин Александр Сергеевич/Изданiе Брокгаузъ-Ефрона (6т)/</Path>
+                  <Path Filename="Изданiе Брокгаузъ-Ефрона (6т)">/home/scyth1an/Документы/Библиотека-добавление/Художественная литература/Пушкин Александр Сергеевич/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Художественная литература/Пушкин Александр Сергеевич/Изданiе Брокгаузъ-Ефрона (6т)/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Художественная литература/</Path>
+                  <Path Filename="Художественная литература">/home/scyth1an/Документы/Библиотека-добавление/</Path>
+                  <Path Filename="Семенова Мария">/home/scyth1an/Документы/Библиотека-добавление/Художественная литература/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека-добавление/Художественная литература/Семенова Мария/</Path>
+                  <Path Filename="">/home/scyth1an/Документы/Библиотека-добавление/</Path>
+                  <Path Filename="">/home/scyth1an/Документы/Библиотека-добавление/Художественная литература/Семенова Мария/</Path>
+                  <Path Filename="">/home/scyth1an/Документы/Библиотека-добавление/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+          <Options>2</Options>
+          <LockPath>/home/scyth1an/Документы/Библиотека-добавление/Художественная литература/Семенова Мария/</LockPath>
+          <Title>Семенова Мария</Title>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/usr/lib64/doublecmd/</Path>
+                  <Path Filename="..">/home/scyth1an/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Red Hat/Fedora/</Path>
+                  <Path Filename="..">/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Fedora/KDE/Программы/</Path>
+                  <Path Filename="KDE">/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Fedora/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Компьютер/Программы/Разработка/Текстовые редакторы | IDE/VS Code/</Path>
+                  <Path Filename="..">/home/scyth1an/Шаблоны/Мой компьютер/Программы/Текстовые редакторы | IDE/VS Code/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename="GitHub-Dotfiles">/home/scyth1an/Projects/</Path>
+                  <Path Filename="dotfiles">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename=".git">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/.git/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="dotfiles">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="dotfiles">/home/scyth1an/Projects/GitHub-Dotfiles/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Dotfiles/dotfiles/</Path>
+                  <Path Filename="GitHub-Python">/home/scyth1an/Projects/</Path>
+                  <Path Filename="Learn_Python">/home/scyth1an/Projects/GitHub-Python/</Path>
+                  <Path Filename=".eric6project">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/.eric6project/</Path>
+                  <Path Filename="learn-python">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="01-ustanovka-python-i-virtual&apos;noye okruzheniye">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/01-ustanovka-python-i-virtual'noye okruzheniye/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="learn-python">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Projects/GitHub-Python/Learn_Python/learn-python/</Path>
+                  <Path Filename="messenger">/home/scyth1an/Projects/GitHub-Python/Learn_Python/</Path>
+                  <Path Filename="_Изучение Python - vvs">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/</Path>
+                  <Path Filename="_Изучение Python - vvs">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="1 - Изучение Python">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/</Path>
+                  <Path Filename="Гэддис Т">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/1 - Изучение Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/1 - Изучение Python/Гэддис Т/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/1 - Изучение Python/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/_Изучение Python - vvs/</Path>
+                  <Path Filename="Гэддис Т">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/</Path>
+                  <Path Filename="Гэддис Т. - Начинаем программировать на Python - 5-е изд.: - 2022">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/Гэддис Т/</Path>
+                  <Path Filename="..">/home/scyth1an/Документы/Библиотека/Техническая литература/Компьютер/Разработка/Программирование/Языки программирования/Python/Гэддис Т/Гэддис Т. - Начинаем программировать на Python - 5-е изд.: - 2022/</Path>
+                  <Path Filename="Музыка">/home/scyth1an/</Path>
+                  <Path Filename="Наши Исполнители">/home/scyth1an/Музыка/</Path>
+                  <Path Filename="_Various Artists">/home/scyth1an/Музыка/Наши Исполнители/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/_Various Artists/</Path>
+                  <Path Active="True" Filename="..">/home/scyth1an/Музыка/Наши Исполнители/</Path>
+                  <Path Filename="..">/home/scyth1an/Музыка/Наши Исполнители/Catharsis/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+          <Options>2</Options>
+          <LockPath>/home/scyth1an/Музыка/Наши Исполнители/</LockPath>
+          <Title>Наши Исполнители</Title>
+        </Tab>
+      </Right>
+    </OpenedTabs>
+  </Tabs>
+</doublecmd>

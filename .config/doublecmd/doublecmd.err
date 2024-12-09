@@ -1,0 +1,642 @@
+--------------- 16-12-2022, 00:17:04 ---------------
+| DC v1.0.9 Rev. 222 -- x86_64-Linux-qt5
+| Arch Linux \r (\l) -- Qt 5.15.7, libQt5Pas 5.6.1 | PID 5201
+Unhandled exception: ELayoutException: Position range overflow in Status.SendMoveSizeMessages: Left=0, Top=65473.
+  Stack trace:
+  $00000000005C2F5E line 4354, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005CF9EF line 759, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005DCA1E line 5550, column 3 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C0117 line 3045, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF76C line 3158, column 27 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF22B line 3233, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000004B4673 line 102, column 44 of include/scrollingwincontrol.inc in /usr/bin/doublecmd
+  $00000000005C7DE2 line 6449, column 5 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005D5446 line 3079, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D5194 line 3129, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C1241 line 3546, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005DD39E line 5817, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005CBFAC line 8154, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005C93B4 line 7087, column 47 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000004B4A81 line 175, column 12 of include/scrollingwincontrol.inc in /usr/bin/doublecmd
+  $00000000004B8106 line 664, column 27 of include/customform.inc in /usr/bin/doublecmd
+  $000000000043A03A in /usr/bin/doublecmd
+
+--------------- 16-12-2022, 00:19:32 ---------------
+| DC v1.0.9 Rev. 222 -- x86_64-Linux-qt5
+| Arch Linux \r (\l) -- Qt 5.15.7, libQt5Pas 5.6.1 | PID 28562
+Unhandled exception: ELayoutException: Position range overflow in Status.SendMoveSizeMessages: Left=0, Top=65473.
+  Stack trace:
+  $00000000005C2F5E line 4354, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005CF9EF line 759, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005DCA1E line 5550, column 3 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C0117 line 3045, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF76C line 3158, column 27 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF22B line 3233, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000004B4673 line 102, column 44 of include/scrollingwincontrol.inc in /usr/bin/doublecmd
+  $00000000005C7DE2 line 6449, column 5 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005D5446 line 3079, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D5194 line 3129, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C1241 line 3546, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005DD39E line 5817, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D9B61 line 4616, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000004B78EB line 417, column 5 of include/customform.inc in /usr/bin/doublecmd
+  $00000000004BCFDE line 2333, column 3 of include/customform.inc in /usr/bin/doublecmd
+  $0000000000A76D17 line 525, column 5 of fviewer.pas in /usr/bin/doublecmd
+  $00000000009BD8C7 line 230, column 7 of uformcommands.pas in /usr/bin/doublecmd
+
+--------------- 16-12-2022, 00:19:39 ---------------
+| DC v1.0.9 Rev. 222 -- x86_64-Linux-qt5
+| Arch Linux \r (\l) -- Qt 5.15.7, libQt5Pas 5.6.1 | PID 28562
+Unhandled exception: ELayoutException: Position range overflow in Status.SendMoveSizeMessages: Left=0, Top=65473.
+  Stack trace:
+  $00000000005C2F5E line 4354, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005CF9EF line 759, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005DCA1E line 5550, column 3 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C0117 line 3045, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF76C line 3158, column 27 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF22B line 3233, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000004B4673 line 102, column 44 of include/scrollingwincontrol.inc in /usr/bin/doublecmd
+  $00000000005C7DE2 line 6449, column 5 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005D5446 line 3079, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D5194 line 3129, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C1241 line 3546, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005DD39E line 5817, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D9B61 line 4616, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000004B78EB line 417, column 5 of include/customform.inc in /usr/bin/doublecmd
+  $00000000004BCFDE line 2333, column 3 of include/customform.inc in /usr/bin/doublecmd
+  $0000000000A76D17 line 525, column 5 of fviewer.pas in /usr/bin/doublecmd
+  $00000000009BD8C7 line 230, column 7 of uformcommands.pas in /usr/bin/doublecmd
+
+--------------- 16-12-2022, 00:20:05 ---------------
+| DC v1.0.9 Rev. 222 -- x86_64-Linux-qt5
+| Arch Linux \r (\l) -- Qt 5.15.7, libQt5Pas 5.6.1 | PID 28562
+Unhandled exception: ELayoutException: Position range overflow in Status.SendMoveSizeMessages: Left=0, Top=65473.
+  Stack trace:
+  $00000000005C2F5E line 4354, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005CF9EF line 759, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005DCA1E line 5550, column 3 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C0117 line 3045, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF76C line 3158, column 27 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF22B line 3233, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000004B4673 line 102, column 44 of include/scrollingwincontrol.inc in /usr/bin/doublecmd
+  $00000000005C7DE2 line 6449, column 5 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005D5446 line 3079, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D5194 line 3129, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C1241 line 3546, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005DD39E line 5817, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D9B61 line 4616, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000004B78EB line 417, column 5 of include/customform.inc in /usr/bin/doublecmd
+  $00000000004BCFDE line 2333, column 3 of include/customform.inc in /usr/bin/doublecmd
+  $0000000000A76D17 line 525, column 5 of fviewer.pas in /usr/bin/doublecmd
+  $00000000009BD8C7 line 230, column 7 of uformcommands.pas in /usr/bin/doublecmd
+
+--------------- 16-12-2022, 00:20:13 ---------------
+| DC v1.0.9 Rev. 222 -- x86_64-Linux-qt5
+| Arch Linux \r (\l) -- Qt 5.15.7, libQt5Pas 5.6.1 | PID 28562
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $0000000000899ED0 line 466, column 20 of ufile.pas in /usr/bin/doublecmd
+
+--------------- 16-12-2022, 00:21:30 ---------------
+| DC v1.0.9 Rev. 222 -- x86_64-Linux-qt5
+| Arch Linux \r (\l) -- Qt 5.15.7, libQt5Pas 5.6.1 | PID 28917
+Unhandled exception: ELayoutException: Position range overflow in Status.SendMoveSizeMessages: Left=0, Top=65473.
+  Stack trace:
+  $00000000005C2F5E line 4354, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005CF9EF line 759, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005DCA1E line 5550, column 3 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C0117 line 3045, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF76C line 3158, column 27 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF22B line 3233, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000004B4673 line 102, column 44 of include/scrollingwincontrol.inc in /usr/bin/doublecmd
+  $00000000005C7DE2 line 6449, column 5 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005D5446 line 3079, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D5194 line 3129, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C1241 line 3546, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005DD39E line 5817, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D9B61 line 4616, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000004B78EB line 417, column 5 of include/customform.inc in /usr/bin/doublecmd
+  $00000000004BCFDE line 2333, column 3 of include/customform.inc in /usr/bin/doublecmd
+  $0000000000A76D17 line 525, column 5 of fviewer.pas in /usr/bin/doublecmd
+  $00000000009BD8C7 line 230, column 7 of uformcommands.pas in /usr/bin/doublecmd
+
+--------------- 16-12-2022, 00:38:29 ---------------
+| DC v1.0.9 Rev. 222 -- x86_64-Linux-qt5
+| Arch Linux \r (\l) -- Qt 5.15.7, libQt5Pas 5.6.1 | PID 28917
+Unhandled exception: ELayoutException: Position range overflow in Status.SendMoveSizeMessages: Left=0, Top=65473.
+  Stack trace:
+  $00000000005C2F5E line 4354, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005CF9EF line 759, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005DCA1E line 5550, column 3 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C0117 line 3045, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF76C line 3158, column 27 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF22B line 3233, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000004B4673 line 102, column 44 of include/scrollingwincontrol.inc in /usr/bin/doublecmd
+  $00000000005C7DE2 line 6449, column 5 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005D5446 line 3079, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D5194 line 3129, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C1241 line 3546, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005DD39E line 5817, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D9B61 line 4616, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000004B78EB line 417, column 5 of include/customform.inc in /usr/bin/doublecmd
+  $00000000004BCFDE line 2333, column 3 of include/customform.inc in /usr/bin/doublecmd
+  $0000000000A76D17 line 525, column 5 of fviewer.pas in /usr/bin/doublecmd
+  $00000000009BD8C7 line 230, column 7 of uformcommands.pas in /usr/bin/doublecmd
+
+--------------- 16-12-2022, 00:39:14 ---------------
+| DC v1.0.9 Rev. 222 -- x86_64-Linux-qt5
+| Arch Linux \r (\l) -- Qt 5.15.7, libQt5Pas 5.6.1 | PID 28917
+Unhandled exception: ELayoutException: Position range overflow in Status.SendMoveSizeMessages: Left=0, Top=65473.
+  Stack trace:
+  $00000000005C2F5E line 4354, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005CF9EF line 759, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005DCA1E line 5550, column 3 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C0117 line 3045, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF76C line 3158, column 27 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF22B line 3233, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000004B4673 line 102, column 44 of include/scrollingwincontrol.inc in /usr/bin/doublecmd
+  $00000000005C7DE2 line 6449, column 5 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005D5446 line 3079, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D5194 line 3129, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C1241 line 3546, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005DD39E line 5817, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D9B61 line 4616, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000004B78EB line 417, column 5 of include/customform.inc in /usr/bin/doublecmd
+  $00000000004BCFDE line 2333, column 3 of include/customform.inc in /usr/bin/doublecmd
+  $0000000000A76D17 line 525, column 5 of fviewer.pas in /usr/bin/doublecmd
+  $00000000009BD8C7 line 230, column 7 of uformcommands.pas in /usr/bin/doublecmd
+
+--------------- 16-12-2022, 00:39:45 ---------------
+| DC v1.0.9 Rev. 222 -- x86_64-Linux-qt5
+| Arch Linux \r (\l) -- Qt 5.15.7, libQt5Pas 5.6.1 | PID 28917
+Unhandled exception: ELayoutException: Position range overflow in Status.SendMoveSizeMessages: Left=0, Top=65473.
+  Stack trace:
+  $00000000005C2F5E line 4354, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005CF9EF line 759, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005DCA1E line 5550, column 3 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C0117 line 3045, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF76C line 3158, column 27 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF22B line 3233, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000004B4673 line 102, column 44 of include/scrollingwincontrol.inc in /usr/bin/doublecmd
+  $00000000005C7DE2 line 6449, column 5 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005D5446 line 3079, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D5194 line 3129, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C1241 line 3546, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005DD39E line 5817, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D9B61 line 4616, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000004B78EB line 417, column 5 of include/customform.inc in /usr/bin/doublecmd
+  $00000000004BCFDE line 2333, column 3 of include/customform.inc in /usr/bin/doublecmd
+  $0000000000A76D17 line 525, column 5 of fviewer.pas in /usr/bin/doublecmd
+  $00000000009BD8C7 line 230, column 7 of uformcommands.pas in /usr/bin/doublecmd
+
+--------------- 16-12-2022, 00:40:37 ---------------
+| DC v1.0.9 Rev. 222 -- x86_64-Linux-qt5
+| Arch Linux \r (\l) -- Qt 5.15.7, libQt5Pas 5.6.1 | PID 28917
+Unhandled exception: ELayoutException: Position range overflow in Status.SendMoveSizeMessages: Left=0, Top=65473.
+  Stack trace:
+  $00000000005C2F5E line 4354, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005CF9EF line 759, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005DCA1E line 5550, column 3 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C0117 line 3045, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF76C line 3158, column 27 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF22B line 3233, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000004B4673 line 102, column 44 of include/scrollingwincontrol.inc in /usr/bin/doublecmd
+  $00000000005C7DE2 line 6449, column 5 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005D5446 line 3079, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D5194 line 3129, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C1241 line 3546, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005DD39E line 5817, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D9B61 line 4616, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000004B78EB line 417, column 5 of include/customform.inc in /usr/bin/doublecmd
+  $00000000004BCFDE line 2333, column 3 of include/customform.inc in /usr/bin/doublecmd
+  $0000000000A76D17 line 525, column 5 of fviewer.pas in /usr/bin/doublecmd
+  $00000000009BD8C7 line 230, column 7 of uformcommands.pas in /usr/bin/doublecmd
+
+--------------- 16-12-2022, 00:42:18 ---------------
+| DC v1.0.9 Rev. 222 -- x86_64-Linux-qt5
+| Arch Linux \r (\l) -- Qt 5.15.7, libQt5Pas 5.6.1 | PID 28917
+Unhandled exception: ELayoutException: Position range overflow in Status.SendMoveSizeMessages: Left=0, Top=65473.
+  Stack trace:
+  $00000000005C2F5E line 4354, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005CF9EF line 759, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005DCA1E line 5550, column 3 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C0117 line 3045, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF76C line 3158, column 27 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF22B line 3233, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000004B4673 line 102, column 44 of include/scrollingwincontrol.inc in /usr/bin/doublecmd
+  $00000000005C7DE2 line 6449, column 5 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005D5446 line 3079, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D5194 line 3129, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C1241 line 3546, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005DD39E line 5817, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D9B61 line 4616, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000004B78EB line 417, column 5 of include/customform.inc in /usr/bin/doublecmd
+  $00000000004BCFDE line 2333, column 3 of include/customform.inc in /usr/bin/doublecmd
+  $0000000000A76D17 line 525, column 5 of fviewer.pas in /usr/bin/doublecmd
+  $00000000009BD8C7 line 230, column 7 of uformcommands.pas in /usr/bin/doublecmd
+
+--------------- 16-12-2022, 00:44:22 ---------------
+| DC v1.0.9 Rev. 222 -- x86_64-Linux-qt5
+| Arch Linux \r (\l) -- Qt 5.15.7, libQt5Pas 5.6.1 | PID 28917
+Unhandled exception: ELayoutException: Position range overflow in Status.SendMoveSizeMessages: Left=0, Top=65473.
+  Stack trace:
+  $00000000005C2F5E line 4354, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005CF9EF line 759, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005DCA1E line 5550, column 3 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C0117 line 3045, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF76C line 3158, column 27 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF22B line 3233, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000004B4673 line 102, column 44 of include/scrollingwincontrol.inc in /usr/bin/doublecmd
+  $00000000005C7DE2 line 6449, column 5 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005D5446 line 3079, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D5194 line 3129, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C1241 line 3546, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005DD39E line 5817, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D9B61 line 4616, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000004B78EB line 417, column 5 of include/customform.inc in /usr/bin/doublecmd
+  $00000000004BCFDE line 2333, column 3 of include/customform.inc in /usr/bin/doublecmd
+  $0000000000A76D17 line 525, column 5 of fviewer.pas in /usr/bin/doublecmd
+  $00000000009BD8C7 line 230, column 7 of uformcommands.pas in /usr/bin/doublecmd
+
+--------------- 16-12-2022, 00:45:23 ---------------
+| DC v1.0.9 Rev. 222 -- x86_64-Linux-qt5
+| Arch Linux \r (\l) -- Qt 5.15.7, libQt5Pas 5.6.1 | PID 28917
+Unhandled exception: ELayoutException: Position range overflow in Status.SendMoveSizeMessages: Left=0, Top=65473.
+  Stack trace:
+  $00000000005C2F5E line 4354, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005CF9EF line 759, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005DCA1E line 5550, column 3 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C0117 line 3045, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF76C line 3158, column 27 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF22B line 3233, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000004B4673 line 102, column 44 of include/scrollingwincontrol.inc in /usr/bin/doublecmd
+  $00000000005C7DE2 line 6449, column 5 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005D5446 line 3079, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D5194 line 3129, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C1241 line 3546, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005DD39E line 5817, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D9B61 line 4616, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000004B78EB line 417, column 5 of include/customform.inc in /usr/bin/doublecmd
+  $00000000004BCFDE line 2333, column 3 of include/customform.inc in /usr/bin/doublecmd
+  $0000000000A76D17 line 525, column 5 of fviewer.pas in /usr/bin/doublecmd
+  $00000000009BD8C7 line 230, column 7 of uformcommands.pas in /usr/bin/doublecmd
+
+--------------- 16-12-2022, 00:55:26 ---------------
+| DC v1.0.9 Rev. 222 -- x86_64-Linux-qt5
+| Arch Linux \r (\l) -- Qt 5.15.7, libQt5Pas 5.6.1 | PID 28917
+Unhandled exception: ELayoutException: Position range overflow in Status.SendMoveSizeMessages: Left=0, Top=65473.
+  Stack trace:
+  $00000000005C2F5E line 4354, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005CF9EF line 759, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005DCA1E line 5550, column 3 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C0117 line 3045, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF76C line 3158, column 27 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF22B line 3233, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000004B4673 line 102, column 44 of include/scrollingwincontrol.inc in /usr/bin/doublecmd
+  $00000000005C7DE2 line 6449, column 5 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005D5446 line 3079, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D5194 line 3129, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C1241 line 3546, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005DD39E line 5817, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D9B61 line 4616, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000004B78EB line 417, column 5 of include/customform.inc in /usr/bin/doublecmd
+  $00000000004BCFDE line 2333, column 3 of include/customform.inc in /usr/bin/doublecmd
+  $0000000000A76D17 line 525, column 5 of fviewer.pas in /usr/bin/doublecmd
+  $00000000009BD8C7 line 230, column 7 of uformcommands.pas in /usr/bin/doublecmd
+
+--------------- 16-12-2022, 00:57:58 ---------------
+| DC v1.0.9 Rev. 222 -- x86_64-Linux-qt5
+| Arch Linux \r (\l) -- Qt 5.15.7, libQt5Pas 5.6.1 | PID 28917
+Unhandled exception: ELayoutException: Position range overflow in Status.SendMoveSizeMessages: Left=0, Top=65473.
+  Stack trace:
+  $00000000005C2F5E line 4354, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005CF9EF line 759, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005DCA1E line 5550, column 3 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C0117 line 3045, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF76C line 3158, column 27 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF22B line 3233, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000004B4673 line 102, column 44 of include/scrollingwincontrol.inc in /usr/bin/doublecmd
+  $00000000005C7DE2 line 6449, column 5 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005D5446 line 3079, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D5194 line 3129, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C1241 line 3546, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005DD39E line 5817, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D9B61 line 4616, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000004B78EB line 417, column 5 of include/customform.inc in /usr/bin/doublecmd
+  $00000000004BCFDE line 2333, column 3 of include/customform.inc in /usr/bin/doublecmd
+  $0000000000A76D17 line 525, column 5 of fviewer.pas in /usr/bin/doublecmd
+  $00000000009BD8C7 line 230, column 7 of uformcommands.pas in /usr/bin/doublecmd
+
+--------------- 16-12-2022, 01:06:06 ---------------
+| DC v1.0.9 Rev. 222 -- x86_64-Linux-qt5
+| Arch Linux \r (\l) -- Qt 5.15.7, libQt5Pas 5.6.1 | PID 2372
+Unhandled exception: ELayoutException: Position range overflow in Status.SendMoveSizeMessages: Left=0, Top=65473.
+  Stack trace:
+  $00000000005C2F5E line 4354, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005CF9EF line 759, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005DCA1E line 5550, column 3 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C0117 line 3045, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF76C line 3158, column 27 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF22B line 3233, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000004B4673 line 102, column 44 of include/scrollingwincontrol.inc in /usr/bin/doublecmd
+  $00000000005C7DE2 line 6449, column 5 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005D5446 line 3079, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D5194 line 3129, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C1241 line 3546, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005DD39E line 5817, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D9B61 line 4616, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000004B78EB line 417, column 5 of include/customform.inc in /usr/bin/doublecmd
+  $00000000004BCFDE line 2333, column 3 of include/customform.inc in /usr/bin/doublecmd
+  $0000000000A76D17 line 525, column 5 of fviewer.pas in /usr/bin/doublecmd
+  $00000000009BD8C7 line 230, column 7 of uformcommands.pas in /usr/bin/doublecmd
+
+--------------- 16-12-2022, 01:06:45 ---------------
+| DC v1.0.9 Rev. 222 -- x86_64-Linux-qt5
+| Arch Linux \r (\l) -- Qt 5.15.7, libQt5Pas 5.6.1 | PID 2372
+Unhandled exception: ELayoutException: Position range overflow in Status.SendMoveSizeMessages: Left=0, Top=65473.
+  Stack trace:
+  $00000000005C2F5E line 4354, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005CF9EF line 759, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005DCA1E line 5550, column 3 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C0117 line 3045, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF76C line 3158, column 27 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF22B line 3233, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000004B4673 line 102, column 44 of include/scrollingwincontrol.inc in /usr/bin/doublecmd
+  $00000000005C7DE2 line 6449, column 5 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005D5446 line 3079, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D5194 line 3129, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C1241 line 3546, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005DD39E line 5817, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D9B61 line 4616, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000004B78EB line 417, column 5 of include/customform.inc in /usr/bin/doublecmd
+  $00000000004BCFDE line 2333, column 3 of include/customform.inc in /usr/bin/doublecmd
+  $0000000000A76D17 line 525, column 5 of fviewer.pas in /usr/bin/doublecmd
+  $00000000009BD8C7 line 230, column 7 of uformcommands.pas in /usr/bin/doublecmd
+
+--------------- 16-12-2022, 01:33:37 ---------------
+| DC v1.0.9 Rev. 222 -- x86_64-Linux-qt5
+| Arch Linux \r (\l) -- Qt 5.15.7, libQt5Pas 5.6.1 | PID 2372
+Unhandled exception: ELayoutException: Position range overflow in Status.SendMoveSizeMessages: Left=0, Top=65473.
+  Stack trace:
+  $00000000005C2F5E line 4354, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005CF9EF line 759, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005DCA1E line 5550, column 3 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C0117 line 3045, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF76C line 3158, column 27 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF22B line 3233, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000004B4673 line 102, column 44 of include/scrollingwincontrol.inc in /usr/bin/doublecmd
+  $00000000005C7DE2 line 6449, column 5 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005D5446 line 3079, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D5194 line 3129, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C1241 line 3546, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005DD39E line 5817, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D9B61 line 4616, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000004B78EB line 417, column 5 of include/customform.inc in /usr/bin/doublecmd
+  $00000000004BCFDE line 2333, column 3 of include/customform.inc in /usr/bin/doublecmd
+  $0000000000A76D17 line 525, column 5 of fviewer.pas in /usr/bin/doublecmd
+  $00000000009BD8C7 line 230, column 7 of uformcommands.pas in /usr/bin/doublecmd
+
+--------------- 16-12-2022, 01:34:49 ---------------
+| DC v1.0.9 Rev. 222 -- x86_64-Linux-qt5
+| Arch Linux \r (\l) -- Qt 5.15.7, libQt5Pas 5.6.1 | PID 2372
+Unhandled exception: ELayoutException: Position range overflow in Status.SendMoveSizeMessages: Left=0, Top=65473.
+  Stack trace:
+  $00000000005C2F5E line 4354, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005CF9EF line 759, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005DCA1E line 5550, column 3 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C0117 line 3045, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF76C line 3158, column 27 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF22B line 3233, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000004B4673 line 102, column 44 of include/scrollingwincontrol.inc in /usr/bin/doublecmd
+  $00000000005C7DE2 line 6449, column 5 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005D5446 line 3079, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D5194 line 3129, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C1241 line 3546, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005DD39E line 5817, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D9B61 line 4616, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000004B78EB line 417, column 5 of include/customform.inc in /usr/bin/doublecmd
+  $00000000004BCFDE line 2333, column 3 of include/customform.inc in /usr/bin/doublecmd
+  $0000000000A76D17 line 525, column 5 of fviewer.pas in /usr/bin/doublecmd
+  $00000000009BD8C7 line 230, column 7 of uformcommands.pas in /usr/bin/doublecmd
+
+--------------- 16-12-2022, 01:53:15 ---------------
+| DC v1.0.9 Rev. 222 -- x86_64-Linux-qt5
+| Arch Linux \r (\l) -- Qt 5.15.7, libQt5Pas 5.6.1 | PID 2372
+Unhandled exception: ELayoutException: Position range overflow in Status.SendMoveSizeMessages: Left=0, Top=65473.
+  Stack trace:
+  $00000000005C2F5E line 4354, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005CF9EF line 759, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005DCA1E line 5550, column 3 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C0117 line 3045, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF76C line 3158, column 27 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF22B line 3233, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000004B4673 line 102, column 44 of include/scrollingwincontrol.inc in /usr/bin/doublecmd
+  $00000000005C7DE2 line 6449, column 5 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005D5446 line 3079, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D5194 line 3129, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C1241 line 3546, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005DD39E line 5817, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D9B61 line 4616, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000004B78EB line 417, column 5 of include/customform.inc in /usr/bin/doublecmd
+  $00000000004BCFDE line 2333, column 3 of include/customform.inc in /usr/bin/doublecmd
+  $0000000000A76D17 line 525, column 5 of fviewer.pas in /usr/bin/doublecmd
+  $00000000009BD8C7 line 230, column 7 of uformcommands.pas in /usr/bin/doublecmd
+
+--------------- 16-12-2022, 02:00:01 ---------------
+| DC v1.0.9 Rev. 222 -- x86_64-Linux-qt5
+| Arch Linux \r (\l) -- Qt 5.15.7, libQt5Pas 5.6.1 | PID 2372
+Unhandled exception: ELayoutException: Position range overflow in Status.SendMoveSizeMessages: Left=0, Top=65473.
+  Stack trace:
+  $00000000005C2F5E line 4354, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005CF9EF line 759, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005DCA1E line 5550, column 3 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C0117 line 3045, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF76C line 3158, column 27 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF22B line 3233, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000004B4673 line 102, column 44 of include/scrollingwincontrol.inc in /usr/bin/doublecmd
+  $00000000005C7DE2 line 6449, column 5 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005D5446 line 3079, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D5194 line 3129, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C1241 line 3546, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005DD39E line 5817, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D9B61 line 4616, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000004B78EB line 417, column 5 of include/customform.inc in /usr/bin/doublecmd
+  $00000000004BCFDE line 2333, column 3 of include/customform.inc in /usr/bin/doublecmd
+  $0000000000A76D17 line 525, column 5 of fviewer.pas in /usr/bin/doublecmd
+  $00000000009BD8C7 line 230, column 7 of uformcommands.pas in /usr/bin/doublecmd
+
+--------------- 16-12-2022, 02:05:46 ---------------
+| DC v1.0.9 Rev. 222 -- x86_64-Linux-qt5
+| Arch Linux \r (\l) -- Qt 5.15.7, libQt5Pas 5.6.1 | PID 2372
+Unhandled exception: ELayoutException: Position range overflow in Status.SendMoveSizeMessages: Left=0, Top=65473.
+  Stack trace:
+  $00000000005C2F5E line 4354, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005CF9EF line 759, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005DCA1E line 5550, column 3 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C0117 line 3045, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF76C line 3158, column 27 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF22B line 3233, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000004B4673 line 102, column 44 of include/scrollingwincontrol.inc in /usr/bin/doublecmd
+  $00000000005C7DE2 line 6449, column 5 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005D5446 line 3079, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D5194 line 3129, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C1241 line 3546, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005DD39E line 5817, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D9B61 line 4616, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000004B78EB line 417, column 5 of include/customform.inc in /usr/bin/doublecmd
+  $00000000004BCFDE line 2333, column 3 of include/customform.inc in /usr/bin/doublecmd
+  $0000000000A76D17 line 525, column 5 of fviewer.pas in /usr/bin/doublecmd
+  $00000000009BD8C7 line 230, column 7 of uformcommands.pas in /usr/bin/doublecmd
+
+--------------- 16-12-2022, 02:06:09 ---------------
+| DC v1.0.9 Rev. 222 -- x86_64-Linux-qt5
+| Arch Linux \r (\l) -- Qt 5.15.7, libQt5Pas 5.6.1 | PID 2372
+Unhandled exception: ELayoutException: Position range overflow in Status.SendMoveSizeMessages: Left=0, Top=65473.
+  Stack trace:
+  $00000000005C2F5E line 4354, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005CF9EF line 759, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005DCA1E line 5550, column 3 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C0117 line 3045, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF76C line 3158, column 27 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF22B line 3233, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000004B4673 line 102, column 44 of include/scrollingwincontrol.inc in /usr/bin/doublecmd
+  $00000000005C7DE2 line 6449, column 5 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005D5446 line 3079, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D5194 line 3129, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C1241 line 3546, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005DD39E line 5817, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D9B61 line 4616, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000004B78EB line 417, column 5 of include/customform.inc in /usr/bin/doublecmd
+  $00000000004BCFDE line 2333, column 3 of include/customform.inc in /usr/bin/doublecmd
+  $0000000000A76D17 line 525, column 5 of fviewer.pas in /usr/bin/doublecmd
+  $00000000009BD8C7 line 230, column 7 of uformcommands.pas in /usr/bin/doublecmd
+
+--------------- 18-03-2023, 15:05:53 ---------------
+| DC v1.0.10 Rev. 239 -- x86_64-Linux-qt5
+| CachyOS -- Qt 5.15.8, libQt5Pas 5.6.1 | PID 12257
+Unhandled exception: ELayoutException: Position range overflow in Status.SendMoveSizeMessages: Left=0, Top=65473.
+  Stack trace:
+  $00000000005C2EAE line 4354, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005CF93F line 759, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005DC96E line 5550, column 3 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C0067 line 3045, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF6BC line 3158, column 27 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF17B line 3233, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000004B45A3 line 102, column 44 of include/scrollingwincontrol.inc in /usr/bin/doublecmd
+  $00000000005C7D32 line 6449, column 5 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005D5396 line 3079, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D50E4 line 3129, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C1191 line 3546, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005DD2EE line 5817, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D9AB1 line 4616, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000004B781B line 417, column 5 of include/customform.inc in /usr/bin/doublecmd
+  $00000000004BCF0E line 2333, column 3 of include/customform.inc in /usr/bin/doublecmd
+  $0000000000A770F7 line 525, column 5 of fviewer.pas in /usr/bin/doublecmd
+  $00000000009BDC57 line 230, column 7 of uformcommands.pas in /usr/bin/doublecmd
+
+--------------- 28-03-2023, 19:10:12 ---------------
+| DC v1.0.10 Rev. 239 -- x86_64-Linux-qt5
+| CachyOS -- Qt 5.15.8, libQt5Pas 5.6.1 | PID 90070
+Unhandled exception: ELayoutException: Position range overflow in Status.SendMoveSizeMessages: Left=0, Top=65473.
+  Stack trace:
+  $00000000005C2EAE line 4354, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005CF93F line 759, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005DC96E line 5550, column 3 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C0067 line 3045, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF6BC line 3158, column 27 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF17B line 3233, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000004B45A3 line 102, column 44 of include/scrollingwincontrol.inc in /usr/bin/doublecmd
+  $00000000005C7D32 line 6449, column 5 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005D5396 line 3079, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D50E4 line 3129, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C1191 line 3546, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005DD2EE line 5817, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D9AB1 line 4616, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000004B781B line 417, column 5 of include/customform.inc in /usr/bin/doublecmd
+  $00000000004BCF0E line 2333, column 3 of include/customform.inc in /usr/bin/doublecmd
+  $0000000000A770F7 line 525, column 5 of fviewer.pas in /usr/bin/doublecmd
+  $00000000009BDC57 line 230, column 7 of uformcommands.pas in /usr/bin/doublecmd
+
+--------------- 28-03-2023, 19:11:57 ---------------
+| DC v1.0.10 Rev. 239 -- x86_64-Linux-qt5
+| CachyOS -- Qt 5.15.8, libQt5Pas 5.6.1 | PID 132205
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $0000000000899E20 line 466, column 20 of ufile.pas in /usr/bin/doublecmd
+
+--------------- 28-03-2023, 20:16:08 ---------------
+| DC v1.0.10 Rev. 239 -- x86_64-Linux-qt5
+| CachyOS -- Qt 5.15.8, libQt5Pas 5.6.1 | PID 132529
+Unhandled exception: ELayoutException: Position range overflow in Status.SendMoveSizeMessages: Left=0, Top=65473.
+  Stack trace:
+  $00000000005C2EAE line 4354, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005CF93F line 759, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005DC96E line 5550, column 3 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C0067 line 3045, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF6BC line 3158, column 27 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF17B line 3233, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000004B45A3 line 102, column 44 of include/scrollingwincontrol.inc in /usr/bin/doublecmd
+  $00000000005C7D32 line 6449, column 5 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005D5396 line 3079, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D50E4 line 3129, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C1191 line 3546, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005DD2EE line 5817, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D9AB1 line 4616, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000004B781B line 417, column 5 of include/customform.inc in /usr/bin/doublecmd
+  $00000000004BCF0E line 2333, column 3 of include/customform.inc in /usr/bin/doublecmd
+  $0000000000A770F7 line 525, column 5 of fviewer.pas in /usr/bin/doublecmd
+  $00000000009BDC57 line 230, column 7 of uformcommands.pas in /usr/bin/doublecmd
+
+--------------- 28-03-2023, 20:34:05 ---------------
+| DC v1.0.10 Rev. 239 -- x86_64-Linux-qt5
+| CachyOS -- Qt 5.15.8, libQt5Pas 5.6.1 | PID 132529
+Unhandled exception: ELayoutException: Position range overflow in Status.SendMoveSizeMessages: Left=0, Top=65473.
+  Stack trace:
+  $00000000005C2EAE line 4354, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005CF93F line 759, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005DC96E line 5550, column 3 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C0067 line 3045, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF6BC line 3158, column 27 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF17B line 3233, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000004B45A3 line 102, column 44 of include/scrollingwincontrol.inc in /usr/bin/doublecmd
+  $00000000005C7D32 line 6449, column 5 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005D5396 line 3079, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D50E4 line 3129, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C1191 line 3546, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005DD2EE line 5817, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D9AB1 line 4616, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000004B781B line 417, column 5 of include/customform.inc in /usr/bin/doublecmd
+  $00000000004BCF0E line 2333, column 3 of include/customform.inc in /usr/bin/doublecmd
+  $0000000000A770F7 line 525, column 5 of fviewer.pas in /usr/bin/doublecmd
+  $00000000009BDC57 line 230, column 7 of uformcommands.pas in /usr/bin/doublecmd
+
+--------------- 28-03-2023, 23:26:48 ---------------
+| DC v1.0.10 Rev. 239 -- x86_64-Linux-qt5
+| CachyOS -- Qt 5.15.8, libQt5Pas 5.6.1 | PID 132529
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $0000000000899E20 line 466, column 20 of ufile.pas in /usr/bin/doublecmd
+
+--------------- 07-04-2023, 11:32:02 ---------------
+| DC v1.0.10 Rev. 239 -- x86_64-Linux-qt5
+| CachyOS -- Qt 5.15.8, libQt5Pas 5.6.1 | PID 19152
+Unhandled exception: ELayoutException: Position range overflow in Status.SendMoveSizeMessages: Left=0, Top=65473.
+  Stack trace:
+  $00000000005C2EAE line 4354, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005CF93F line 759, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005DC96E line 5550, column 3 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C0067 line 3045, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF6BC line 3158, column 27 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005BF17B line 3233, column 11 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000004B45A3 line 102, column 44 of include/scrollingwincontrol.inc in /usr/bin/doublecmd
+  $00000000005C7D32 line 6449, column 5 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005D5396 line 3079, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D50E4 line 3129, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005C1191 line 3546, column 7 of include/wincontrol.inc in /usr/bin/doublecmd
+  $00000000005DD2EE line 5817, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000005D9AB1 line 4616, column 7 of include/control.inc in /usr/bin/doublecmd
+  $00000000004B781B line 417, column 5 of include/customform.inc in /usr/bin/doublecmd
+  $00000000004BCF0E line 2333, column 3 of include/customform.inc in /usr/bin/doublecmd
+  $0000000000A770F7 line 525, column 5 of fviewer.pas in /usr/bin/doublecmd
+  $00000000009BDC57 line 230, column 7 of uformcommands.pas in /usr/bin/doublecmd
+
