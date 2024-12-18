@@ -293,6 +293,9 @@ alias nvchad='NVIM_APPNAME=nvim-nvchad nvim' # NvChad
 alias astrovim='NVIM_APPNAME=nvim-astrovim nvim' # AstroVim
 alias lunarvim='lvim' # LunarVim
 #
+# Neovide - No Nonsense Neovim Client in Rust
+# # Switching Configs in Neovide
+alias neovide-astrovim='NVIM_APPNAME=nvim-astrovim neovide' # Neovide-AstroVim
 ## End user aliases
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -

@@ -3,6 +3,24 @@
   <History>
     <Navigation>
       <Item>/home/scyth1an/Projects/</Item>
+      <Item>/home/scyth1an/Projects/dotfiles/</Item>
+      <Item>/home/scyth1an/Projects/dotfiles/.config/</Item>
+      <Item>/home/scyth1an/Projects/dotfiles/.config/zsh/</Item>
+      <Item>/home/scyth1an/Projects/dotfiles/.config/tree-sitter/</Item>
+      <Item>/home/scyth1an/.config/</Item>
+      <Item>/home/scyth1an/Projects/dotfiles/.config/thefuck/</Item>
+      <Item>/home/scyth1an/.config/thefuck/</Item>
+      <Item>/home/scyth1an/.config/thefuck/__pycache__/</Item>
+      <Item>/home/scyth1an/Projects/dotfiles/.config/thefuck/__pycache__/</Item>
+      <Item>/home/scyth1an/.config/thefuck/rules/</Item>
+      <Item>/home/scyth1an/.config/kitty/</Item>
+      <Item>/home/scyth1an/Projects/dotfiles/.config/kitty/</Item>
+      <Item>/home/scyth1an/Projects/dotfiles/.config/bottom/</Item>
+      <Item>/home/scyth1an/.config/bottom/</Item>
+      <Item>/home/scyth1an/.config/doublecmd/</Item>
+      <Item>/home/scyth1an/Projects/dotfiles/.config/doublecmd/</Item>
+      <Item>/home/scyth1an/Projects/dotfiles/.git/</Item>
+      <Item>/home/scyth1an/</Item>
       <Item>/home/scyth1an/Изображения/</Item>
       <Item>/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/</Item>
       <Item>/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Базы данных в Python/</Item>
@@ -18,7 +36,6 @@
       <Item>/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Функциональное программирование на Python/</Item>
       <Item>/</Item>
       <Item>/home/</Item>
-      <Item>/home/scyth1an/</Item>
       <Item>/home/scyth1an/Рабочий стол/</Item>
       <Item>/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/*args и **kwargs в Python/</Item>
       <Item>/home/scyth1an/Видео/Компьютер/Разработка/Программирование/Языки программирования/Python/</Item>
@@ -36,22 +53,6 @@
       <Item>/home/scyth1an/Документы/Библиотека/Художественная литература/</Item>
       <Item>/home/scyth1an/Документы/Библиотека/</Item>
       <Item>/home/scyth1an/Документы/Библиотека-добавление/</Item>
-      <Item>/home/scyth1an/Документы/Библиотека-добавление/Художественная литература/Пушкин Александр Сергеевич/Изданiе Брокгаузъ-Ефрона (6т)/</Item>
-      <Item>/home/scyth1an/Документы/Библиотека/Художественная литература/Пушкин Александр Сергеевич/Изданiе Брокгаузъ-Ефрона (6т)/</Item>
-      <Item>/home/scyth1an/Документы/Библиотека/Художественная литература/Пушкин Александр Сергеевич/</Item>
-      <Item>/home/scyth1an/Документы/Библиотека-добавление/Художественная литература/Пушкин Александр Сергеевич/</Item>
-      <Item>/home/scyth1an/Документы/Библиотека/Техника/</Item>
-      <Item>/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/</Item>
-      <Item>/home/scyth1an/Документы/Библиотека/Техника/Военная техника и вооружение/</Item>
-      <Item>/home/scyth1an/Документы/Библиотека/Техника/Военная техника и вооружение/Ракетная техника/</Item>
-      <Item>/home/scyth1an/Документы/Библиотека/Техника/Компьютер/</Item>
-      <Item>/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Ракетная техника/</Item>
-      <Item>/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/</Item>
-      <Item>/home/scyth1an/Документы/Библиотека-добавление/Техническая литература/Компьютер/Системная инженерия/</Item>
-      <Item>/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Системная инженерия/</Item>
-      <Item>/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Разработка/</Item>
-      <Item>/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Разработка/DevOps/</Item>
-      <Item>/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Разработка/_Умственный труд/</Item>
     </Navigation>
     <CommandLine/>
     <FileMask>
