@@ -360,6 +360,7 @@ autoload -Uz compinit && compinit
 ## Added PATH
 # ~/.local/bin
 export PATH=~/.local/bin:$PATH
+#
 # cargo
 export PATH=~/.cargo/bin:$PATH
 #

@@ -5,9 +5,9 @@ return {
 
         opts.statusline = { -- statusline
             hl = {
-            fg = "fg",
-            bg = "bg",
-        },
+                fg = "fg",
+                bg = "bg",
+            },
             status.component.mode({
                 mode_text = {
                     padding = { left = 1, right = 1 },

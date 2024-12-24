@@ -16,13 +16,17 @@ return {
     { import = "astrocommunity.pack.markdown" },
     -- Editing support
     { import = "astrocommunity.editing-support.neogen" },
+    -- Taking notes
+    { import = "astrocommunity.note-taking.zk-nvim" },
+
+    -- Bars and lines
+    { import = "astrocommunity.bars-and-lines.bufferline-nvim" },
+    -- { import = "astrocommunity.bars-and-lines.dropbar-nvim" },
+
     -- Colorscheme/Theme
     { import = "astrocommunity.recipes.cache-colorscheme" },
     { import = "astrocommunity.colorscheme.night-owl-nvim" },
     { import = "astrocommunity.colorscheme.catppuccin" },
-    -- Bars and lines
-    { import = "astrocommunity.bars-and-lines.bufferline-nvim" },
-    -- { import = "astrocommunity.bars-and-lines.dropbar-nvim" },
 
     -- import/override with your plugins folder
 }
