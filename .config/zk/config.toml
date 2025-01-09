@@ -2,6 +2,8 @@
 [notebook]
 dir = "$HOME/.DB/zk"
 
+# -----
+
 # NOTE SETTINGS
 [note]
 
@@ -29,43 +31,70 @@ template = "default.md"
 id-charset = "alphanum"
 
 # Length of the generated IDs.
-id-length = 4
+id-length = 8
 
 # Letter case for the random IDs.
 id-case = "lower"
 
+# -----
 
 # EXTRA VARIABLES
 [extra]
 author = "vasil4enko-vs"
 
+# -----
 
 # GROUP OVERRIDES
-[group.standup]
-paths = ["notes/standup"]
-
-[group.standup.note]
+[group.notes]
+paths = ["notes"]
 filename = "{{format-date now '%Y-%m-%d'}}-{{slug title}}-{{id}}"
 extension = "md"
-template = "standup.md"
+template = "default.md"
+
+[group.notes.extra]
+author = "vasil4enko-vs"
+
+
+[group.wiki]
+paths = ["wiki"]
+filename = "{{format-date now '%Y-%m-%d'}}-{{slug title}}-{{id}}"
+extension = "md"
+template = "default.md"
+
+[group.wiki.extra]
+author = "vasil4enko-vs"
+
+
+[group.ideas]
+paths = ["ideas"]
+filename = "{{format-date now '%Y-%m-%d'}}-{{slug title}}-{{id}}"
+extension = "md"
+template = "default.md"
+
+[group.ideas.extra]
+author = "vasil4enko-vs"
+
+
+[group.tasks]
+paths = ["tasks"]
+filename = "{{format-date now '%Y-%m-%d'}}-{{slug title}}-{{id}}"
+extension = "md"
+template = "tasks.md"
+
+[group.tasks.extra]
+author = "vasil4enko-vs"
 
 
 [group.journal]
-paths = [
-  "journal/daily",
-  "journal/weekly",
-]
-
-[group.journal.daily]
-## filename = "{{format-date now}}"
 filename = "{{format-date now '%Y-%m-%d'}}-{{slug title}}-{{id}}"
 extension = "md"
+
+[group.journal.daily]
+paths = ["journal/daily"]
 template = "daily.md"
 
 [group.journal.weekly]
-## filename = "{{format-date now}}"
-filename = "{{format-date now '%Y-%m-%d'}}-{{slug title}}-{{id}}"
-extension = "md"
+paths = ["journal/weekly"]
 template = "weekly.md"
 
 [group.journal.extra]
@@ -73,30 +102,15 @@ author = "vasil4enko-vs"
 
 
 [group.citations]
-paths = [
-  "citations/standup",
-  "citations/web",
-]
-
-[group.citations.standup]
+paths = ["citations"]
 filename = "{{format-date now '%Y-%m-%d'}}-{{slug title}}-{{id}}"
 extension = "md"
-template = "citations-standup.md"
+template = "citations.md"
 
-[group.citations.web]
-filename = "{{format-date now '%Y-%m-%d'}}-{{slug title}}-{{id}}"
-extension = "md"
-template = "citations-web.md"
+[group.citations.extra]
+author = "vasil4enko-vs"
 
-
-[group.youtube]
-paths = ["youtube/notes"]
-
-[group.youtube.note]
-filename = "{{format-date now '%Y-%m-%d'}}-{{slug title}}-{{id}}"
-extension = "md"
-template = "youtube.md"
-
+# -----
 
 # MARKDOWN SETTINGS
 [format.markdown]
@@ -105,6 +119,7 @@ hashtags = true
 # Enable support for :colon:separated:tags:
 colon-tags = true
 
+# -----
 
 # EXTERNAL TOOLS
 [tool]
@@ -121,15 +136,17 @@ pager = "less -FIRX"
 # Command used to preview a note during interactive fzf mode.
 fzf-preview = "bat -p --color always {-1}"
 
+# -----
 
 # NAMED FILTERS
 [filter]
 recents = "--sort created- --created-after 'last two weeks'"
 
+# -----
 
 # COMMAND ALIASES
 [alias]
-
+# General aliases
 # Edit the last modified note.
 edlast = "zk edit --limit 1 --sort modified- $@"
 
@@ -138,35 +155,65 @@ recent = "zk edit --sort created- --created-after 'last two weeks' --interactive
 
 # Show a random note.
 lucky = "zk list --quiet --format full --sort random --limit 1"
+
 # list notes for editing
 ls = "zk edit --interactive"
 
 # sear notes by tags
-t = "zk edit --interactive --tag $argv"
+# t = "zk edit --interactive --tag $argv"
+t = 'zk edit --interactive --tag "$*"'
 
 # Edit the configuration file
 conf = '$EDITOR "$HOME/.config/zk/config.toml"'
 
-# new journal entry
-daily = 'zk new --no-input "$ZK_NOTEBOOK_DIR/journal/daily"'
-weekly = 'zk new --no-input "$ZK_NOTEBOOK_DIR/journal/weekly"'
 
-
+# New entrys
 # new note
-ne = 'zk new --no-input "$ZK_NOTEBOOK_DIR/ideas" --title $argv'
+nnote = 'zk new --no-input "$ZK_NOTEBOOK_DIR/notes" --title "$*"'
 
-# new youtube note
-ney = 'zk new --no-input "$ZK_NOTEBOOK_DIR/ideas" --group youtube --title $argv'
+# new wiki entry
+nwiki = 'zk new --no-input "$ZK_NOTEBOOK_DIR/wiki" --title "$*"'
 
-# new standup entry
-standup = 'zk new --no-input "$ZK_NOTEBOOK_DIR/standup"'
+# new idea
+nidea = 'zk new --no-input "$ZK_NOTEBOOK_DIR/ideas" --title "$*"'
 
-# list standup
-ls-standup = 'zk edit "$ZK_NOTEBOOK_DIR/Standup" --sort created- --interactive'
+# new task
+ntask = 'zk new --no-input "$ZK_NOTEBOOK_DIR/tasks" --title "$*"'
 
-journal = "zk edit --sort created- $ZK_NOTEBOOK_DIR/journal --interactive"
+# new journal entry
+ndaily = 'zk new --no-input "$ZK_NOTEBOOK_DIR/journal/daily" --title "$*"'
+nweekly = 'zk new --no-input "$ZK_NOTEBOOK_DIR/journal/weekly --title "$*"'
 
-ideas = "zk edit --sort created- $ZK_NOTEBOOK_DIR/ideas --interactive"
+# new citation
+ncitation = 'zk new --no-input "$ZK_NOTEBOOK_DIR/citations" --title "$*"'
+
+
+# Edit entrys
+
+# list notes
+notes = 'zk edit "$ZK_NOTEBOOK_DIR/notes" --sort created- --interactive'
+
+# list wiki
+wiki = 'zk edit "$ZK_NOTEBOOK_DIR/wiki" --sort created- --interactive'
+
+# list ideas
+ideas = 'zk edit "$ZK_NOTEBOOK_DIR/ideas" --sort created- --interactive'
+
+# list tasks
+tasks = 'zk edit "$ZK_NOTEBOOK_DIR/tasks" --sort created- --interactive'
+
+# list journal
+journal = 'zk edit "$ZK_NOTEBOOK_DIR/journal" --sort created- --interactive'
+
+# list daily
+daily = 'zk edit "$ZK_NOTEBOOK_DIR/journal/daily" --sort created- --interactive'
+
+# list weekly
+weekly = 'zk edit "$ZK_NOTEBOOK_DIR/journal/weekly" --sort created- --interactive'
+
+# list citations
+citations = 'zk edit "$ZK_NOTEBOOK_DIR/citations" --sort created- --interactive'
+
 
 # update zk notes
 update = "cd $ZK_NOTEBOOK_DIR; git add -A; git commit -am 'updating'; git push; cd -"
@@ -174,9 +221,7 @@ update = "cd $ZK_NOTEBOOK_DIR; git add -A; git commit -am 'updating'; git push; 
 # remove a files
 rm = "zk list --interactive --quiet --format path --delimiter0 $argv | xargs -0 rm -vf --"
 
-# open last zk in slides
-slides = "zk list --interactive --quiet --format path --delimiter0 $argv | xargs -0 slides"
-
+# -----
 
 # LSP (EDITOR INTEGRATION)
 [lsp]
