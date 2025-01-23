@@ -272,6 +272,8 @@ alias cat="bat"
 # duf - Disk Usage/Free Utility - a better 'df' alternative
 alias df="duf"
 #
+# dust - A more intuitive version of du in Rust
+alias du="dust"
 # tldr - Collaborative cheatsheets for console commands ('man' alternative)
 alias man="tldr"
 #
@@ -285,12 +287,14 @@ alias vk='NVIM_APPNAME=nvim-kickstart nvim' # kickstart.nvim
 alias vz='NVIM_APPNAME=nvim-lazyvim nvim' # LazyVim
 alias vc='NVIM_APPNAME=nvim-nvchad nvim' # NvChad
 alias va='NVIM_APPNAME=nvim-astrovim nvim' # AstroVim
+alias vn='NVIM_APPNAME=nvim-normalnvim nvim' # NormalNvim
 alias vl='lvim' # LunarVim
 #
-alias lazyvim='NVIM_APPNAME=nvim-kickstart nvim' # kickstart.nvim
+alias kickstart='NVIM_APPNAME=nvim-kickstart nvim' # kickstart.nvim
 alias lazyvim='NVIM_APPNAME=nvim-lazyvim nvim' # LazyVim
 alias nvchad='NVIM_APPNAME=nvim-nvchad nvim' # NvChad
 alias astrovim='NVIM_APPNAME=nvim-astrovim nvim' # AstroVim
+alias normalnvim='NVIM_APPNAME=nvim-normalnvim nvim' # NormalNvim
 alias lunarvim='lvim' # LunarVim
 #
 # Neovide - No Nonsense Neovim Client in Rust
@@ -353,9 +357,13 @@ export FZF_CTRL_T_OPTS="
 ## zoxide
 eval "$(zoxide init zsh)"
 #
-## ruff, uv
+## ruff
 fpath+=~/.zfunc
 autoload -Uz compinit && compinit
+## uv
+eval "$(uv generate-shell-completion zsh)"
+## uvx
+eval "$(uvx --generate-shell-completion zsh)"
 #
 ## Added PATH
 # ~/.local/bin
