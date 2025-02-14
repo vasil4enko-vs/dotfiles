@@ -142,6 +142,6 @@ select_flags=6
 
 [Panelize]
 Найти оригиналы (*.orig) после команды patch=find . -name \\*.orig -print
-Изменённые файлы под контролем git=git ls-files --modified
 Найти программы с установленными битами SUID/SGID=find . \\( \\( -perm -04000 -a -perm /011 \\) -o \\( -perm -02000 -a -perm /01 \\) \\) -print
 Найти корректуры, отвергнутые командой patch=find . -name \\*.rej -print
+Изменённые файлы под контролем git=git ls-files --modified
