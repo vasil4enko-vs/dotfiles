@@ -17,10 +17,3 @@ end
 
 require "lazy_setup"
 require "polish"
-
--- -- -- -- --
-
--- My custom settings
--- Display simbols EOL
-vim.opt.list = true
-vim.opt.listchars = "eol:↪,tab:› ,trail:·,extends:»,precedes:«"
