@@ -7,8 +7,7 @@
 ---@type LazySpec
 return {
   "AstroNvim/astrocommunity",
-  -- import/override with your plugins folder
-  -- Language Pack
+  -- Support for programming languages
   { import = "astrocommunity.pack.lua" }, -- Lua
   { import = "astrocommunity.pack.bash" }, -- Bash
   { import = "astrocommunity.pack.python-ruff" }, -- Python
@@ -41,4 +40,6 @@ return {
   -- Colorscheme/Theme
   { import = "astrocommunity.recipes.cache-colorscheme" }, -- Cache Colorscheme
   { import = "astrocommunity.colorscheme.catppuccin" }, -- Catppuccin
+
+  -- import/override with your plugins folder
 }
