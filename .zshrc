@@ -140,7 +140,7 @@ COMPLETION_WAITING_DOTS="true"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(colorize sudo git fzf extract gh gitignore npm docker docker-compose)
+plugins=(colorize docker docker-compose extract fzf gh git gitignore npm sudo z zsh-vi-mode)
 #
 ### End lines carried over from /usr/share/oh-my-zsh/zshrc
 
