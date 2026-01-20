@@ -1,0 +1,232 @@
+# NOTEBOOK SETTINGS
+[notebook]
+dir = "$HOME/.DB/zk"
+
+# -----
+
+# NOTE SETTINGS
+[note]
+
+# Language used when writing notes.
+# This is used to generate slugs or with date formats.
+language = "ru"
+
+# The default title used for new note, if no `--title` flag is provided.
+default-title = "Без названия"
+
+# Template used to generate a note's filename, without extension.
+filename = "{{format-date now '%Y-%m-%d-%H-%M'}}-{{slug title}}-{{id}}"
+
+# The file extension used for the notes.
+extension = "md"
+
+# Template used to generate a note's content.
+# If not an absolute path, it is relative to .zk/templates/
+template = "default.md"
+
+# Configure random ID generation.
+
+# The charset used for random IDs.
+id-charset = "alphanum"
+
+# Length of the generated IDs.
+id-length = 8
+
+# Letter case for the random IDs.
+id-case = "lower"
+
+# -----
+
+# EXTRA VARIABLES
+[extra]
+author = "vasil4enko-vs"
+
+# -----
+
+# GROUP OVERRIDES
+[group.notes]
+paths = ["notes"]
+filename = "{{format-date now '%Y-%m-%d'}}-{{slug title}}-{{id}}"
+extension = "md"
+template = "default.md"
+
+[group.notes.extra]
+author = "vasil4enko-vs"
+
+
+[group.wiki]
+paths = ["wiki"]
+filename = "{{format-date now '%Y-%m-%d'}}-{{slug title}}-{{id}}"
+extension = "md"
+template = "default.md"
+
+[group.wiki.extra]
+author = "vasil4enko-vs"
+
+
+[group.ideas]
+paths = ["ideas"]
+filename = "{{format-date now '%Y-%m-%d'}}-{{slug title}}-{{id}}"
+extension = "md"
+template = "default.md"
+
+[group.ideas.extra]
+author = "vasil4enko-vs"
+
+
+[group.tasks]
+paths = ["tasks"]
+filename = "{{format-date now '%Y-%m-%d'}}-{{slug title}}-{{id}}"
+extension = "md"
+template = "tasks.md"
+
+[group.tasks.extra]
+author = "vasil4enko-vs"
+
+
+[group.journal]
+filename = "{{format-date now '%Y-%m-%d'}}-{{slug title}}-{{id}}"
+extension = "md"
+
+[group.journal.daily]
+paths = ["journal/daily"]
+template = "daily.md"
+
+[group.journal.weekly]
+paths = ["journal/weekly"]
+template = "weekly.md"
+
+[group.journal.extra]
+author = "vasil4enko-vs"
+
+
+[group.citations]
+paths = ["citations"]
+filename = "{{format-date now '%Y-%m-%d'}}-{{slug title}}-{{id}}"
+extension = "md"
+template = "citations.md"
+
+[group.citations.extra]
+author = "vasil4enko-vs"
+
+# -----
+
+# MARKDOWN SETTINGS
+[format.markdown]
+# Enable support for #hashtags
+hashtags = true
+# Enable support for :colon:separated:tags:
+colon-tags = true
+
+# -----
+
+# EXTERNAL TOOLS
+[tool]
+
+# Default editor used to open notes.
+editor = "nvim"
+
+# Default shell used by aliases and commands.
+shell = "/bin/zsh"
+
+# Pager used to scroll through long output.
+pager = "less -FIRX"
+
+# Command used to preview a note during interactive fzf mode.
+fzf-preview = "bat -p --color always {-1}"
+
+# -----
+
+# NAMED FILTERS
+[filter]
+recents = "--sort created- --created-after 'last two weeks'"
+
+# -----
+
+# COMMAND ALIASES
+[alias]
+# General aliases
+# Edit the last modified note.
+edlast = "zk edit --limit 1 --sort modified- $@"
+
+# Edit the notes selected interactively among the notes created the last two weeks.
+recent = "zk edit --sort created- --created-after 'last two weeks' --interactive"
+
+# Show a random note.
+lucky = "zk list --quiet --format full --sort random --limit 1"
+
+# list notes for editing
+ls = "zk edit --interactive"
+
+# sear notes by tags
+# t = "zk edit --interactive --tag $argv"
+t = 'zk edit --interactive --tag "$*"'
+
+# Edit the configuration file
+conf = '$EDITOR "$HOME/.config/zk/config.toml"'
+
+
+# New entrys
+# new note
+nnote = 'zk new --no-input "$ZK_NOTEBOOK_DIR/notes" --title "$*"'
+
+# new wiki entry
+nwiki = 'zk new --no-input "$ZK_NOTEBOOK_DIR/wiki" --title "$*"'
+
+# new idea
+nidea = 'zk new --no-input "$ZK_NOTEBOOK_DIR/ideas" --title "$*"'
+
+# new task
+ntask = 'zk new --no-input "$ZK_NOTEBOOK_DIR/tasks" --title "$*"'
+
+# new journal entry
+ndaily = 'zk new --no-input "$ZK_NOTEBOOK_DIR/journal/daily" --title "$*"'
+nweekly = 'zk new --no-input "$ZK_NOTEBOOK_DIR/journal/weekly --title "$*"'
+
+# new citation
+ncitation = 'zk new --no-input "$ZK_NOTEBOOK_DIR/citations" --title "$*"'
+
+
+# Edit entrys
+
+# list notes
+notes = 'zk edit "$ZK_NOTEBOOK_DIR/notes" --sort created- --interactive'
+
+# list wiki
+wiki = 'zk edit "$ZK_NOTEBOOK_DIR/wiki" --sort created- --interactive'
+
+# list ideas
+ideas = 'zk edit "$ZK_NOTEBOOK_DIR/ideas" --sort created- --interactive'
+
+# list tasks
+tasks = 'zk edit "$ZK_NOTEBOOK_DIR/tasks" --sort created- --interactive'
+
+# list journal
+journal = 'zk edit "$ZK_NOTEBOOK_DIR/journal" --sort created- --interactive'
+
+# list daily
+daily = 'zk edit "$ZK_NOTEBOOK_DIR/journal/daily" --sort created- --interactive'
+
+# list weekly
+weekly = 'zk edit "$ZK_NOTEBOOK_DIR/journal/weekly" --sort created- --interactive'
+
+# list citations
+citations = 'zk edit "$ZK_NOTEBOOK_DIR/citations" --sort created- --interactive'
+
+
+# update zk notes
+update = "cd $ZK_NOTEBOOK_DIR; git add -A; git commit -am 'updating'; git push; cd -"
+
+# remove a files
+rm = "zk list --interactive --quiet --format path --delimiter0 $argv | xargs -0 rm -vf --"
+
+# -----
+
+# LSP (EDITOR INTEGRATION)
+[lsp]
+
+[lsp.diagnostics]
+# Report titles of wiki-links as hints.
+wiki-title = "hint"
+# Warn for dead links between notes.
+dead-link = "error"

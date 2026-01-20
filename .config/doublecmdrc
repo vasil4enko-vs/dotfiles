@@ -1,0 +1,8 @@
+[FileDialogSize]
+1920x1080 screen: Height=686
+1920x1080 screen: Width=1068
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=32
+detailViewIconSize=32

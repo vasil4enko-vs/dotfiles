@@ -1,0 +1,93 @@
+# `sheldon` configuration file
+# ----------------------------
+#
+# You can modify this file directly or you can use one of the following
+# `sheldon` commands which are provided to assist in editing the config file:
+#
+# - `sheldon add` to add a new plugin to the config file
+# - `sheldon edit` to open up the config file in the default editor
+# - `sheldon remove` to remove a plugin from the config file
+#
+# See the documentation for more https://github.com/rossmacarthur/sheldon#readme
+#
+# ----------------------------------------------------------------------
+#
+### Shell
+shell = "zsh"
+#
+# ----------------------------------------------------------------------
+#
+### Plugins
+[plugins]
+
+# For example:
+# [plugins.base16]
+# github = "chriskempson/base16-shell"
+
+[plugins.zsh-vi-mode]
+github = "jeffreytse/zsh-vi-mode"
+
+[plugins.fzf-tab]
+github = "Aloxaf/fzf-tab"
+
+[plugins.zsh-autosuggestions]
+github = "zsh-users/zsh-autosuggestions"
+use = ["{{ name }}.zsh"]
+
+# ----------------------------
+# Deferred loading of plugins in Zsh
+#
+[plugins.zsh-defer]
+github = "romkatv/zsh-defer"
+
+[templates]
+defer = "{{ hooks?.pre | nl }}{% for file in files %}zsh-defer source \"{{ file }}\"\n{% endfor %}{{ hooks?.post | nl }}"
+# ----------------------------
+
+[plugins.colorize]
+local = "/usr/share/oh-my-zsh/plugins/colorize"
+apply = ["defer"]
+
+[plugins.docker]
+local = "/usr/share/oh-my-zsh/plugins/docker"
+apply = ["defer"]
+
+[plugins.docker-compose]
+local = "/usr/share/oh-my-zsh/plugins/docker-compose"
+apply = ["defer"]
+
+[plugins.extract]
+local = "/usr/share/oh-my-zsh/plugins/extract/"
+apply = ["defer"]
+
+[plugins.eza]
+local = "/usr/share/oh-my-zsh/plugins/eza"
+apply = ["defer"]
+
+[plugins.fast-syntax-highlighting]
+github = "zdharma-continuum/fast-syntax-highlighting"
+apply = ["defer"]
+
+[plugins.fzf]
+local = "/usr/share/oh-my-zsh/plugins/fzf"
+apply = ["defer"]
+
+[plugins.gh]
+local = "/usr/share/oh-my-zsh/plugins/gh"
+apply = ["defer"]
+
+[plugins.gitfast]
+local = "/usr/share/oh-my-zsh/plugins/gitfast"
+apply = ["defer"]
+
+[plugins.gitignore]
+local = "/usr/share/oh-my-zsh/plugins/gitignore"
+apply = ["defer"]
+
+[plugins.npm]
+local = "/usr/share/oh-my-zsh/plugins/npm"
+apply = ["defer"]
+
+[plugins.sudo]
+local = "/usr/share/oh-my-zsh/plugins/sudo"
+apply = ["defer"]

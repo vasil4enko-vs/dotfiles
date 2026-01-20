@@ -1,0 +1,14 @@
+current_playlist=0
+playlist=Список
+current=0
+file=/home/scyth1an/Музыка/Наши Исполнители/Майк Науменко и группа Зоопарк/CD/1978–2021 - Дискография (45 изданий на 57 CD)/2. Концертные записи/1980 - Майк и Аквариум - 25 октября 1980 Москва/1980 - Майк и Аквариум - 25 октября 1980 Москва [2010, В 271]/Майк и Аквариум - 25 октября 1980 Москва.flac
+genre=Rock
+year=1980
+bitrate=776
+bits_per_sample=16
+channels=2
+decoder=flac
+file_size=461386126
+format_name=FLAC
+samplerate=44100
+duration=4752826

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doublecmd>
+  <History>
+    <Navigation>
+      <Item>/home/scyth1an/Загрузки/___Backup/Мой компьютер/My_HOME/scyth1an.NEW/</Item>
+      <Item>/home/scyth1an/</Item>
+      <Item>/home/scyth1an/.local/</Item>
+      <Item>/home/scyth1an/.local/state/</Item>
+      <Item>/home/scyth1an/Загрузки/___Backup/Мой компьютер/My_HOME/scyth1an.NEW/.local/</Item>
+      <Item>/home/scyth1an/.local/share/</Item>
+      <Item>/home/scyth1an/.local/share/sourcery/</Item>
+      <Item>/home/scyth1an/.local/share/neovide/</Item>
+      <Item>/home/scyth1an/.local/share/mc/</Item>
+      <Item>/home/scyth1an/.local/share/ktorrent/</Item>
+      <Item>/home/scyth1an/.local/share/ktorrent/tor7/</Item>
+      <Item>/home/scyth1an/.local/share/kscreen/</Item>
+      <Item>/home/scyth1an/.local/share/kscreen/outputs/</Item>
+      <Item>/home/scyth1an/.local/share/konsole/</Item>
+      <Item>/home/scyth1an/.local/share/kmail2/</Item>
+      <Item>/home/scyth1an/.local/share/klipper/</Item>
+      <Item>/home/scyth1an/.local/share/khelpcenter/</Item>
+      <Item>/home/scyth1an/.local/share/keyrings/</Item>
+      <Item>/home/scyth1an/.local/share/kdenlive/</Item>
+      <Item>/home/scyth1an/.local/share/kdenlive/titles/</Item>
+      <Item>/home/scyth1an/.local/share/kdenlive/profiles/</Item>
+      <Item>/home/scyth1an/.local/share/kdenlive/library/</Item>
+      <Item>/home/scyth1an/.local/share/kdenlive/.backup/</Item>
+      <Item>/home/scyth1an/.local/share/kate/</Item>
+      <Item>/home/scyth1an/.local/share/kate/sessions/</Item>
+      <Item>/home/scyth1an/.local/share/kactivitymanagerd/</Item>
+      <Item>/home/scyth1an/.local/share/kactivitymanagerd/resources/</Item>
+      <Item>/home/scyth1an/.local/share/inxi/</Item>
+      <Item>/home/scyth1an/.local/share/icons/</Item>
+      <Item>/home/scyth1an/.local/share/icons/vvs-icons/</Item>
+      <Item>/home/scyth1an/.local/share/haruna/</Item>
+      <Item>/home/scyth1an/.local/share/gwenview/</Item>
+      <Item>/home/scyth1an/.local/share/gwenview/recentfolders/</Item>
+      <Item>/home/scyth1an/.local/share/gvfs-metadata/</Item>
+      <Item>/home/scyth1an/.local/share/gravatar/</Item>
+      <Item>/home/scyth1an/.local/share/desktop-directories/</Item>
+      <Item>/home/scyth1an/.local/share/deno/</Item>
+      <Item>/home/scyth1an/.local/share/contacts/</Item>
+      <Item>/home/scyth1an/.local/share/color-schemes/</Item>
+      <Item>/home/scyth1an/.local/share/calibre-ebook.com/</Item>
+      <Item>/home/scyth1an/.local/share/calibre-ebook.com/calibre/</Item>
+      <Item>/home/scyth1an/.local/share/baloo/</Item>
+      <Item>/home/scyth1an/.local/share/ark/</Item>
+      <Item>/home/scyth1an/.local/share/apps/</Item>
+      <Item>/home/scyth1an/.local/share/apps/korganizer/</Item>
+      <Item>/home/scyth1an/Загрузки/___Backup/Мой компьютер/My_HOME/scyth1an.NEW/.local/share/</Item>
+      <Item>/home/scyth1an/.local/lib/</Item>
+      <Item>/home/scyth1an/.local/bin/</Item>
+      <Item>/home/scyth1an/.local/lib/fooyin/</Item>
+      <Item>/home/scyth1an/.local/lib/fooyin/plugins/</Item>
+      <Item>/home/scyth1an/.local/bin/HMS/</Item>
+    </Navigation>
+    <CommandLine/>
+    <FileMask>
+      <Item>*.*</Item>
+    </FileMask>
+    <VolumeSize/>
+    <CreateDirectories>
+      <Item Tag="0">share</Item>
+      <Item Tag="0">.local</Item>
+      <Item Tag="0">Инженер Спок</Item>
+      <Item Tag="0">Полное руководство по Python3 от новичка до специалиста</Item>
+      <Item Tag="0">Python</Item>
+      <Item Tag="0">GitHub</Item>
+      <Item Tag="0">learn-python-selfedu</Item>
+      <Item Tag="0">Рашка С</Item>
+      <Item Tag="0">Прохоренок Н.А</Item>
+      <Item Tag="0">Марчук А</Item>
+      <Item Tag="0">Маккини У</Item>
+      <Item Tag="0">Коэльо Л.П., Ричарт В</Item>
+      <Item Tag="0">Копец Д</Item>
+      <Item Tag="0">Дэвидсон-Пайлон К</Item>
+      <Item Tag="0">5 - L</Item>
+      <Item Tag="0">_Разное</Item>
+      <Item Tag="0">2022.09.29</Item>
+      <Item Tag="0">.soft</Item>
+    </CreateDirectories>
+    <SearchText/>
+    <SearchTextPath/>
+    <ReplaceText/>
+    <ReplaceTextPath/>
+    <RenameNameMask/>
+    <RenameExtMask/>
+    <SearchDirectories/>
+    <SearchExcludeFiles/>
+    <SearchExcludeDirectories/>
+  </History>
+</doublecmd>

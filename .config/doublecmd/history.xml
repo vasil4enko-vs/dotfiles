@@ -2,57 +2,56 @@
 <doublecmd>
   <History>
     <Navigation>
-      <Item>/home/scyth1an/Projects/</Item>
-      <Item>/home/scyth1an/Projects/dotfiles/</Item>
-      <Item>/home/scyth1an/Projects/dotfiles/.config/</Item>
-      <Item>/home/scyth1an/Projects/dotfiles/.config/zsh/</Item>
-      <Item>/home/scyth1an/Projects/dotfiles/.config/tree-sitter/</Item>
-      <Item>/home/scyth1an/.config/</Item>
-      <Item>/home/scyth1an/Projects/dotfiles/.config/thefuck/</Item>
-      <Item>/home/scyth1an/.config/thefuck/</Item>
-      <Item>/home/scyth1an/.config/thefuck/__pycache__/</Item>
-      <Item>/home/scyth1an/Projects/dotfiles/.config/thefuck/__pycache__/</Item>
-      <Item>/home/scyth1an/.config/thefuck/rules/</Item>
-      <Item>/home/scyth1an/.config/kitty/</Item>
-      <Item>/home/scyth1an/Projects/dotfiles/.config/kitty/</Item>
-      <Item>/home/scyth1an/Projects/dotfiles/.config/bottom/</Item>
-      <Item>/home/scyth1an/.config/bottom/</Item>
-      <Item>/home/scyth1an/.config/doublecmd/</Item>
-      <Item>/home/scyth1an/Projects/dotfiles/.config/doublecmd/</Item>
-      <Item>/home/scyth1an/Projects/dotfiles/.git/</Item>
+      <Item>/home/scyth1an/Музыка/Классическая музыка/Vinyls/1980 - Sergei Prokofiev - Alexander Nevsky (Elena Obraztsova, London Symphony Chorus and Orchestra, Claudio Abbado)/</Item>
+      <Item>/home/scyth1an/Музыка/Классическая музыка/Vinyls/</Item>
+      <Item>/home/scyth1an/Музыка/Классическая музыка/Vinyls/1958 - Famous Overtures By Rossini (Eduard Van Beinum) [(G)16_44.1] {04vpk}/</Item>
+      <Item>/home/scyth1an/Музыка/Классическая музыка/Vinyls/1958 - Famous Overtures By Rossini (Eduard Van Beinum) [(G)16_44.1] {04vpk}/Cover/</Item>
+      <Item>/home/scyth1an/Музыка/Классическая музыка/Vinyls/1958 - Famous Overtures By Rossini (Eduard Van Beinum) [(G)16_44.1] {04vpk}/Cover_Discogs/</Item>
+      <Item>/home/scyth1an/Музыка/Классическая музыка/</Item>
+      <Item>/home/scyth1an/Музыка/</Item>
+      <Item>/home/scyth1an/Загрузки/Программы/Мультимедиа/Плееры/Аудио/DeaDBeeF/Плагины/</Item>
+      <Item>/home/scyth1an/Загрузки/Программы/Мультимедиа/Плееры/Аудио/DeaDBeeF/Плагины/Waveform Seekbar/</Item>
+      <Item>/home/scyth1an/Загрузки/Программы/Мультимедиа/Плееры/Аудио/DeaDBeeF/Плагины/VU Meter/</Item>
+      <Item>/home/scyth1an/Загрузки/Программы/Мультимедиа/Плееры/Аудио/DeaDBeeF/Плагины/Stereo widener/</Item>
+      <Item>/home/scyth1an/Загрузки/Программы/Мультимедиа/Плееры/Аудио/DeaDBeeF/Плагины/Status Notifier GTK3 UI/</Item>
+      <Item>/home/scyth1an/Загрузки/Программы/Мультимедиа/Плееры/Аудио/DeaDBeeF/Плагины/Spectrogram/</Item>
+      <Item>/home/scyth1an/Загрузки/Программы/Мультимедиа/Плееры/Аудио/DeaDBeeF/Плагины/Song Rating/</Item>
+      <Item>/home/scyth1an/Загрузки/Программы/Мультимедиа/Плееры/Аудио/DeaDBeeF/Плагины/Replay Gain Control GTK2 UI/</Item>
+      <Item>/home/scyth1an/Загрузки/Программы/Мультимедиа/Плееры/Аудио/DeaDBeeF/Плагины/Quick search/</Item>
+      <Item>/home/scyth1an/Загрузки/Программы/Мультимедиа/Плееры/Аудио/DeaDBeeF/Плагины/PulseAudio output plugin version 2/</Item>
+      <Item>/home/scyth1an/Загрузки/Программы/Мультимедиа/Плееры/Аудио/DeaDBeeF/Плагины/Playback Status Widget/</Item>
+      <Item>/home/scyth1an/Загрузки/Программы/Мультимедиа/Плееры/Аудио/DeaDBeeF/Плагины/Playback order menu/</Item>
+      <Item>/home/scyth1an/Загрузки/Программы/Мультимедиа/Плееры/Аудио/DeaDBeeF/Плагины/Musical Spectrum/</Item>
+      <Item>/home/scyth1an/Загрузки/Программы/Мультимедиа/Плееры/Аудио/DeaDBeeF/Плагины/MPRISv2 plugin/</Item>
+      <Item>/home/scyth1an/Загрузки/Программы/Мультимедиа/Плееры/Аудио/DeaDBeeF/Плагины/JACK output plugin/</Item>
+      <Item>/home/scyth1an/Загрузки/Программы/Мультимедиа/Плееры/Аудио/DeaDBeeF/Плагины/Headphone crossfeed (bs2b)/</Item>
+      <Item>/home/scyth1an/Загрузки/Программы/Мультимедиа/Плееры/Аудио/DeaDBeeF/Плагины/Headerbar for GTK3 UI/</Item>
+      <Item>/home/scyth1an/Загрузки/Программы/Мультимедиа/Плееры/Аудио/DeaDBeeF/Плагины/File Browser/</Item>
+      <Item>/home/scyth1an/Загрузки/Программы/Мультимедиа/Плееры/Аудио/DeaDBeeF/Плагины/Dynamic Range Meter/</Item>
+      <Item>/home/scyth1an/Загрузки/Программы/Мультимедиа/Плееры/Аудио/DeaDBeeF/Плагины/Discord Rich Presence Plugin/</Item>
+      <Item>/home/scyth1an/.local/lib/deadbeef/</Item>
+      <Item>/home/scyth1an/.local/lib/deadbeef/plugins/</Item>
+      <Item>/home/scyth1an/Загрузки/Программы/Мультимедиа/Плееры/Аудио/DeaDBeeF/Плагины/Copy info/</Item>
+      <Item>/home/scyth1an/.local/lib/</Item>
+      <Item>/home/scyth1an/.local/</Item>
+      <Item>/home/scyth1an/Загрузки/Программы/Мультимедиа/Плееры/Аудио/DeaDBeeF/</Item>
+      <Item>/home/scyth1an/Загрузки/Программы/Мультимедиа/Плееры/Аудио/</Item>
+      <Item>/home/scyth1an/Загрузки/Программы/Мультимедиа/Плееры/</Item>
+      <Item>/home/scyth1an/Загрузки/Программы/Мультимедиа/</Item>
+      <Item>/home/scyth1an/Загрузки/Программы/</Item>
+      <Item>/home/scyth1an/Загрузки/</Item>
       <Item>/home/scyth1an/</Item>
-      <Item>/home/scyth1an/Изображения/</Item>
-      <Item>/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/</Item>
-      <Item>/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Базы данных в Python/</Item>
-      <Item>/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/</Item>
-      <Item>/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/__name__ == "__main__"/t.me-Python_Community_ru/</Item>
-      <Item>/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/__name__ == "__main__"/</Item>
-      <Item>/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/__main__.py/</Item>
-      <Item>/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/__init__.py/</Item>
-      <Item>/home/scyth1an/Projects/GitHub/Python/Learn_Python/</Item>
-      <Item>/home/scyth1an/Projects/GitHub/Python/</Item>
-      <Item>/home/scyth1an/Projects/GitHub/</Item>
-      <Item>/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Функции/</Item>
-      <Item>/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Функциональное программирование на Python/</Item>
-      <Item>/</Item>
-      <Item>/home/</Item>
-      <Item>/home/scyth1an/Рабочий стол/</Item>
-      <Item>/home/scyth1an/Документы/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение - Python/*args и **kwargs в Python/</Item>
-      <Item>/home/scyth1an/Видео/Компьютер/Разработка/Программирование/Языки программирования/Python/</Item>
-      <Item>/home/scyth1an/Документы/Библиотека/Техника/Компьютер/Разработка/Программирование/Языки программирования/Python/</Item>
-      <Item>/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/Arch Linux/</Item>
-      <Item>/home/scyth1an/Документы/Компьютер/Операционные системы/Linux/Дистрибутивы Linux/Arch Linux &amp; Co/</Item>
-      <Item>/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Arch Linux &amp; Co/CachyOS/</Item>
-      <Item>/home/scyth1an/Шаблоны/Мой компьютер/Дистрибутивы Linux/Arch Linux &amp; Co/</Item>
-      <Item>/run/</Item>
-      <Item>/home/scyth1an/Видео/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение Python/</Item>
-      <Item>/home/scyth1an/Видео/Компьютер/Разработка/Программирование/Языки программирования/Python/Изучение Python/Основы программирования на Python 3 (2021)/</Item>
-      <Item>/home/scyth1an/Документы/Библиотека-добавление/Художественная литература/Семенова Мария/</Item>
-      <Item>/home/scyth1an/Документы/Библиотека/Художественная литература/Семенова Мария/</Item>
-      <Item>/home/scyth1an/Документы/Библиотека-добавление/Художественная литература/</Item>
-      <Item>/home/scyth1an/Документы/Библиотека/Художественная литература/</Item>
-      <Item>/home/scyth1an/Документы/Библиотека/</Item>
-      <Item>/home/scyth1an/Документы/Библиотека-добавление/</Item>
+      <Item>/home/scyth1an/.config/deadbeef/</Item>
+      <Item>/home/scyth1an/.config/</Item>
+      <Item>/home/scyth1an/Games/</Item>
+      <Item>/home/scyth1an/Шаблоны/</Item>
+      <Item>/home/scyth1an/Загрузки/Операционные системы/Linux/Arch Linux &amp; Co/EndeavourOS/</Item>
+      <Item>/home/scyth1an/Загрузки/Операционные системы/Linux/Arch Linux &amp; Co/</Item>
+      <Item>/home/scyth1an/Загрузки/Операционные системы/Linux/Arch Linux &amp; Co/CachyOS/</Item>
+      <Item>/home/scyth1an/Видео/Техника/Компьютер/Разработка/Веб-разработка/Веб-фреймворки/Фреймворки - Python/Django/</Item>
+      <Item>/home/scyth1an/Видео/Техника/Компьютер/Разработка/Программирование/Языки программирования/Python/</Item>
+      <Item>/home/scyth1an/Видео/</Item>
+      <Item>/home/scyth1an/Изображения/Фото/VVS/</Item>
     </Navigation>
     <CommandLine/>
     <FileMask>
@@ -60,6 +59,8 @@
     </FileMask>
     <VolumeSize/>
     <CreateDirectories>
+      <Item Tag="0">share</Item>
+      <Item Tag="0">.local</Item>
       <Item Tag="0">Инженер Спок</Item>
       <Item Tag="0">Полное руководство по Python3 от новичка до специалиста</Item>
       <Item Tag="0">Python</Item>

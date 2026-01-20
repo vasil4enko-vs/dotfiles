@@ -1,0 +1,11 @@
+[Audio Preview Settings]
+Autoplay=false
+
+[FileDialogSize]
+1920x1080 screen: Height=802
+1920x1080 screen: Width=1271
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=32
+detailViewIconSize=32

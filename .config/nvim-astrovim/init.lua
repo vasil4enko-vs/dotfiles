@@ -17,3 +17,17 @@ end
 
 require "lazy_setup"
 require "polish"
+
+-- Inclusion of the display of invisible symbols
+vim.opt.list = true -- Enable showing invisible characters
+vim.opt.listchars:append {
+  eol = "↲", -- Symbol for end of line
+  -- Other symbols (optional):
+  tab = "▸ ", -- Tab character
+  trail = "•", -- Trailing spaces
+  nbsp = "␣", -- Non-breaking spaces
+  -- space = "•", -- Spaces
+  extends = "<", -- The text continues behind the right border of the window
+  precedes = ">", -- The text begins to the left of the visible area
+  -- conceal = "┊", -- Symbol for hidden text (requires 'Conceallevel')
+}
