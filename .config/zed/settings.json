@@ -7,6 +7,10 @@
 // custom settings, run `zed: open default settings` from the
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
+  "session": {
+    "trust_all_worktrees": true
+  },
+  "base_keymap": "VSCode",
   "vim_mode": true,
   "buffer_line_height": "comfortable",
   "buffer_font_family": "CaskaydiaCove Nerd Font",
@@ -17,7 +21,11 @@
     },
     "model_parameters": []
   },
-  "icon_theme": "Catppuccin Mocha",
+  "icon_theme": {
+    "mode": "dark",
+    "light": "Catppuccin Mocha",
+    "dark": "Catppuccin Mocha"
+  },
   "telemetry": {
     "diagnostics": false,
     "metrics": false
@@ -25,8 +33,8 @@
   "ui_font_size": 16,
   "buffer_font_size": 16,
   "theme": {
-    "mode": "system",
-    "light": "One Light",
-    "dark": "Catppuccin Mocha (Blur) [Heavy]"
+    "mode": "dark",
+    "light": "Ayu Light",
+    "dark": "Ayu Dark"
   }
 }
