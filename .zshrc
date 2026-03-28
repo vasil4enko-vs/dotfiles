@@ -32,7 +32,7 @@ export FZF_CTRL_T_OPTS="
 #
 eval "$(sheldon source)"
 #
-### Plugin manager - sheldon
+### End Plugin manager - sheldon
 #
 # ----------------------------------------------------------------------
 #
@@ -60,6 +60,7 @@ setopt SHARE_HISTORY
 ## Don't add certain commands to the history file
 export HISTORY_IGNORE="(&|[bf]g|la|ls|pwd|cd|cd -|cd ..|z|z -|z ..|history|h|* --help|clear|c|exit|q)"
 #
+### End History for zsh
 # ----------------------------------------------------------------------
 #
 ### Use custom `less` colors for `man` pages
@@ -71,7 +72,7 @@ export LESS_TERMCAP_md
 LESS_TERMCAP_me="$(tput sgr0 2>/dev/null)"
 export LESS_TERMCAP_me
 #
-### End use custom `less` colors for `man` pages
+### End Use custom `less` colors for `man` pages
 #
 # ----------------------------------------------------------------------
 #
@@ -79,10 +80,11 @@ export LESS_TERMCAP_me
 #
 eval "$(starship init zsh)"
 #
-### End starship prompt for any shell
+### End Starship prompt for any shell
 # ----------------------------------------------------------------------
 #
 ### Using alias 'y' for Yazi and wrapper that provides the ability to change the current working directory when exiting Yazi.
+#
 function y() {
   local tmp cwd
   tmp="$(mktemp -t "yazi-cwd.XXXXXX")"
@@ -92,7 +94,24 @@ function y() {
   [ -n "$cwd" ] && [ "$cwd" != "$PWD" ] && builtin cd -- "$cwd" || exit
   rm -f -- "$tmp"
 }
-### End using alias 'y' for Yazi and wrapper that provides the ability to change the current working directory when exiting Yazi
+#
+### End Using alias 'y' for Yazi and wrapper that provides the ability to change the current working directory when exiting Yazi
+#
+# ----------------------------------------------------------------------
+#
+### zsh-patina - A blazingly fast ZSH syntax highlighter
+#
+eval "$(~/.cargo/bin/zsh-patina activate)"
+#
+### End zsh-patina - A blazingly fast ZSH syntax highlighter
+#
+# ----------------------------------------------------------------------
+#
+### Pay Respects - Command suggestions, command-not-found and thefuck replacement written in Rust
+#
+eval "$(pay-respects zsh --alias)"
+#
+### End Pay Respects - Command suggestions, command-not-found and thefuck replacement written in Rust
 #
 # ----------------------------------------------------------------------
 #
@@ -104,22 +123,14 @@ eval "$(zoxide init zsh)"
 #
 # ----------------------------------------------------------------------
 #
-### The Fuck - app, that corrects errors in previous console commands
-#
-eval "$(thefuck --alias)"
-#
-### The Fuck - app, that corrects errors in previous console commands
-#
-# ----------------------------------------------------------------------
-#
 ### Autoload:
 ## - Enable Ruff autocompletion for Zsh
 ## - Enable ripgrep (rg) autocompletion for Zsh
 #
 fpath+=~/.zfunc
-autoload -U compinit && compinit
+autoload -Uz compinit && compinit
 #
-### End autoload
+### End Autoload
 #
 # ----------------------------------------------------------------------
 #
@@ -130,7 +141,7 @@ eval "$(uv generate-shell-completion zsh)"
 ## - for uvx commands
 eval "$(uvx --generate-shell-completion zsh)"
 #
-### End enable  autocompletion for Zsh
+### End Enable  autocompletion for Zsh
 #
 # ----------------------------------------------------------------------
 #
@@ -148,7 +159,7 @@ export PATH=~/.cargo/bin:$PATH
 ## npm
 # export PATH=~/.npm-global/bin
 #
-## End added PATH
+## End Added PATH
 #
 # ----------------------------------------------------------------------
 #
@@ -184,7 +195,7 @@ alias jctl="journalctl -p 3 -xb"
 ## Recent installed packages
 alias rip="expac --timefmt='%Y-%m-%d %T' '%l\t%n %v' | sort | tail -200 | nl"
 #
-### End alias from https://github.com/CachyOS/cachyos-zsh-config - ZSH configuration for CachyOS
+### End Alias from https://github.com/CachyOS/cachyos-zsh-config - ZSH configuration for CachyOS
 #
 # ----------------------------------------------------------------------
 #
@@ -216,7 +227,7 @@ alias du="dust"
 # alias man="tldr"
 #
 ## fd - Simple, fast and user-friendly alternative to find
-alias find="fd"
+# alias find="fd"
 #
 ## Neovim - hyperextensible Vim-based text editor
 # Switching Configs in Neovim
@@ -241,7 +252,7 @@ alias nva='NVIM_APPNAME=nvim-astrovim neovide' # AstroVim
 #
 alias neovide-astrovim='NVIM_APPNAME=nvim-astrovim neovide' # Neovide-AstroVim
 #
-## End user aliases
+## End User aliases
 #
 # ----------------------------------------------------------------------
 #
@@ -253,7 +264,7 @@ sv() {
   done
 }
 #
-### End use select to list your configs so you can choose one
+### End Use select to list your configs so you can choose one
 #
 # ----------------------------------------------------------------------
 #
@@ -269,6 +280,6 @@ vv() {
   # Open Neovim with the selected config
   NVIM_APPNAME=$(basename "$config") nvim "$@"
 }
-### End use fzf to list your configs so you can choose one
+### End Use fzf to list your configs so you can choose one
 #
 ## ----------------------------------------------------------------------

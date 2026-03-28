@@ -64,10 +64,6 @@ apply = ["defer"]
 local = "/usr/share/oh-my-zsh/plugins/eza"
 apply = ["defer"]
 
-[plugins.fast-syntax-highlighting]
-github = "zdharma-continuum/fast-syntax-highlighting"
-apply = ["defer"]
-
 [plugins.fzf]
 local = "/usr/share/oh-my-zsh/plugins/fzf"
 apply = ["defer"]
